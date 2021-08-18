@@ -1,0 +1,5251 @@
+[{
+  "_id": {
+    "$oid": "60a4285404b43de405af0025"
+  },
+  "date": "01/01",
+  "lng": "fr",
+  "name": "Saint Vincent Strambi Evêque de Macerata et Tolentino",
+  "summary": "Natif de Civitavecchia (1745-1824), il devient prêtre contre l’avis de son père. Grand prédicateur, il devient évêque de Macerata. Il prend en charge la formation des séminaristes et aide les pauvres. Après avoir refusé de jurer fidélité à Napoléon, le Pape le fait venir comme conseiller à Rome."
+},{
+  "_id": {
+    "$oid": "60a4285404b43de405af0026"
+  },
+  "date": "01/01",
+  "lng": "fr",
+  "name": "Marie, Mère de Dieu",
+  "summary": "Le Concile d’Ephèse en 431 établi une vérité très chère au peuple chrétien : Marie est la véritable mère du Christ, vrai Dieu et vrai homme, une seule personne avec deux natures, sans confusion, sans changement, sans division. La maternité divine de Marie est par conséquent affirmée."
+},{
+  "_id": {
+    "$oid": "60a4285404b43de405af0027"
+  },
+  "date": "01/02",
+  "lng": "fr",
+  "name": "Saints Basile le Grand et Grégoire Nazianze, évêques et docteurs de l'Eglise",
+  "summary": "Deux saints qui  au cours de leur vie  furent liés par une profonde amitié et dont la mémoire liturgique se célèbre le même jour : Saint Basile, auquel est dédiée la cathédrale de Moscou, et Saint Grégoire de Nazianze, sont  donc fêtés le 2 janvier."
+},{
+  "_id": {
+    "$oid": "60a4285404b43de405af0028"
+  },
+  "date": "01/03",
+  "lng": "fr",
+  "name": "Saint Antère Pape",
+  "summary": "D’origine grecque, il fut Pape pendant seulement 40 jours. Il meurt en martyr en 236, sous le règne de l’empereur Maximin le Thrace pour avoir voulu conserver les actes des martyrs dans des archives. Il fut le premier pape à être inhumé dans les catacombes de Saint-Calixte. "
+},{
+  "_id": {
+    "$oid": "60a42942974c2627658cdd46"
+  },
+  "date": "01/01",
+  "lng": "fr",
+  "name": "Saint Vincent Strambi Evêque de Macerata et Tolentino"
+},{
+  "_id": {
+    "$oid": "60a42942974c2627658cdd47"
+  },
+  "date": "01/01",
+  "lng": "fr",
+  "name": "Marie, Mère de Dieu"
+},{
+  "_id": {
+    "$oid": "60a42942974c2627658cdd48"
+  },
+  "date": "01/02",
+  "lng": "fr",
+  "name": "Saints Basile le Grand et Grégoire Nazianze, évêques et docteurs de l'Eglise",
+  "summary": "Deux saints qui  au cours de leur vie  furent liés par une profonde amitié et dont la mémoire liturgique se célèbre le même jour : Saint Basile, auquel est dédiée la cathédrale de Moscou, et Saint Grégoire de Nazianze, sont  donc fêtés le 2 janvier."
+},{
+  "_id": {
+    "$oid": "60a42942974c2627658cdd49"
+  },
+  "date": "01/03",
+  "lng": "fr",
+  "name": "Saint Antère Pape"
+},{
+  "_id": {
+    "$oid": "60a42942974c2627658cdd4a"
+  },
+  "date": "01/03",
+  "lng": "fr",
+  "name": "Sainte Geneviève Vierge"
+},{
+  "_id": {
+    "$oid": "60a42942974c2627658cdd4b"
+  },
+  "date": "01/03",
+  "lng": "fr",
+  "name": "Saint Jospeh Marie Tomasi, prêtre théatin et cardinal"
+},{
+  "_id": {
+    "$oid": "60a42942974c2627658cdd4c"
+  },
+  "date": "01/03",
+  "lng": "fr",
+  "name": "Saint Télésphore, pape"
+},{
+  "_id": {
+    "$oid": "60a42943974c2627658cdd4d"
+  },
+  "date": "01/04",
+  "lng": "fr",
+  "name": "Sainte Angèle de Foligno, religieuse franciscaine",
+  "summary": "Une des plus grandes mystiques de l’histoire de l’Eglise à la spiritualité de laquelle s’inspirèrent  des géants de la foi comme Thérèse d’Avila. Sainte Angèle de  Foligno, dont on célèbre la mémoire le 4 janvier  a été canonisée par équipollence par le pape François en 2013."
+},{
+  "_id": {
+    "$oid": "60a42943974c2627658cdd4e"
+  },
+  "date": "01/04",
+  "lng": "fr",
+  "name": "Sainte Elizabeth Ann Seton Fondatrice des Sœurs de la Charité de Saint-Joseph"
+},{
+  "_id": {
+    "$oid": "60a42943974c2627658cdd4f"
+  },
+  "date": "01/05",
+  "lng": "fr",
+  "name": "Saint Edouard, Roi d’Angleterre"
+},{
+  "_id": {
+    "$oid": "60a42943974c2627658cdd50"
+  },
+  "date": "01/05",
+  "lng": "fr",
+  "name": "Saint Jean Népomucène Neumann Evêque de Philadelphie"
+},{
+  "_id": {
+    "$oid": "60a42943974c2627658cdd51"
+  },
+  "date": "01/06",
+  "lng": "fr",
+  "name": "Saint Charles de Sezze, religieux franciscain"
+},{
+  "_id": {
+    "$oid": "60a42943974c2627658cdd52"
+  },
+  "date": "01/06",
+  "lng": "fr",
+  "name": "Sainte Raphaëlle-Marie Porras Fondatrice des Ancelles du Sacré-Cœur"
+},{
+  "_id": {
+    "$oid": "60a42943974c2627658cdd53"
+  },
+  "date": "01/07",
+  "lng": "fr",
+  "name": "Saint Raymond de Penyafort, prêtre dominicain, co-fondateur des Mercédaires",
+  "summary": "Saint Raymond de Penyafort  fut  un profond connaisseur  du droit canonique : pour cela il est considéré comme protecteur des juristes. Il se dévoue à la formation des missionnaires  et comme Général des dominicains il prit soin des nombreux couvents  de l’Ordre en parcourant à pieds l’Europe."
+},{
+  "_id": {
+    "$oid": "60a42943974c2627658cdd54"
+  },
+  "date": "01/07",
+  "lng": "fr",
+  "name": "Saint Lucien d'Antioche Evêque et martyr"
+},{
+  "_id": {
+    "$oid": "60a42943974c2627658cdd55"
+  },
+  "date": "01/07",
+  "lng": "fr",
+  "name": "Saint Polyeucte Martyr à Mélitène"
+},{
+  "_id": {
+    "$oid": "60a42944974c2627658cdd56"
+  },
+  "date": "01/08",
+  "lng": "fr",
+  "name": "Saint Séverin, abbé, apôtre de Norique"
+},{
+  "_id": {
+    "$oid": "60a42944974c2627658cdd57"
+  },
+  "date": "01/08",
+  "lng": "fr",
+  "name": "Saint Laurent Justinien Premier patriarche de Venise"
+},{
+  "_id": {
+    "$oid": "60a42944974c2627658cdd58"
+  },
+  "date": "01/09",
+  "lng": "fr",
+  "name": "Bienheureux Antoine Fatati"
+},{
+  "_id": {
+    "$oid": "60a42944974c2627658cdd59"
+  },
+  "date": "01/09",
+  "lng": "fr",
+  "name": "Saint André Corsini, évêque de Fiesole"
+},{
+  "_id": {
+    "$oid": "60a42944974c2627658cdd5a"
+  },
+  "date": "01/10",
+  "lng": "fr",
+  "name": "Saint Agathon, pape"
+},{
+  "_id": {
+    "$oid": "60a42944974c2627658cdd5b"
+  },
+  "date": "01/10",
+  "lng": "fr",
+  "name": "Saint Miltiade Pape"
+},{
+  "_id": {
+    "$oid": "60a42944974c2627658cdd5c"
+  },
+  "date": "01/10",
+  "lng": "fr",
+  "name": "Bienheureux Grégoire X, pape"
+},{
+  "_id": {
+    "$oid": "60a42944974c2627658cdd5d"
+  },
+  "date": "01/11",
+  "lng": "fr",
+  "name": "Saint Hygin, pape"
+},{
+  "_id": {
+    "$oid": "60a42944974c2627658cdd5e"
+  },
+  "date": "01/11",
+  "lng": "fr",
+  "name": "Saint Pierre de Césarée, martyr"
+},{
+  "_id": {
+    "$oid": "60a42944974c2627658cdd5f"
+  },
+  "date": "01/11",
+  "lng": "fr",
+  "name": "Saint Paulin d'Aquilée Patriarche"
+},{
+  "_id": {
+    "$oid": "60a42945974c2627658cdd60"
+  },
+  "date": "01/12",
+  "lng": "fr",
+  "name": "Saint Arcade, martyr"
+},{
+  "_id": {
+    "$oid": "60a42945974c2627658cdd61"
+  },
+  "date": "01/12",
+  "lng": "fr",
+  "name": "Saint Antoine-Marie Pucci Prêtre "
+},{
+  "_id": {
+    "$oid": "60a42945974c2627658cdd62"
+  },
+  "date": "01/13",
+  "lng": "fr",
+  "name": "Saint Hilaire évêque de Poitiers et docteur de l’Eglise",
+  "summary": "Philosophe et païen lettré, de famille aisée, il se convertit au christianisme en 345. Comme évêque de Poitiers il s’oppose à l’hérésie arienne qui conteste la double nature de Jésus, divine et humaine. A cause de sa défense de  la vérité, il connaîtra aussi l’exil."
+},{
+  "_id": {
+    "$oid": "60a42945974c2627658cdd63"
+  },
+  "date": "01/13",
+  "lng": "fr",
+  "name": "Saint Remi Evêque de Reims"
+},{
+  "_id": {
+    "$oid": "60a42945974c2627658cdd64"
+  },
+  "date": "01/14",
+  "lng": "fr",
+  "name": "Saint Félix de Nole, prêtre"
+},{
+  "_id": {
+    "$oid": "60a42945974c2627658cdd65"
+  },
+  "date": "01/15",
+  "lng": "fr",
+  "name": "Saint Paul, premier ermite"
+},{
+  "_id": {
+    "$oid": "60a42945974c2627658cdd66"
+  },
+  "date": "01/15",
+  "lng": "fr",
+  "name": "Saint Maur, abbé"
+},{
+  "_id": {
+    "$oid": "60a42945974c2627658cdd67"
+  },
+  "date": "01/15",
+  "lng": "fr",
+  "name": "Saint Jean Calybite, moine"
+},{
+  "_id": {
+    "$oid": "60a42945974c2627658cdd68"
+  },
+  "date": "01/16",
+  "lng": "fr",
+  "name": "Saint Marcel 1er, pape et martyr"
+},{
+  "_id": {
+    "$oid": "60a42945974c2627658cdd69"
+  },
+  "date": "01/16",
+  "lng": "fr",
+  "name": "Sainte Prisque, martyre fondatrice du cimetière du même nom sur la via Salaria"
+},{
+  "_id": {
+    "$oid": "60a42945974c2627658cdd6a"
+  },
+  "date": "01/16",
+  "lng": "fr",
+  "name": "Saint José Vaz",
+  "summary": "L’histoire du père José Vaz, le premier indien béatifié, se déroule entre la fin du XVII et le début du XVIIIe. Apôtre de l’île de Ceylan, aujourd’hui Sri Lanka, à l’époque terre de persécutions contre les catholiques, il fonde les Oratoriens à Goa; il est canonisé en 2015 par le pape François."
+},{
+  "_id": {
+    "$oid": "60a42946974c2627658cdd6b"
+  },
+  "date": "01/17",
+  "lng": "fr",
+  "name": "Saint Antoine, abbé",
+  "summary": "Père du monachisme, protecteur des animaux et modèle de vie chrétienne. Saint Antoine, né à Queman, au sud du Caire en Egypte, vers 250, a consacré sa vie au Seigneur. Il est l’un des plus grands ermites de l’histoire de l’Eglise. Sa fête se célèbre le 17 janvier."
+},{
+  "_id": {
+    "$oid": "60a42946974c2627658cdd6c"
+  },
+  "date": "01/18",
+  "lng": "fr",
+  "name": "Sainte Prisque, fondatrice de l’église du même nom sur l’Aventin"
+},{
+  "_id": {
+    "$oid": "60a42946974c2627658cdd6d"
+  },
+  "date": "01/19",
+  "lng": "fr",
+  "name": "Saint Germanicus, martyr de Philadelphie"
+},{
+  "_id": {
+    "$oid": "60a42946974c2627658cdd6e"
+  },
+  "date": "01/19",
+  "lng": "fr",
+  "name": "Saint Jean , évêque de Ravenne"
+},{
+  "_id": {
+    "$oid": "60a42946974c2627658cdd6f"
+  },
+  "date": "01/19",
+  "lng": "fr",
+  "name": "Saints Marius, Marthe, Audifax et Abachum, martyrs à Rome sur la via Cornelia"
+},{
+  "_id": {
+    "$oid": "60a42946974c2627658cdd70"
+  },
+  "date": "01/20",
+  "lng": "fr",
+  "name": "Saint Fabien, pape et martyr"
+},{
+  "_id": {
+    "$oid": "60a42946974c2627658cdd71"
+  },
+  "date": "01/20",
+  "lng": "fr",
+  "name": "Saint Sébastien, martyr"
+},{
+  "_id": {
+    "$oid": "60a42947974c2627658cdd72"
+  },
+  "date": "01/21",
+  "lng": "fr",
+  "name": "Sainte Agnès, vierge et martyre",
+  "summary": "Sainte Agnès  est l’une des premières martyres chrétiennes et des plus  populaires dans la tradition de l’Eglise. A peine, âgée de 13 ans, elle sacrifia sa vie  pendant les persécutions du IVe siècle pour ne pas renier sa foi au Christ et elle est vénérée depuis des siècles comme icône de pureté."
+},{
+  "_id": {
+    "$oid": "60a42947974c2627658cdd73"
+  },
+  "date": "01/22",
+  "lng": "fr",
+  "name": "Saint Vincent, diacre espagnol et martyr"
+},{
+  "_id": {
+    "$oid": "60a42947974c2627658cdd74"
+  },
+  "date": "01/22",
+  "lng": "fr",
+  "name": "Saint Vincent Pallotti Fondateur de la Société de l'Apostolat Catholique"
+},{
+  "_id": {
+    "$oid": "60a42947974c2627658cdd75"
+  },
+  "date": "01/22",
+  "lng": "fr",
+  "name": "Saint Anastase Martyr en Assyrie"
+},{
+  "_id": {
+    "$oid": "60a42947974c2627658cdd76"
+  },
+  "date": "01/23",
+  "lng": "fr",
+  "name": "Sainte Emérentienne, martyre romaine"
+},{
+  "_id": {
+    "$oid": "60a42947974c2627658cdd77"
+  },
+  "date": "01/23",
+  "lng": "fr",
+  "name": "Saint Ildefonse, évêque de Tolède"
+},{
+  "_id": {
+    "$oid": "60a42947974c2627658cdd78"
+  },
+  "date": "01/24",
+  "lng": "fr",
+  "name": "Saint François de Sales, évêque de Genève, Docteur de l’Eglise, fondateur de l’Ordre de la Visitation, patron de la presse catholique",
+  "summary": "Français, François de Sales (1567-1622) est un homme de dialogue et de la douceur sans renoncer à la vérité. C’est l’un des premiers évangélisateurs modernes à se servir des feuillets et des affiches. Il propose un modèle de vie chrétienne pour tous les états de vie."
+},{
+  "_id": {
+    "$oid": "60a42947974c2627658cdd79"
+  },
+  "date": "01/24",
+  "lng": "fr",
+  "name": "Bienheureux Timothée Giaccardo prêtre"
+},{
+  "_id": {
+    "$oid": "60a42947974c2627658cdd7a"
+  },
+  "date": "01/25",
+  "lng": "fr",
+  "name": "Saint Ananie, compagnon de Saint Paul"
+},{
+  "_id": {
+    "$oid": "60a42947974c2627658cdd7b"
+  },
+  "date": "01/25",
+  "lng": "fr",
+  "name": "Conversion de l'apôtre Paul",
+  "summary": "L’Eglise célèbre le 25 janvier la conversion de Saint Paul sur la route de Damas, une des plus puissantes manifestations de la grâce divine, qui transforma Saul, le persécuteur féroce des chrétiens, en Apôtre des nations. L’événement est raconté dans les Actes des Apôtres."
+},{
+  "_id": {
+    "$oid": "60a42948974c2627658cdd7c"
+  },
+  "date": "01/26",
+  "lng": "fr",
+  "name": "Saints Tite et Timothée, disciples et compagnons de saint Paul",
+  "summary": "Ils ont été les collaborateurs les plus étroits de saint Paul. Saint Timothée, évêque, de père païen et de mère juive, est proposé par l’Apôtre des Gentils à la communauté ecclésiale d’Ephèse ; alors que Saint Tite, évêque, est placé à la tête de l’Eglise de Crète."
+},{
+  "_id": {
+    "$oid": "60a42948974c2627658cdd7d"
+  },
+  "date": "01/26",
+  "lng": "fr",
+  "name": "Sainte Paule, veuve romaine",
+  "summary": "Sainte Paola est une figure féminine exemplaire parmi les Saints des premiers siècles du christianisme. Elle passa du luxe et de la dignité de sa noble naissance à la simplicité de l'Évangile et à la charité envers les pauvres. Sa fête tombe le 26 janvier, jour de sa mort à Bethléem."
+},{
+  "_id": {
+    "$oid": "60a42948974c2627658cdd7e"
+  },
+  "date": "01/27",
+  "lng": "fr",
+  "name": "Sainte Angèle Merici, fondatrice de la Compagnie de Sainte Ursule de Brescia",
+  "summary": "Ayant vécu au XVI siècle, s. Angèle Merici est passée dans l’histoire pour sa vision émancipée de la vie consacrée féminine. La Compagnie de Sainte Ursule, qu’elle a fondée en 1535 à Brescia, est en effet la première congrégation séculière féminine de l’Eglise. Sa fête se célèbre le 27 janvier."
+},{
+  "_id": {
+    "$oid": "60a42948974c2627658cdd7f"
+  },
+  "date": "01/27",
+  "lng": "fr",
+  "name": "Saint Vitalien Pape "
+},{
+  "_id": {
+    "$oid": "60a42948974c2627658cdd80"
+  },
+  "date": "01/28",
+  "lng": "fr",
+  "name": "Saint Thomas d'Aquin, frère prêcheur, docteur de l'Eglise, patron des écoles catholiques"
+},{
+  "_id": {
+    "$oid": "60a42948974c2627658cdd81"
+  },
+  "date": "01/29",
+  "lng": "fr",
+  "name": "Saint Constance, évêque de Pérouse"
+},{
+  "_id": {
+    "$oid": "60a42948974c2627658cdd82"
+  },
+  "date": "01/29",
+  "lng": "fr",
+  "name": "Saints Papias et Maur, soldats de l'armée romaine martyrs sur la via Nomentana"
+},{
+  "_id": {
+    "$oid": "60a42948974c2627658cdd83"
+  },
+  "date": "01/29",
+  "lng": "fr",
+  "name": "St. Sulpice Sévère",
+  "summary": "Sulpice Sévère, célébré le 29 janvier, est issu d’une famille illustre. Il est né vers l’an 350, dans la province d’Aquitaine. À l’exemple de plusieurs de ses contemporains devenus célèbres, Sulpice Sévère débuta au barreau. C’était alors le chemin le plus court pour arriver aux dignités.  "
+},{
+  "_id": {
+    "$oid": "60a42949974c2627658cdd84"
+  },
+  "date": "01/30",
+  "lng": "fr",
+  "name": "Sainte Martine, vierge et martyre"
+},{
+  "_id": {
+    "$oid": "60a42949974c2627658cdd85"
+  },
+  "date": "01/30",
+  "lng": "fr",
+  "name": "Sainte Jacinthe, religieuse à Viterbe",
+  "summary": "Co-patronne de Viterbe avec S. Blaise, Jacinthe Marescotti était la fille capricieuse d’un prince. Contrainte à entrer au couvent après une déception amoureuse, elle y rencontra en Christ le vrai époux et se dévoua en faveur des pauvres et des malades. "
+},{
+  "_id": {
+    "$oid": "60a42949974c2627658cdd86"
+  },
+  "date": "01/31",
+  "lng": "fr",
+  "name": "Saint Jean Bosco, fondateur des Salésiens",
+  "summary": "Fondateur des Salésiens et des Filles de Marie Auxiliatrice, Jean Bosco est le saint des jeunes. Canonisé en 1934, lors de la clôture de l’Année de la Rédemption, sa fête liturgique est célébrée le 31 janvier."
+},{
+  "_id": {
+    "$oid": "60a42949974c2627658cdd87"
+  },
+  "date": "01/31",
+  "lng": "fr",
+  "name": "Sainte Marcella moniale à Rome, disciple de Saint Jérôme "
+},{
+  "_id": {
+    "$oid": "60a42949974c2627658cdd88"
+  },
+  "date": "02/01",
+  "lng": "fr",
+  "name": "Bienheureuse Louise Albertoni, veuve romaine",
+  "summary": "De noble famille romaine, c’est seulement en tant que veuve que Louise Albertoni put réaliser sa vocation. Devenue Tertiaire franciscaine, elle s’occupa en particulier de l’éducation des jeunes filles en danger. Rome garde son souvenir grâce à la splendide sculpture que lui dédia Le Bernin."
+},{
+  "_id": {
+    "$oid": "60a42949974c2627658cdd89"
+  },
+  "date": "02/01",
+  "lng": "fr",
+  "name": "Sainte Brigitte de Kildare Abbesse en Irlande"
+},{
+  "_id": {
+    "$oid": "60a42949974c2627658cdd8a"
+  },
+  "date": "02/02",
+  "lng": "fr",
+  "name": "Sainte Catherine de Ricci, vierge dominicane de Prato"
+},{
+  "_id": {
+    "$oid": "60a42949974c2627658cdd8b"
+  },
+  "date": "02/02",
+  "lng": "fr",
+  "name": "Saint Nicolas Saggio de Longobardi religieux de l’Ordre des Minimes"
+},{
+  "_id": {
+    "$oid": "60a4294a974c2627658cdd8c"
+  },
+  "date": "02/03",
+  "lng": "fr",
+  "name": "Saint Blaise, évêque de Sébaste et martyr",
+  "summary": "Evêque originaire de Sébaste, en Arménie, Blaise fut décapité pour avoir refusé d’abjurer sa foi en Jésus en 316 ap. J.-C. environ. Il est vénéré dans toute l’Italie et invoqué pour ce qu’on appelle le «miracle de la gorge», quand en route vers le martyre il sauva de l’étouffement un enfant."
+},{
+  "_id": {
+    "$oid": "60a4294a974c2627658cdd8d"
+  },
+  "date": "02/03",
+  "lng": "fr",
+  "name": "Saint Anschaire (Oscar) Evêque de Hambourg et de Brême",
+  "summary": "Originaire de Corbie, en France, Anschaire ou Oscar, poursuivit toute sa vie le rêve d’évangéliser les Terres du Nord; c’est pour cela qu’il est vénéré encore aujourd’hui comme l’apôtre de la Scandinavie. Infatigable prédicateur, il fut évêque de Hambourg et de Brême. Il mourut en 865."
+},{
+  "_id": {
+    "$oid": "60a4294a974c2627658cdd8e"
+  },
+  "date": "02/04",
+  "lng": "fr",
+  "name": "Saint Joseph de Leonessa prêtre capucin"
+},{
+  "_id": {
+    "$oid": "60a4294a974c2627658cdd8f"
+  },
+  "date": "02/05",
+  "lng": "fr",
+  "name": "Saint Agathe, vierge et martyre de Catane",
+  "summary": "La vie de sainte Agathe est l’un des plus beaux témoignages de foi des premiers siècles. L’Église célèbre sa fête le 5 février, jour où elle mourut martyre à Catane. L’intrépide jeune sicilienne, soumise à d’horribles tortures, fit preuve d’une courageuse fidélité au Christ."
+},{
+  "_id": {
+    "$oid": "60a4294a974c2627658cdd90"
+  },
+  "date": "02/05",
+  "lng": "fr",
+  "name": "Sainte Adélaïde Abbesse de Villich"
+},{
+  "_id": {
+    "$oid": "60a4294a974c2627658cdd91"
+  },
+  "date": "02/05",
+  "lng": "fr",
+  "name": "Bienheureuse Élisabeth Canori Mora mère de famille"
+},{
+  "_id": {
+    "$oid": "60a4294a974c2627658cdd92"
+  },
+  "date": "02/06",
+  "lng": "fr",
+  "name": "Saint Paul Miki et ses compagnons martyrs au Japon"
+},{
+  "_id": {
+    "$oid": "60a4294a974c2627658cdd93"
+  },
+  "date": "02/06",
+  "lng": "fr",
+  "name": "Sainte Dorothée Vierge et martyre",
+  "summary": "Cette vierge originaire de Césarée, en Cappadoce, préféra le martyre au reniement de sa foi en Jésus, l’unique vrai sauveur. Elle est vénérée pour le miracle du panier de roses et de pommes et pour le pouvoir de convertir aussi les cœurs les plus endurcis."
+},{
+  "_id": {
+    "$oid": "60a4294a974c2627658cdd94"
+  },
+  "date": "02/07",
+  "lng": "fr",
+  "name": "Saint Richard"
+},{
+  "_id": {
+    "$oid": "60a4294a974c2627658cdd95"
+  },
+  "date": "02/07",
+  "lng": "fr",
+  "name": "Bienheureux Pie IX, pape"
+},{
+  "_id": {
+    "$oid": "60a4294b974c2627658cdd96"
+  },
+  "date": "02/08",
+  "lng": "fr",
+  "name": "Saint Jérôme Emilien, Fondateur des Clercs réguliers de Somasque, patron des orphelins",
+  "summary": "Né à Venise en 1486, Jérôme Emilien entreprit la carrière militaire. Fait prisonnier, il fait vœu à Marie de se convertir en échange de sa liberté; sorti de prison complètement transformé, il fonde la Compagnie des Serviteurs des pauvres(Les Clercs Réguliers), pour s’occuper surtout des orphelins."
+},{
+  "_id": {
+    "$oid": "60a4294b974c2627658cdd97"
+  },
+  "date": "02/08",
+  "lng": "fr",
+  "name": "Sainte Joséphine Bakhita, vierge",
+  "summary": "Ayant vécu entre le 19ème et le 20ème s.Joséphine Bakhita est l’une de ces histoires extraordinaires d’oppression et de rachat dans l’Eglise. Cette esclave soudanaise du Darfour passa ainsi des chaînes des négriers au service de l’Evangile comme religieuse chez les Canossiennes à Venise.\r\n"
+},{
+  "_id": {
+    "$oid": "60a4294b974c2627658cdd98"
+  },
+  "date": "02/09",
+  "lng": "fr",
+  "name": "Sainte Apolline, martyre à Alexandrie"
+},{
+  "_id": {
+    "$oid": "60a4294b974c2627658cdd99"
+  },
+  "date": "02/10",
+  "lng": "fr",
+  "name": "Sainte Scholastique, moniale, sœur de saint Benoît",
+  "summary": "Sœur jumelle de saint Benoît, Scholastique fut la première moniale bénédictine. Après avoir conduit une vie de prière, de pauvreté, de charité et obéissance, elle sut obtenir du Seigneur, contre la volonté de son frère, un miracle que seul l’amour plus grand envers Dieu put mériter."
+},{
+  "_id": {
+    "$oid": "60a4294b974c2627658cdd9a"
+  },
+  "date": "02/10",
+  "lng": "fr",
+  "name": "Saints Zotique, Irénée, Hyacinthe et Amance martyrs à Rome "
+},{
+  "_id": {
+    "$oid": "60a4294b974c2627658cdd9b"
+  },
+  "date": "02/11",
+  "lng": "fr",
+  "name": "Sainte Sotère Vierge et martyre à Rome sur la via Appia"
+},{
+  "_id": {
+    "$oid": "60a4294b974c2627658cdd9c"
+  },
+  "date": "02/11",
+  "lng": "fr",
+  "name": "Saint Grégoire II, pape"
+},{
+  "_id": {
+    "$oid": "60a4294b974c2627658cdd9d"
+  },
+  "date": "02/11",
+  "lng": "fr",
+  "name": "Saint Pascal 1er, pape"
+},{
+  "_id": {
+    "$oid": "60a4294c974c2627658cdd9e"
+  },
+  "date": "02/12",
+  "lng": "fr",
+  "name": "Saint Saturnin et ses compagnons martyrs en Afrique"
+},{
+  "_id": {
+    "$oid": "60a4294c974c2627658cdd9f"
+  },
+  "date": "02/13",
+  "lng": "fr",
+  "name": "Bienheureux Jourdain de Saxe, successeur de saint Dominique à la tête de l'ordre des frères prêcheurs",
+  "summary": "Jeune frère éloquent, au cœur tendre et profondément passionné pour Jésus, il fut le digne successeur de saint Dominique à la tête de l’Ordre nouveau-né des Prêcheurs. Missionnaire dans toute l’Europe, il mourut au retour d’un pèlerinage en Terre Sainte en 1237.Il fut béatifié par Léon XII."
+},{
+  "_id": {
+    "$oid": "60a4294c974c2627658cdda0"
+  },
+  "date": "02/14",
+  "lng": "fr",
+  "name": "Saints Cyrille et Méthode, apôtres des Slaves, patrons de l’Europe",
+  "summary": "Depuis 1980 ils sont les co-patrons de l’Europe; à ces deux saints frères on doit la diffusion du message chrétien en particulier dans l’est européen, et c’est l’importance de cette mission qui conduisit Jean-Paul II à les proclamer co-patrons du continent. Voici brièvement leur histoire."
+},{
+  "_id": {
+    "$oid": "60a4294c974c2627658cdda1"
+  },
+  "date": "02/14",
+  "lng": "fr",
+  "name": "Saint Valentin, martyr sur la via Flaminia",
+  "summary": "Considéré comme le Saint patron des amoureux, saint Valentin fait partie des saints les plus populaires. Patron de Terni, sa fête tombe le 14 février."
+},{
+  "_id": {
+    "$oid": "60a4294c974c2627658cdda2"
+  },
+  "date": "02/14",
+  "lng": "fr",
+  "name": "Saint Zénon martyr à Rome, sur la via Appia"
+},{
+  "_id": {
+    "$oid": "60a4294c974c2627658cdda3"
+  },
+  "date": "02/15",
+  "lng": "fr",
+  "name": "Saint Onésime, porteur d'une lettre de saint Paul"
+},{
+  "_id": {
+    "$oid": "60a4294c974c2627658cdda4"
+  },
+  "date": "02/15",
+  "lng": "fr",
+  "name": "Saints Faustin et Jovite, martyrs"
+},{
+  "_id": {
+    "$oid": "60a4294d974c2627658cdda5"
+  },
+  "date": "02/16",
+  "lng": "fr",
+  "name": "Sainte Julienne de Nicomédie, Martyre en Bithynie"
+},{
+  "_id": {
+    "$oid": "60a4294d974c2627658cdda6"
+  },
+  "date": "02/17",
+  "lng": "fr",
+  "name": "Saint Alexis Falconieri et les sept fondateurs des Servites",
+  "summary": "Appelés aussi les sept frères, fondateurs de l’Ordre des Servites de Marie(OSM). Tous de riches marchands florentins du XIII siècle; ils renoncèrent au monde pour une vie austère de contemplation et de prière. Leur mémoire collective se célèbre le 17 février."
+},{
+  "_id": {
+    "$oid": "60a4294d974c2627658cdda7"
+  },
+  "date": "02/18",
+  "lng": "fr",
+  "name": "Bienheureux Fra Angelico, Jean de Fiesole, frère prêcheur italien et peintre",
+  "summary": "Proclamé Patron Universel des Artistes par Jean Paul II, Bienheureux Angelico dont la fête est le 18 février, exerçait l’art de la prédication avec le pinceau, dit-on de lui, exprimant dans le dessin le fruit de sa contemplation intime."
+},{
+  "_id": {
+    "$oid": "60a4294d974c2627658cdda8"
+  },
+  "date": "02/19",
+  "lng": "fr",
+  "name": "Bienheureux Conrad de Plaisance, ermite tertiaire franciscain en Sicile"
+},{
+  "_id": {
+    "$oid": "60a4294d974c2627658cdda9"
+  },
+  "date": "02/20",
+  "lng": "fr",
+  "name": "Saint Léon, Confesseur, évêque de Catane en Sicile"
+},{
+  "_id": {
+    "$oid": "60a4294e974c2627658cddaa"
+  },
+  "date": "02/21",
+  "lng": "fr",
+  "name": "Saint Pierre Damien, évêque d'Ostie, docteur de l'Église",
+  "summary": "Saint Pier Damien est parmi les saints que nous rencontrons au Paradis dantesque. Saint réformateur et docteur de l’Eglise, il combattit la Simonie et la corruption répandue dans le clergé de son temps. Sa mémoire liturgique se célèbre le 21 février."
+},{
+  "_id": {
+    "$oid": "60a4294e974c2627658cddab"
+  },
+  "date": "02/22",
+  "lng": "fr",
+  "name": "Saint Maximien, évêque de Ravenne et confesseur"
+},{
+  "_id": {
+    "$oid": "60a4294e974c2627658cddac"
+  },
+  "date": "02/22",
+  "lng": "fr",
+  "name": "Sainte Marguerite de Cortone"
+},{
+  "_id": {
+    "$oid": "60a4294e974c2627658cddad"
+  },
+  "date": "02/23",
+  "lng": "fr",
+  "name": "Saint Polycarpe, évêque de Smyrne et martyr",
+  "summary": "Saint Polycarpe, martyr, le 23 février 155, à l’âge de 86 ans, est un des Pères apostoliques, les auteurs chrétiens ayant vécu  entre le I et le II siècle et ayant  eu des liens étroits  avec les apôtres. Disciple de Jean,  évêque  de Smyrne, il se distingue comme pasteur aimable et influent."
+},{
+  "_id": {
+    "$oid": "60a4294e974c2627658cddae"
+  },
+  "date": "02/23",
+  "lng": "fr",
+  "name": "Sainte Joséphine Vannini, vierge, fondatrice de la Congrégation des Filles de Saint-Camille "
+},{
+  "_id": {
+    "$oid": "60a4294e974c2627658cddaf"
+  },
+  "date": "02/24",
+  "lng": "fr",
+  "name": "Saints Évèce et Pierre, martyrs"
+},{
+  "_id": {
+    "$oid": "60a4294e974c2627658cddb0"
+  },
+  "date": "02/25",
+  "lng": "fr",
+  "name": "Saint Nestor, évêque de Magydos, en Pamphylie, martyr"
+},{
+  "_id": {
+    "$oid": "60a4294f974c2627658cddb1"
+  },
+  "date": "02/26",
+  "lng": "fr",
+  "name": "Saint Faustinien, évêque de Bologne"
+},{
+  "_id": {
+    "$oid": "60a4294f974c2627658cddb2"
+  },
+  "date": "02/27",
+  "lng": "fr",
+  "name": "Saint Gabriel de l'Addolorata, passioniste italien",
+  "summary": "C’est le saint des jeunes. Chaque année, avant l’examen du baccalauréat, beaucoup d’étudiants s’adressent à Saint Gabriel de l’Addolorata, au sanctuaire de Grain Sasso. Amoureux de la vie mondaine, il choisit la vie religieuse chez les Passionistes. Il meurt jeune, à 24 ans, le 27 février 1862."
+},{
+  "_id": {
+    "$oid": "60a4294f974c2627658cddb3"
+  },
+  "date": "02/28",
+  "lng": "fr",
+  "name": "Saint Romain, abbé"
+},{
+  "_id": {
+    "$oid": "60a4294f974c2627658cddb4"
+  },
+  "date": "02/28",
+  "lng": "fr",
+  "name": "Saint Hilaire, pape"
+},{
+  "_id": {
+    "$oid": "60a4294f974c2627658cddb5"
+  },
+  "date": "02/29",
+  "lng": "fr",
+  "name": "Saint Auguste Chapedelaine, martyr"
+},{
+  "_id": {
+    "$oid": "60a42950974c2627658cddb6"
+  },
+  "date": "03/01",
+  "lng": "fr",
+  "name": "Saint Félix III, Pape"
+},{
+  "_id": {
+    "$oid": "60a42950974c2627658cddb7"
+  },
+  "date": "03/01",
+  "lng": "fr",
+  "name": "Saint Aubin, évêque d'Angers"
+},{
+  "_id": {
+    "$oid": "60a42950974c2627658cddb8"
+  },
+  "date": "03/02",
+  "lng": "fr",
+  "name": "Sainte Angèle de la Croix, fondatrice de l'Institut des Sœurs de la Compagnie de la Croix"
+},{
+  "_id": {
+    "$oid": "60a42950974c2627658cddb9"
+  },
+  "date": "03/03",
+  "lng": "fr",
+  "name": "Sainte Cunégonde, Impératrice germanique",
+  "summary": "Impératrice et épouse exemplaire de Saint Henri II, avec qui elle se déploie pour le développement de l’Eglise en Allemagne. Elle est enterrée à ses côtés dans la cathédrale de Bamberg, qu’ils contribuèrent à construire. Morte en 1033(ou 1039), elle est canonisée en 1200 par Innocent III."
+},{
+  "_id": {
+    "$oid": "60a42951974c2627658cddba"
+  },
+  "date": "03/04",
+  "lng": "fr",
+  "name": "Saint Casimir, patron de la Lituanie"
+},{
+  "_id": {
+    "$oid": "60a42951974c2627658cddbb"
+  },
+  "date": "03/04",
+  "lng": "fr",
+  "name": "Bienheureux Humbert III de Savoie"
+},{
+  "_id": {
+    "$oid": "60a42951974c2627658cddbc"
+  },
+  "date": "03/05",
+  "lng": "fr",
+  "name": "Saint Lucius I, Pape"
+},{
+  "_id": {
+    "$oid": "60a42951974c2627658cddbd"
+  },
+  "date": "03/05",
+  "lng": "fr",
+  "name": "Saint Adrien, martyr à Césarée de Palestine"
+},{
+  "_id": {
+    "$oid": "60a42951974c2627658cddbe"
+  },
+  "date": "03/05",
+  "lng": "fr",
+  "name": "Saint Jean-Joseph de la Croix frère franciscain à Naples"
+},{
+  "_id": {
+    "$oid": "60a42951974c2627658cddbf"
+  },
+  "date": "03/06",
+  "lng": "fr",
+  "name": "Sainte Rose de Viterbe, vierge franciscaine",
+  "summary": "Jamais canoniquement proclamée Sainte, mais considérée comme telle par les gens, voire les Pontifes, Rose de Viterbe, tertiaire franciscaine, meurt seulement à 18 ans en 1251 après avoir parcouru la ville en annonçant la Parole de Dieu. Sa fête se célèbre le 4 septembre à Viterbe."
+},{
+  "_id": {
+    "$oid": "60a42951974c2627658cddc0"
+  },
+  "date": "03/06",
+  "lng": "fr",
+  "name": "Sainte Colette de Corbie, réformatrice des Clarisses "
+},{
+  "_id": {
+    "$oid": "60a42952974c2627658cddc1"
+  },
+  "date": "03/07",
+  "lng": "fr",
+  "name": "Saintes Perpétue et Félicité, martyres à Carthage"
+},{
+  "_id": {
+    "$oid": "60a42952974c2627658cddc2"
+  },
+  "date": "03/07",
+  "lng": "fr",
+  "name": "Sainte Thérèse-Marguerite Redi Religieuse carmélite"
+},{
+  "_id": {
+    "$oid": "60a42952974c2627658cddc3"
+  },
+  "date": "03/08",
+  "lng": "fr",
+  "name": "Saint Jean de Dieu, fondateur des Frères de la Charité, patron des malades et du personnel hospitalier",
+  "summary": "Après une vie pleine d’aventures, en 1537 Jean de Dieu s’établit à Grenade, où, après avoir écouté une prédication de Jean d’Avila et avoir entrepris sa voie personnelle de souffrance, le Saint comprend sa mission: assister les malades. Il sera canonisé par Alexandre VIII."
+},{
+  "_id": {
+    "$oid": "60a42952974c2627658cddc4"
+  },
+  "date": "03/09",
+  "lng": "fr",
+  "name": "Sainte Françoise Romaine, fondatrice des Oblates de Tor de’ Specchi",
+  "summary": "Riche et noble, mais femme anticonformiste, Françoise Romaine (1384-1440) a illuminé, durant sa vie, les rues les plus pauvres de la Ville. C’est l’une des Saintes de la charité les plus connues de l’Eglise. Elle choisit le bien comme but de la vie par amour pour le Christ."
+},{
+  "_id": {
+    "$oid": "60a42952974c2627658cddc5"
+  },
+  "date": "03/09",
+  "lng": "fr",
+  "name": "Saints 40 Martyrs de Sébaste"
+},{
+  "_id": {
+    "$oid": "60a42952974c2627658cddc6"
+  },
+  "date": "03/09",
+  "lng": "fr",
+  "name": "Sainte Catherine de Bologne Clarisse"
+},{
+  "_id": {
+    "$oid": "60a42952974c2627658cddc7"
+  },
+  "date": "03/10",
+  "lng": "fr",
+  "name": "Saint Simplice Pape"
+},{
+  "_id": {
+    "$oid": "60a42952974c2627658cddc8"
+  },
+  "date": "03/10",
+  "lng": "fr",
+  "name": "Saint Jean Ogilvie Jésuite écossais, martyr",
+  "summary": "Un homme et un saint au courage intrépide. Ecossais de l’Ecosse protestante qui torture sans pitié les catholiques, Jean Ogilvie, au début du XVII, maintient vive en cachette la foi dans son pays. Capturé et torturé longuement, il tient ferme sans abjurer jusqu’au martyre subi à Glasgow en 1616."
+},{
+  "_id": {
+    "$oid": "60a42952974c2627658cddc9"
+  },
+  "date": "03/11",
+  "lng": "fr",
+  "name": "Saint Sophrone, évêque de Jérusalem"
+},{
+  "_id": {
+    "$oid": "60a42952974c2627658cddca"
+  },
+  "date": "03/11",
+  "lng": "fr",
+  "name": "Saint Euloge de Cordoue, prêtre et martyr"
+},{
+  "_id": {
+    "$oid": "60a42953974c2627658cddcb"
+  },
+  "date": "03/12",
+  "lng": "fr",
+  "name": "Saint Maximilien, soldat, martyr en Numidie"
+},{
+  "_id": {
+    "$oid": "60a42953974c2627658cddcc"
+  },
+  "date": "03/12",
+  "lng": "fr",
+  "name": "Saint Innocent 1er, pape"
+},{
+  "_id": {
+    "$oid": "60a42953974c2627658cddcd"
+  },
+  "date": "03/13",
+  "lng": "fr",
+  "name": "Saint Sabin, martyr en Égypte"
+},{
+  "_id": {
+    "$oid": "60a42953974c2627658cddce"
+  },
+  "date": "03/13",
+  "lng": "fr",
+  "name": "Sainte Christine, martyre"
+},{
+  "_id": {
+    "$oid": "60a42953974c2627658cddcf"
+  },
+  "date": "03/13",
+  "lng": "fr",
+  "name": "Saint Léandre, évêque de Séville"
+},{
+  "_id": {
+    "$oid": "60a42953974c2627658cddd0"
+  },
+  "date": "03/14",
+  "lng": "fr",
+  "name": "Sainte Mathilde, reine de Germanie",
+  "summary": "D’une famille de Comtes, Mathilde formera la sienne avec le duc de Saxe, futur roi d’Allemagne; de ce mariage naîtront quatre empereurs. Loin d’ambitionner les richesses Mathilde veut être Sainte comme elle le sera proclamée en 968. Elle est particulièrement vénérée dans certains diocèses allemands."
+},{
+  "_id": {
+    "$oid": "60a42953974c2627658cddd1"
+  },
+  "date": "03/14",
+  "lng": "fr",
+  "name": "Bienheureux Placide Riccardi Moine bénédictin"
+},{
+  "_id": {
+    "$oid": "60a42953974c2627658cddd2"
+  },
+  "date": "03/15",
+  "lng": "fr",
+  "name": "Saint Zacharie, Pape"
+},{
+  "_id": {
+    "$oid": "60a42953974c2627658cddd3"
+  },
+  "date": "03/15",
+  "lng": "fr",
+  "name": "Saint Clément-Marie Hofbauer Prêtre rédemptoriste en Autriche "
+},{
+  "_id": {
+    "$oid": "60a42954974c2627658cddd4"
+  },
+  "date": "03/16",
+  "lng": "fr",
+  "name": "Saint Hilaire,  évêque et saint Tatien diacre, martyrs à Aquilée en Vénétie"
+},{
+  "_id": {
+    "$oid": "60a42954974c2627658cddd5"
+  },
+  "date": "03/17",
+  "lng": "fr",
+  "name": "Saint Patrick, évêque missionnaire en Irlande",
+  "summary": "Un des Saints les plus vénérés au monde, Saint Patrice ou Patrick, patron d’Irlande, réduit en esclavage alors qu’il était adolescent, grâce à la prière il eut une authentique conversion du cœur qui le porta à être un Saint missionnaire. L’Eglise célèbre sa mémoire le 17 mars."
+},{
+  "_id": {
+    "$oid": "60a42954974c2627658cddd6"
+  },
+  "date": "03/17",
+  "lng": "fr",
+  "name": "Saint Jean Sarkander prêtre et martyr",
+  "summary": "Sauver une petite ville du massacre et pillage, et finir en prison, accusé de complicité avec l’envahisseur. C’est l’histoire du jésuite Jean Sarkander,1576-1620. En réalité ce martyre a eu lieu en haine de la foi, à l’œuvre de la majorité protestante."
+},{
+  "_id": {
+    "$oid": "60a42954974c2627658cddd7"
+  },
+  "date": "03/18",
+  "lng": "fr",
+  "name": "Saint Cyrille, évêque de Jérusalem, docteur de l'Eglise"
+},{
+  "_id": {
+    "$oid": "60a42954974c2627658cddd8"
+  },
+  "date": "03/18",
+  "lng": "fr",
+  "name": "Saint Anselme, évêque de Lucques"
+},{
+  "_id": {
+    "$oid": "60a42954974c2627658cddd9"
+  },
+  "date": "03/19",
+  "lng": "fr",
+  "name": "Saint Joseph, époux de la Vierge Marie",
+  "summary": "Parmi les Saints, le plus cher au cœur de Jésus, qui l’aima comme un fils aime son propre père. Saint protecteur des familles ét des travailleurs, Saint Joseph est fêté deux fois: le 19 mars, avec le titre d’Epoux de Marie et le 1° mai avec le titre de Travailleur."
+},{
+  "_id": {
+    "$oid": "60a42954974c2627658cddda"
+  },
+  "date": "03/20",
+  "lng": "fr",
+  "name": "Saint Jean Népomucène, prêtre et martyr à Prague",
+  "summary": "A Prague, vers la fin de 1300, a lieu le martyre de saint Jean Nepomucène, prêtre humble et prédicateur à la cour du roi Wenceslas IV; il s’oppose avec fermeté, en payant de sa vie, aux prétentions du monarque qui voulait faire violer le secret de la Confession et la liberté de l’Eglise."
+},{
+  "_id": {
+    "$oid": "60a42954974c2627658cdddb"
+  },
+  "date": "03/20",
+  "lng": "fr",
+  "name": "Saint Jean, abbé"
+},{
+  "_id": {
+    "$oid": "60a42955974c2627658cdddc"
+  },
+  "date": "03/21",
+  "lng": "fr",
+  "name": "Saint Nicolas de Flüe, patron de la Suisse"
+},{
+  "_id": {
+    "$oid": "60a42955974c2627658cdddd"
+  },
+  "date": "03/22",
+  "lng": "fr",
+  "name": "Saint Paul Serge, évêque de Narbonne et martyr"
+},{
+  "_id": {
+    "$oid": "60a42955974c2627658cddde"
+  },
+  "date": "03/22",
+  "lng": "fr",
+  "name": "Sainte Léa, veuve romaine"
+},{
+  "_id": {
+    "$oid": "60a42955974c2627658cdddf"
+  },
+  "date": "03/23",
+  "lng": "fr",
+  "name": "Saint Alphonse Turibe de Mogrovejo, archevêque de Lima"
+},{
+  "_id": {
+    "$oid": "60a42955974c2627658cdde0"
+  },
+  "date": "03/24",
+  "lng": "fr",
+  "name": "Sainte Catherine de Suède, fille de sainte Brigitte, moniale à Vadstena",
+  "summary": "Fille de Sainte Brigitte, Catherine de Suède épouse un noble par la volonté de son père, mais conserve sa virginité. Prière et ascèse caractérisent sa vie entremêlée avec celle de sa mère. Première Abbesse du monastère de Vadstena, elle meurt le 24 mars 1381."
+},{
+  "_id": {
+    "$oid": "60a42956974c2627658cdde1"
+  },
+  "date": "03/25",
+  "lng": "fr",
+  "name": "Saint Bon Larron"
+},{
+  "_id": {
+    "$oid": "60a42956974c2627658cdde2"
+  },
+  "date": "03/25",
+  "lng": "fr",
+  "name": "Saint Quirin Martyr à Rome sur la via Portuense"
+},{
+  "_id": {
+    "$oid": "60a42956974c2627658cdde3"
+  },
+  "date": "03/25",
+  "lng": "fr",
+  "name": "Sainte Lucie Filippini Fondatrice de l'Institut des Maîtresses pieuses"
+},{
+  "_id": {
+    "$oid": "60a42956974c2627658cdde4"
+  },
+  "date": "03/26",
+  "lng": "fr",
+  "name": "Saint Castule, martyr à Rome"
+},{
+  "_id": {
+    "$oid": "60a42956974c2627658cdde5"
+  },
+  "date": "03/27",
+  "lng": "fr",
+  "name": "Saint Rupert, évêque de Salzbourg"
+},{
+  "_id": {
+    "$oid": "60a42956974c2627658cdde6"
+  },
+  "date": "03/28",
+  "lng": "fr",
+  "name": "Saint Castor, martyr en Turquie"
+},{
+  "_id": {
+    "$oid": "60a42956974c2627658cdde7"
+  },
+  "date": "03/29",
+  "lng": "fr",
+  "name": "Saint Eustase, évêque de Naples"
+},{
+  "_id": {
+    "$oid": "60a42957974c2627658cdde8"
+  },
+  "date": "03/30",
+  "lng": "fr",
+  "name": "Saint Jean Climaque, higoumène des moines du Sinaï",
+  "summary": "La fête de Saint Jean Climaque se célèbre le 30 mars. Ascète et moine, formé au monastère du mont Sinaï, il vit beaucoup plus en ermite, sans cependant négliger le prochain. Auteur de grandes œuvres doctrinales dont «L’Echelle du Paradis», est la plus connue."
+},{
+  "_id": {
+    "$oid": "60a42957974c2627658cdde9"
+  },
+  "date": "03/30",
+  "lng": "fr",
+  "name": "Bienheureux Amédée IX Duc de Savoie"
+},{
+  "_id": {
+    "$oid": "60a42957974c2627658cddea"
+  },
+  "date": "03/31",
+  "lng": "fr",
+  "name": "Sainte Balbine, vierge, martyre à Rome"
+},{
+  "_id": {
+    "$oid": "60a42957974c2627658cddeb"
+  },
+  "date": "03/31",
+  "lng": "fr",
+  "name": "Saint Benjamin de Perse Diacre et martyr "
+},{
+  "_id": {
+    "$oid": "60a42957974c2627658cddec"
+  },
+  "date": "04/01",
+  "lng": "fr",
+  "name": "Saint Venance, évêque de Salone et martyr"
+},{
+  "_id": {
+    "$oid": "60a42957974c2627658cdded"
+  },
+  "date": "04/01",
+  "lng": "fr",
+  "name": "Saint Hugues de Grenoble, évêque de Grenoble "
+},{
+  "_id": {
+    "$oid": "60a42957974c2627658cddee"
+  },
+  "date": "04/02",
+  "lng": "fr",
+  "name": "Saint François de Paule, ermite, fondateur de l'ordre des Minimes",
+  "summary": "Fondateur de l’Ordre des Minimes, patron de la Calabre et des gens de mer, il est vénéré comme thaumaturge et protecteur des pauvres, qui dans le Royaume de Naples dirigé par les ducs d’Anjou étaient dans des conditions de grave abandon et victimes des abus."
+},{
+  "_id": {
+    "$oid": "60a42957974c2627658cddef"
+  },
+  "date": "04/02",
+  "lng": "fr",
+  "name": "Sainte Marie l'Egyptienne Pénitente"
+},{
+  "_id": {
+    "$oid": "60a42958974c2627658cddf0"
+  },
+  "date": "04/03",
+  "lng": "fr",
+  "name": "Saint Jean Evêque de Naples "
+},{
+  "_id": {
+    "$oid": "60a42958974c2627658cddf1"
+  },
+  "date": "04/03",
+  "lng": "fr",
+  "name": "Saint Richard, évêque de Chichester"
+},{
+  "_id": {
+    "$oid": "60a42958974c2627658cddf2"
+  },
+  "date": "04/03",
+  "lng": "fr",
+  "name": "Saint Sixte 1er, pape",
+  "summary": "Sixième Pape après Pierre, Sixte vécut à Rome dans une période de demi-tolérance à l’égard des chrétiens, aux temps de l’empereur Trajan d’bord, ensuite de l’empereur d’Adrien. A sa mort, après dix ans de pontificat, il est enterré au Vatican aux côtés de saint Pierre."
+},{
+  "_id": {
+    "$oid": "60a42958974c2627658cddf3"
+  },
+  "date": "04/04",
+  "lng": "fr",
+  "name": "Saint Isidore, docteur de l'Eglise, Évêque de Séville",
+  "summary": "Dernier des Pères latins, Isidore, évêque de Séville au VII siècle, est un auteur très lu au Moyen Age. Son œuvre encyclopédique constitue le principal point de référence du savoir alors connu: c’est pour cela qu’il est considéré comme un maître pour l’Europe."
+},{
+  "_id": {
+    "$oid": "60a42958974c2627658cddf4"
+  },
+  "date": "04/04",
+  "lng": "fr",
+  "name": "Saint Benoît l'Africain frère lai franciscain"
+},{
+  "_id": {
+    "$oid": "60a42958974c2627658cddf5"
+  },
+  "date": "04/05",
+  "lng": "fr",
+  "name": "Saint Vincent Ferrier, Frère dominicain",
+  "summary": "Espagnol, remarquable prédicateur (non pas par hasard dominicain); durant le Grand Schisme d’Occident commencé en 1378, saint Vincent Ferrer s’emploie beaucoup pour l’unité de l’Eglise et l’amélioration des mœurs. Mort au cours d’un voyage, il est canonisé en 1458 par Calixte III."
+},{
+  "_id": {
+    "$oid": "60a42958974c2627658cddf6"
+  },
+  "date": "04/05",
+  "lng": "fr",
+  "name": "Sainte Irène, vierge et martyre"
+},{
+  "_id": {
+    "$oid": "60a42958974c2627658cddf7"
+  },
+  "date": "04/06",
+  "lng": "fr",
+  "name": "Sainte Galla, veuve à Rome",
+  "summary": "Fille du consul romain Simmaco, demeurée veuve après seulement un an de mariage Galla, convertie au christianisme, refuse un nouveau mariage et consacre sa vie au jeûne et aux œuvres de charité envers les plus pauvres, jusqu’à sa décision de se retirer au monastère. Elle mourut vers 550."
+},{
+  "_id": {
+    "$oid": "60a42958974c2627658cddf8"
+  },
+  "date": "04/06",
+  "lng": "fr",
+  "name": "Saint Pierre de Vérone, prêtre dominicain martyr"
+},{
+  "_id": {
+    "$oid": "60a42959974c2627658cddf9"
+  },
+  "date": "04/07",
+  "lng": "fr",
+  "name": "Saint Jean Baptiste de La Salle, Fondateur des Frères des Ecoles Chrétiennes",
+  "summary": "Prêtre Français soucieux de l’éducation, Jean-Baptiste comprend qu’enseigner est plus qu’un travail: une mission. En 1684, il fonde les Frères des Écoles Chrétiennes, 1ère congrégation de laïcs dédiés à l’école populaire. Il est canonisé par Léon XIII en 1900."
+},{
+  "_id": {
+    "$oid": "60a42959974c2627658cddfa"
+  },
+  "date": "04/08",
+  "lng": "fr",
+  "name": "Saint Denys, évêque de Corinthe"
+},{
+  "_id": {
+    "$oid": "60a42959974c2627658cddfb"
+  },
+  "date": "04/09",
+  "lng": "fr",
+  "name": "Saint Liboire, Evêque de Le Mans"
+},{
+  "_id": {
+    "$oid": "60a42959974c2627658cddfc"
+  },
+  "date": "04/10",
+  "lng": "fr",
+  "name": "Sainte Madeleine de Canossa, vierge, fondatrice des Filles et des Fils de la Charité",
+  "summary": "Fondatrice des Filles de  la Charité, elle était tellement déterminée  à réaliser la volonté  Dieu dans sa vie qu’elle a mérité  le surnom  de « Napoléon en jupe ». Contraire au rigorisme, elle demandait à ses religieuses de vivre avec joie et simplicité.\r\n\r\n"
+},{
+  "_id": {
+    "$oid": "60a42959974c2627658cddfd"
+  },
+  "date": "04/11",
+  "lng": "fr",
+  "name": "Saint Stanislas, évêque de Cracovie, martyr",
+  "summary": "Évêque de Cracovie depuis 1072, Stanislas est un pasteur zélé avec les pauvres et un ardent défenseur de la foi et de la morale. Il n’hésitera donc pas à excommunier le roi de Pologne Boleslas II en raison de sa vie dissolue; Pour cette raison il sera martyrisé en 1079."
+},{
+  "_id": {
+    "$oid": "60a42959974c2627658cddfe"
+  },
+  "date": "04/11",
+  "lng": "fr",
+  "name": "Sainte Gemma Galgani, vierge de Lucques en Italie",
+  "summary": " Née en 1878, Gemma Galgani, mystique laïque, fit vœu de virginité. Animée d’une foi profonde, et d’un amour intense pour le Christ, elle y resta fidèle, malgré les deuils et les épreuves familiaux, et les maladies qui renforcèrent plutôt sa  foi. Elle meurt à 25 ans seulement, le 11 avril 1903."
+},{
+  "_id": {
+    "$oid": "60a4295a974c2627658cddff"
+  },
+  "date": "04/12",
+  "lng": "fr",
+  "name": "Saint Zénon, évêque de Vérone, martyr "
+},{
+  "_id": {
+    "$oid": "60a4295a974c2627658cde00"
+  },
+  "date": "04/12",
+  "lng": "fr",
+  "name": "Saint Joseph Moscati, médecin de Naples",
+  "summary": "Docteur et Apôtre: c’est le résumé parfait qui décrit Joseph Moscati, le profane qui à Naples entre 1800 et 1900 prend soin de tous les malades, sans distinction, en particulier des plus pauvres. Il meurt d’une crise cardiaque en 1927 et fut canonisé par Jean-Paul II 60 ans plus tard."
+},{
+  "_id": {
+    "$oid": "60a4295a974c2627658cde01"
+  },
+  "date": "04/12",
+  "lng": "fr",
+  "name": "Saint Jules 1er, pape"
+},{
+  "_id": {
+    "$oid": "60a4295a974c2627658cde02"
+  },
+  "date": "04/13",
+  "lng": "fr",
+  "name": "Saint Hermenegild, martyr à Tarragone en Espagne"
+},{
+  "_id": {
+    "$oid": "60a4295a974c2627658cde03"
+  },
+  "date": "04/13",
+  "lng": "fr",
+  "name": "Saint Martin 1er, pape et martyr"
+},{
+  "_id": {
+    "$oid": "60a4295a974c2627658cde04"
+  },
+  "date": "04/14",
+  "lng": "fr",
+  "name": "Saints Tiburce, Valérien et Maxime, martyrs à Rome sur la via Appia",
+  "summary": "Valérien est le mari de Sainte Cécile dont il reçoit le don de la foi, qu’il fait à son tour à son frère Tiburce. Les deux, qui enterraient de nuit les chrétiens, sont condamnés à mort, mais avant ils convertissent Maxime le gardien de prison. Les trois martyrs romains vécurent au 3e siècle."
+},{
+  "_id": {
+    "$oid": "60a4295a974c2627658cde05"
+  },
+  "date": "04/15",
+  "lng": "fr",
+  "name": "Saint Abondius, sacristain de l'église Saint-Pierre de Rome"
+},{
+  "_id": {
+    "$oid": "60a4295a974c2627658cde06"
+  },
+  "date": "04/16",
+  "lng": "fr",
+  "name": "Saint Benoît-Joseph Labre, pèlerin, mendiant"
+},{
+  "_id": {
+    "$oid": "60a4295a974c2627658cde07"
+  },
+  "date": "04/16",
+  "lng": "fr",
+  "name": "Sainte Bernadette Soubirous, vierge",
+  "summary": "Pauvre et analphabète, elle se sentit regardée par Marie «comme personne», a dit le pape François. L’Immaculée Conception lui apparaît à la Grotte de Lourdes en l’invitant à prier pour les pécheurs et en exhortant tous à la conversion."
+},{
+  "_id": {
+    "$oid": "60a4295b974c2627658cde08"
+  },
+  "date": "04/17",
+  "lng": "fr",
+  "name": "Saint Syméon évêque de Séleucie et ses compagnons martyrs"
+},{
+  "_id": {
+    "$oid": "60a4295b974c2627658cde09"
+  },
+  "date": "04/17",
+  "lng": "fr",
+  "name": "Saint Robert, abbé de Cìteaux"
+},{
+  "_id": {
+    "$oid": "60a4295b974c2627658cde0a"
+  },
+  "date": "04/18",
+  "lng": "fr",
+  "name": "Saint Gaudin, Archevêque de Milan et cardinal"
+},{
+  "_id": {
+    "$oid": "60a4295b974c2627658cde0b"
+  },
+  "date": "04/19",
+  "lng": "fr",
+  "name": "Saint Léon IX, pape",
+  "summary": "Originaire d’Alsace, région longtemps disputée entre la France et l’Allemagne, Léon IX, au siècle Bruno d'Eguisheim-Dagsburg, arrive à Rome après des années d’épiscopat à Toul. Comme Pape, il lutte contre la simonie et excommunie Michel Cérulaire, déclenchant ainsi le Schisme d’Orient."
+},{
+  "_id": {
+    "$oid": "60a4295b974c2627658cde0c"
+  },
+  "date": "04/19",
+  "lng": "fr",
+  "name": "Saint Expédit"
+},{
+  "_id": {
+    "$oid": "60a4295b974c2627658cde0d"
+  },
+  "date": "04/20",
+  "lng": "fr",
+  "name": "Sainte Agnès de Montepulciano, vierge dominicaine"
+},{
+  "_id": {
+    "$oid": "60a4295b974c2627658cde0e"
+  },
+  "date": "04/20",
+  "lng": "fr",
+  "name": "Saint Anicet, Pape"
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde0f"
+  },
+  "date": "04/21",
+  "lng": "fr",
+  "name": "Saint Ansèlme, archevêque de Canterbury et docteur de l’Église",
+  "summary": "Né à Aoste, Saint Anselme (1033-1109), moine bénédictin et archevêque de Cantorbéry a vécu entre la France et l’Angleterre; fondateur de la théologie scolastique et grand pasteur d’âmes, il est proclamé Docteur de l’Eglise en 1720 et sa mémoire liturgique se célèbre le 21 avril."
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde10"
+  },
+  "date": "04/21",
+  "lng": "fr",
+  "name": "Saint Conrad de Parzham, frère capucin"
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde11"
+  },
+  "date": "04/21",
+  "lng": "fr",
+  "name": "Saint Apollonius, philosophe et martyr romain"
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde12"
+  },
+  "date": "04/22",
+  "lng": "fr",
+  "name": "Saint Soter, Pape"
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde13"
+  },
+  "date": "04/22",
+  "lng": "fr",
+  "name": "Saint Caïus, pape"
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde14"
+  },
+  "date": "04/22",
+  "lng": "fr",
+  "name": "Saint Agapit 1er, pape"
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde15"
+  },
+  "date": "04/23",
+  "lng": "fr",
+  "name": "Saint Georges, martyr",
+  "summary": "Peu de Saints peuvent se vanter d'un culte aussi répandu et d'une telle vénération populaire comme Saint Georges, chevalier, martyr du Christ entre les IIIème et IVème siècles. En témoignent les innombrables églises qui lui sont dédiées."
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde16"
+  },
+  "date": "04/23",
+  "lng": "fr",
+  "name": "Saint Adalbert évêque de Prague, martyr"
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde17"
+  },
+  "date": "04/23",
+  "lng": "fr",
+  "name": "Bienheureuse Marie-Gabrielle Sagheddu religieuse au monastère de Grottaferrata"
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde18"
+  },
+  "date": "04/24",
+  "lng": "fr",
+  "name": "Saint Fidèle de Sigmaringen, capucin, prêtre et martyr",
+  "summary": "Instituteur, avocat, philosophe chrétien, frère et enfin premier martyr parmi les capucins. C’est la vie de Saint Fidèle de Sigmaringen qui de l’Allemagne est allé évangéliser la Suisse calviniste et y trouva la mort en 1622. Il fut canonisé par Benoît XIV."
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde19"
+  },
+  "date": "04/24",
+  "lng": "fr",
+  "name": "Saintes Marie de Cléophas et Salomé les premières à entendre l’annonce de la résurrection"
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde1a"
+  },
+  "date": "04/24",
+  "lng": "fr",
+  "name": "Sainte Marie-Elisabeth Hesselblad religieuse suédoise de l'ordre du Très Saint Sauveur",
+  "summary": "Suédoise, de famille luthérienne, Marie Elizabeth travaille toute sa vie pour l’union entre les Églises, surtout après la conversion au catholicisme, et dans la refondation de l’Ordre des Sœurs de Sainte Brigitte qu’elle ramène en Suède. Elle meurt en 1957. Canonisée en 2016."
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde1b"
+  },
+  "date": "04/25",
+  "lng": "fr",
+  "name": "Saint Marc, évangéliste",
+  "summary": "Le 25 avril est le jour de la fête de saint Marc, évangéliste, dont l’emblème est le lion ailé, symbole de la cité de Venise dont il est le patron. Il y a un rapport étroit entre Marc et l’apôtre Paul qu’il accompagna dans certains de ses voyages, et avec Pierre"
+},{
+  "_id": {
+    "$oid": "60a4295c974c2627658cde1c"
+  },
+  "date": "04/25",
+  "lng": "fr",
+  "name": "Sainte Franca Visalta abbesse"
+},{
+  "_id": {
+    "$oid": "60a4295d974c2627658cde1d"
+  },
+  "date": "04/26",
+  "lng": "fr",
+  "name": "Saint Anaclet, pape"
+},{
+  "_id": {
+    "$oid": "60a4295d974c2627658cde1e"
+  },
+  "date": "04/27",
+  "lng": "fr",
+  "name": "Saint Syméon, évêque de Jérusalem et martyr",
+  "summary": "Second chef de la communauté chrétienne de Jérusalem au Ier siècle, saint Siméon, dont la vie est très peu connue, subira le martyre, comme Jésus, par crucifixion, sous l’empereur Ulpio Trajan."
+},{
+  "_id": {
+    "$oid": "60a4295d974c2627658cde1f"
+  },
+  "date": "04/27",
+  "lng": "fr",
+  "name": "Sainte Zita servante à Lucques"
+},{
+  "_id": {
+    "$oid": "60a4295d974c2627658cde20"
+  },
+  "date": "04/28",
+  "lng": "fr",
+  "name": "Saint Pierre Marie Chanel, prêtre mariste martyr en Océanie",
+  "summary": "Premier martyr de l’Océanie, prêtre diocésain puis mariste, il exerce son ministère auprès des campagnes de l’Auvergne-Rhône-Alpes, en France, et des peuples autochtones de l’île de Futuna dans le Pacifique. Dévot de la Vierge, il voulait être missionnaire. Il mourut le 28 avril 1841."
+},{
+  "_id": {
+    "$oid": "60a4295d974c2627658cde21"
+  },
+  "date": "04/28",
+  "lng": "fr",
+  "name": "Saint Louis-Marie Grignion de Montfort Fondateur des Montfortains et des Filles de la Sagesse",
+  "summary": "Dévot de Marie et de la croix, saint Louis Marie Grignion de Montfort, est l’auteur du célèbre «Traité de la vraie dévotion à la Sainte Vierge». Au XVIIIe siècle, ce saint français fonda congrégations et inspira des associations de laïcs. Ses reliques sont vénérées à Saint Laurent- sur- Sèvre."
+},{
+  "_id": {
+    "$oid": "60a4295d974c2627658cde22"
+  },
+  "date": "04/29",
+  "lng": "fr",
+  "name": "Sainte Catherine de Sienne, dominicaine et Docteur de l'Eglise. Patronne de l’Europe et d’Italie",
+  "summary": "Vierge, Docteur de l’Église, patronne d’Italie et de l’Europe, Sainte Catherine de Sienne est commémorée chaque 29 avril. Elle consacra tous ses efforts pour la paix et pour le retour de la papauté à Rome."
+},{
+  "_id": {
+    "$oid": "60a4295d974c2627658cde23"
+  },
+  "date": "04/30",
+  "lng": "fr",
+  "name": "Saint Pie V, pape",
+  "summary": "Saint Pie V, élu en 1566, fut un Pape dévoué à l a cause des pauvres pour lesquels il créa le Mont de Piété. Après la victorieuse bataille de Lépante, le 7 octobre 1571, pour rendre grâce à la Vierge il institua la fête de Notre Dame du Rosaire."
+},{
+  "_id": {
+    "$oid": "60a4295d974c2627658cde24"
+  },
+  "date": "04/30",
+  "lng": "fr",
+  "name": "Saint Quirin, martyr à Rome sur la Via Appia"
+},{
+  "_id": {
+    "$oid": "60a4295d974c2627658cde25"
+  },
+  "date": "04/30",
+  "lng": "fr",
+  "name": "Pierre Lévite moine et diacre"
+},{
+  "_id": {
+    "$oid": "60a4295e974c2627658cde26"
+  },
+  "date": "05/01",
+  "lng": "fr",
+  "name": "Saint Joseph Artisan, Epoux de la Vierge Marie, protecteur des travailleurs",
+  "summary": "On célèbre le 1° mai saint Joseph, le père sur terre de Jésus ; en tant que charpentier il témoigne aussi que le travail humble peut rendre l’homme participant du projet divin du salut. Les travailleurs chrétiens le vénèrent comme leur Saint Patron."
+},{
+  "_id": {
+    "$oid": "60a4295e974c2627658cde27"
+  },
+  "date": "05/01",
+  "lng": "fr",
+  "name": "Saint Jérémie, le prophète"
+},{
+  "_id": {
+    "$oid": "60a4295e974c2627658cde28"
+  },
+  "date": "05/02",
+  "lng": "fr",
+  "name": "Saint Athanase, patriarche d'Alexandrie, père de l'Eglise"
+},{
+  "_id": {
+    "$oid": "60a4295e974c2627658cde29"
+  },
+  "date": "05/03",
+  "lng": "fr",
+  "name": "Saints Philippe et Jacques le mineur, apôtres",
+  "summary": "Tous deux parmi les douze apôtres proches de Jésus, ils sont célébrés le même jour où leurs reliques respectives, au 6ème siècle, furent portées de Hiérapolis et de Jérusalem à Rome dans ce qui est aujourd’hui la basilique des Saints-Apôtres. Tous les deux sont morts en martyrs."
+},{
+  "_id": {
+    "$oid": "60a4295e974c2627658cde2a"
+  },
+  "date": "05/03",
+  "lng": "fr",
+  "name": "Saints Évence, Alexandre et Théodule martyrs à Rome"
+},{
+  "_id": {
+    "$oid": "60a4295e974c2627658cde2b"
+  },
+  "date": "05/04",
+  "lng": "fr",
+  "name": "Sainte Antonine, martyre à Nicomédie"
+},{
+  "_id": {
+    "$oid": "60a4295f974c2627658cde2c"
+  },
+  "date": "05/05",
+  "lng": "fr",
+  "name": "S. Nunzio Sulprizio, orphelin jeune ouvrier à Naples",
+  "summary": "Nunzio Sulprizio mourut en 1836, à l’âge de 19 ans, le corps affaibli par son état de travailleur exploité, mais pas l’esprit, capable d’offrir sa souffrance à Dieu. Béatifié lors du Concile Vatican II par Paul VI, il a été canonisé par François durant le Synode sur les Jeunes."
+},{
+  "_id": {
+    "$oid": "60a4295f974c2627658cde2d"
+  },
+  "date": "05/06",
+  "lng": "fr",
+  "name": "Saints Marien et Jacques, martyrs"
+},{
+  "_id": {
+    "$oid": "60a4295f974c2627658cde2e"
+  },
+  "date": "05/07",
+  "lng": "fr",
+  "name": "Sainte Flavia Domitilla, martyre romaine"
+},{
+  "_id": {
+    "$oid": "60a4295f974c2627658cde2f"
+  },
+  "date": "05/07",
+  "lng": "fr",
+  "name": "Sainte Rose Venerini"
+},{
+  "_id": {
+    "$oid": "60a4295f974c2627658cde30"
+  },
+  "date": "05/08",
+  "lng": "fr",
+  "name": "Saint Victor, martyr de Milan",
+  "summary": "Milan, année 290. Trois soldats maures sont dans l’armée impériale : Victor, Narbor et Félix. Tous trois chrétiens, tous trois, préfèrent mourir en martyrs plutôt que d’abjurer leur foi. C’est pourquoi on les célèbre ensemble, même si Victor mourut à Milan, les deux autres à Lodi."
+},{
+  "_id": {
+    "$oid": "60a4295f974c2627658cde31"
+  },
+  "date": "05/08",
+  "lng": "fr",
+  "name": "Saint Boniface IV pape"
+},{
+  "_id": {
+    "$oid": "60a4295f974c2627658cde32"
+  },
+  "date": "05/08",
+  "lng": "fr",
+  "name": "Saint Benoît II Pape"
+},{
+  "_id": {
+    "$oid": "60a4295f974c2627658cde33"
+  },
+  "date": "05/08",
+  "lng": "fr",
+  "name": "Saint Arsène, anachorète dans le désert de Scété"
+},{
+  "_id": {
+    "$oid": "60a4295f974c2627658cde34"
+  },
+  "date": "05/09",
+  "lng": "fr",
+  "name": "Saint Pacôme, abbé"
+},{
+  "_id": {
+    "$oid": "60a4295f974c2627658cde35"
+  },
+  "date": "05/09",
+  "lng": "fr",
+  "name": "Saint Isaïe",
+  "summary": "Descendant de la maison royale de David, saint Isaïe est l’aîné des « Grands Prophètes » d’Israël. Ayant vécu environ huit cents ans avant Jésus, la tradition veut qu’il ait eu une très longue vie et qu’en fin de compte, il soit mort en martyr."
+},{
+  "_id": {
+    "$oid": "60a4295f974c2627658cde36"
+  },
+  "date": "05/09",
+  "lng": "fr",
+  "name": "Sainte Louise de Marillac Fondatrice des filles de la Charité"
+},{
+  "_id": {
+    "$oid": "60a42960974c2627658cde37"
+  },
+  "date": "05/10",
+  "lng": "fr",
+  "name": "Saint Gordien, martyr à Rome sur la via Latina"
+},{
+  "_id": {
+    "$oid": "60a42960974c2627658cde38"
+  },
+  "date": "05/10",
+  "lng": "fr",
+  "name": "Saint Jean d'Avila Prêtre"
+},{
+  "_id": {
+    "$oid": "60a42960974c2627658cde39"
+  },
+  "date": "05/10",
+  "lng": "fr",
+  "name": "Saints Quartus et Quintus, martyrs sur la via Latina"
+},{
+  "_id": {
+    "$oid": "60a42960974c2627658cde3a"
+  },
+  "date": "05/10",
+  "lng": "fr",
+  "name": "Saint Job"
+},{
+  "_id": {
+    "$oid": "60a42960974c2627658cde3b"
+  },
+  "date": "05/11",
+  "lng": "fr",
+  "name": "Saint Anthime, martir  sur la via Salaria"
+},{
+  "_id": {
+    "$oid": "60a42960974c2627658cde3c"
+  },
+  "date": "05/12",
+  "lng": "fr",
+  "name": "Saints Nérée et Achillée, frères, soldats, martyr sur la via Ardeatina",
+  "summary": "Les martyrs romains du 3ème siècle, probablement décapités lors de la persécution antichrétienne de l’empereur Dioclétien, Nérée et Achille sont enterrés à Rome, dans le cimetière de Domitille le long de via Ardeatina, et sont également vénérés dans une basilique près des Thermes de Caracalla."
+},{
+  "_id": {
+    "$oid": "60a42960974c2627658cde3d"
+  },
+  "date": "05/12",
+  "lng": "fr",
+  "name": "Saints Pancrace, martyr"
+},{
+  "_id": {
+    "$oid": "60a42960974c2627658cde3e"
+  },
+  "date": "05/12",
+  "lng": "fr",
+  "name": "Saint Germain de Constantinople Patriarche",
+  "summary": "De simple ecclésiastique à patriarche, Germain de Constantinople se fait pas mal d’ennemis, notamment à cause du désaveu de l’hérésie monothélite et pour la lutte acharnée contre les iconoclastes. Il meurt à Platanion en 732 à l’âge de 98 ans."
+},{
+  "_id": {
+    "$oid": "60a42960974c2627658cde3f"
+  },
+  "date": "05/13",
+  "lng": "fr",
+  "name": "Notre-Dame de Fatima",
+  "summary": "Le titre avec lequel l’Eglise célèbre le 13 mai la Vierge Marie est lié aux apparitions de Fatima, au Portugal, en 1917. La Vierge se manifeste, à six reprises, à trois petits bergers, Lucie Dos Santos, François et Jacinthe Marto; elle demande prières, pénitence et conversion."
+},{
+  "_id": {
+    "$oid": "60a42960974c2627658cde40"
+  },
+  "date": "05/13",
+  "lng": "fr",
+  "name": "Saint André-Hubert Fournet"
+},{
+  "_id": {
+    "$oid": "60a42961974c2627658cde41"
+  },
+  "date": "05/14",
+  "lng": "fr",
+  "name": "Saint Matthias, apôtre"
+},{
+  "_id": {
+    "$oid": "60a42961974c2627658cde42"
+  },
+  "date": "05/14",
+  "lng": "fr",
+  "name": "Saint Michel Garicoïts Fondateur de la société des Prêtres du Sacré-Cœur",
+  "summary": "Originaire de la Navarre française, né dans la période postrévolutionnaire, le jeune prêtre Michel se rend compte que le défi est l’évangélisation: des prêtres, des jeunes, des paysans. En 1835 il fonde dans ce but la Congrégation des Prêtres du Sacré-Cœur de Jésus à Bétharram."
+},{
+  "_id": {
+    "$oid": "60a42961974c2627658cde43"
+  },
+  "date": "05/15",
+  "lng": "fr",
+  "name": "Saint Torquat, évêque di Guadix"
+},{
+  "_id": {
+    "$oid": "60a42961974c2627658cde44"
+  },
+  "date": "05/15",
+  "lng": "fr",
+  "name": "Saint Isidore le Laboureur, agriculteur"
+},{
+  "_id": {
+    "$oid": "60a42961974c2627658cde45"
+  },
+  "date": "05/16",
+  "lng": "fr",
+  "name": "Saint Alexandre, évêque de Jérusalem et  martyr",
+  "summary": "Originaire de la Cappadoce, Alexandre devient évêque de la Ville Sainte de Jérusalem dont il fonde la bibliothèque et une école. Avec la reprise des persécutions contre les chrétiens sous Dèce, il est emprisonné et meurt d’épuisement en prison en 250. Il est vénéré comme martyr."
+},{
+  "_id": {
+    "$oid": "60a42961974c2627658cde46"
+  },
+  "date": "05/16",
+  "lng": "fr",
+  "name": "Saint Ubald, évêque de Gubbio"
+},{
+  "_id": {
+    "$oid": "60a42961974c2627658cde47"
+  },
+  "date": "05/17",
+  "lng": "fr",
+  "name": "Saint Victor, martyr à Rome, sur la via Salaria antica"
+},{
+  "_id": {
+    "$oid": "60a42961974c2627658cde48"
+  },
+  "date": "05/17",
+  "lng": "fr",
+  "name": "Saint Pascal Baylon, frère mineur en Espagne, patron des associations eucharistiques",
+  "summary": "Né en Aragon, Pascal est berger. A la seconde tentative il réussit à entrer chez les Franciscains de Sainte Marie de Lorette mais il reste laïc, s’estimant indigne des vœux. En raison de sa dévotion il est surnommé «le Séraphin de l’Eucharistie». Il meurt en 1592, et il est canonisé en 1690."
+},{
+  "_id": {
+    "$oid": "60a42961974c2627658cde49"
+  },
+  "date": "05/18",
+  "lng": "fr",
+  "name": "Saint Félix de Cantalice"
+},{
+  "_id": {
+    "$oid": "60a42961974c2627658cde4a"
+  },
+  "date": "05/18",
+  "lng": "fr",
+  "name": "Saint Jean 1er, pape et martyr",
+  "summary": "Toscan d’origine, Jean 1er est Pape de 523 à 526 et doit combattre l’hérésie arienne. Pour recoudre la déchirure, le roi des Ostrogoths, Théodoric, arien, l’envoie à Constantinople, mais à son retour il le fait arrêter et emprisonner à Ravenne où il meurt. Pour l’Eglise latine il est martyr."
+},{
+  "_id": {
+    "$oid": "60a42962974c2627658cde4b"
+  },
+  "date": "05/19",
+  "lng": "fr",
+  "name": "Saint Célestin V, pape (Pietro del Murrone)",
+  "summary": "Contemplatif, amoureux du silence, demeure de Dieu, Saint Pierre Célestin V, Pape, est célébré par l’Eglise le 19 mai. Il est connu pour l’indiction du Jubilé du «Pardon» de l’Aquila en 1294 et pour son bref pontificat auquel il met fin par sa démission quelques mois après son élection."
+},{
+  "_id": {
+    "$oid": "60a42962974c2627658cde4c"
+  },
+  "date": "05/19",
+  "lng": "fr",
+  "name": "Saints Parthène et Calogère eunuques à la cour de Dèce - martyrs sur la via Appia"
+},{
+  "_id": {
+    "$oid": "60a42962974c2627658cde4d"
+  },
+  "date": "05/19",
+  "lng": "fr",
+  "name": "Saint Urbain 1er Pape",
+  "summary": "Né sous l’empereur Dioclétien, mort sous Septime Sévère. On a peu d’informations sûres sur saint Urbain, pape entre 223 et 230. Homme déterminé et pratique dans la défense des droits de la communauté chrétienne, il meurt probablement martyr même si les sources historiques ne sont pas univoques."
+},{
+  "_id": {
+    "$oid": "60a42962974c2627658cde4e"
+  },
+  "date": "05/19",
+  "lng": "fr",
+  "name": "Saint Yves, prêtre, avocat des pauvres"
+},{
+  "_id": {
+    "$oid": "60a42962974c2627658cde4f"
+  },
+  "date": "05/19",
+  "lng": "fr",
+  "name": "Saint Crispin de Viterbe Capucin"
+},{
+  "_id": {
+    "$oid": "60a42962974c2627658cde50"
+  },
+  "date": "05/20",
+  "lng": "fr",
+  "name": "Saint Bernardin de Sienne, frère mineur",
+  "summary": "Ecouté des Papes et des analphabètes en raison de son style de prédication sans artifices, Bernardin de Sienne est un des saints franciscains les plus connus et un grand réformateur de son Ordre au XVème siècle . Il est proclamé saint par Nicola V en 1450, six ans à peine après sa mort."
+},{
+  "_id": {
+    "$oid": "60a42962974c2627658cde51"
+  },
+  "date": "05/20",
+  "lng": "fr",
+  "name": "Sainte Aure Martyre à Ostie"
+},{
+  "_id": {
+    "$oid": "60a42962974c2627658cde52"
+  },
+  "date": "05/21",
+  "lng": "fr",
+  "name": "Saints Cristóbal Magallanes et ses 24 compagnons, martyrs mexicains",
+  "summary": "Dans la période la plus difficile de l’Eglise mexicaine persécutée, le prêtre Christophe Magallanes, avec 24 compagnons, est tué en haine de la foi le 25 mai 1927. Ces martyrs ont été canonisés par Jean Paul II au cours d’une cérémonie solennelle en 2000, durant le Grand Jubilé."
+},{
+  "_id": {
+    "$oid": "60a42962974c2627658cde53"
+  },
+  "date": "05/21",
+  "lng": "fr",
+  "name": "Saint Eugène de Mazenod Fondateur des Oblats de Marie-Immaculée - Évêque de Marseille"
+},{
+  "_id": {
+    "$oid": "60a42962974c2627658cde54"
+  },
+  "date": "05/22",
+  "lng": "fr",
+  "name": "Sainte Rita (Marguerite) da Cascia, veuve, religieuse agostinienne",
+  "summary": "Sainte Rita est considérée comme la sainte des cas désespérés; en effet, grâce à son intercession beaucoup de situations « désespérées » se sont miraculeusement résolues. Épouse  et mère exemplaire, puis moniale augustine. Sa dépouille est exposée dans la basilique de Cascia, en Ombrie."
+},{
+  "_id": {
+    "$oid": "60a42962974c2627658cde55"
+  },
+  "date": "05/22",
+  "lng": "fr",
+  "name": "Sainte Julie Vierge et martyre en Corse",
+  "summary": "Patronne de la Corse, elle est l'une de ces jeunes carthaginoises qu'un marchand d'esclaves allait vendre en Gaule. Elle fut volée dans un port de Corse. Fidèle à sa foi, elle refusa de se sacrifier aux divinités païennes. On la commémore le 22 mai."
+},{
+  "_id": {
+    "$oid": "60a42963974c2627658cde56"
+  },
+  "date": "05/23",
+  "lng": "fr",
+  "name": "Saint Jean-Baptiste de Rossi, prêtre"
+},{
+  "_id": {
+    "$oid": "60a42963974c2627658cde57"
+  },
+  "date": "05/24",
+  "lng": "fr",
+  "name": "Saint Vincent de Lérins Moine "
+},{
+  "_id": {
+    "$oid": "60a42963974c2627658cde58"
+  },
+  "date": "05/25",
+  "lng": "fr",
+  "name": "Saint Grégoire VII, pape"
+},{
+  "_id": {
+    "$oid": "60a42963974c2627658cde59"
+  },
+  "date": "05/25",
+  "lng": "fr",
+  "name": "Saint Bède le Vénérable",
+  "summary": "Moine et historien anglais, Saint-Bède le Vénérable est Docteur de l’Église pour son ample connaissance de la Sainte Écriture, pour les enseignements transmis et les nombreux écrits qu’il a laissés. Il a consacré toute sa vie à l’étude et à la prière."
+},{
+  "_id": {
+    "$oid": "60a42963974c2627658cde5a"
+  },
+  "date": "05/25",
+  "lng": "fr",
+  "name": "Sainte Marie-Madeleine de Pazzi Carmélite ",
+  "summary": "Sainte Marie-Madeleine de Pazzi (au siècle, Catherine), vierge de l’Ordre des Carmélites, vécut à Florence au XVIe siècle, en pleine Renaissance. Retirée du monde, avec abnégation, elle se consacre à la prière pour la réforme de l’Église, en effervescence après le Concile de Trente."
+},{
+  "_id": {
+    "$oid": "60a42963974c2627658cde5b"
+  },
+  "date": "05/26",
+  "lng": "fr",
+  "name": "Saint Philippe Neri, fondateur de l'Oratoire",
+  "summary": "Pierre, Paul et Philippe. Depuis 500 ans les « Apôtres de Rome » sont trois. Cela en dit long sur l’amour d’une cité pour un homme né à Florence, mais né à nouveau, pour les Romains, entre les places de la Cité Eternelle et les ruelles les plus dégradées, où un pasteur sent l’odeur de ses brebis."
+},{
+  "_id": {
+    "$oid": "60a42963974c2627658cde5c"
+  },
+  "date": "05/26",
+  "lng": "fr",
+  "name": "Saint Eleuthère"
+},{
+  "_id": {
+    "$oid": "60a42963974c2627658cde5d"
+  },
+  "date": "05/26",
+  "lng": "fr",
+  "name": "Saint Simètre martyr à Rome"
+},{
+  "_id": {
+    "$oid": "60a42964974c2627658cde5e"
+  },
+  "date": "05/27",
+  "lng": "fr",
+  "name": "Saint Augustin, évêque de Canterbury",
+  "summary": "Appelé à juste titre l’apôtre d’Angleterre, saint Augustin, l’abbé bénédictin fut envoyé sur l’île devenu une terre de mission après la dégénérescence des coutumes et l’invasion des barbares. Il mourut en 604 sa tombe, à Cantorbéry, devint immédiatement lieu de pèlerinage."
+},{
+  "_id": {
+    "$oid": "60a42964974c2627658cde5f"
+  },
+  "date": "05/28",
+  "lng": "fr",
+  "name": "Saint Germain, évêque de Paris"
+},{
+  "_id": {
+    "$oid": "60a42964974c2627658cde60"
+  },
+  "date": "05/29",
+  "lng": "fr",
+  "name": "Sainte Ursule Ledochowska, fondatrice des Ursulines du Cœur de Jésus"
+},{
+  "_id": {
+    "$oid": "60a42964974c2627658cde61"
+  },
+  "date": "05/29",
+  "lng": "fr",
+  "name": "Saint Paul VI, Pape",
+  "summary": "Pape de 1963 à 1978, Paul VI est le Pape novateur qui conclut le Concile Vatican II, mais il est aussi le défenseur de la vie et des peuples opprimés. Grand réformateur de l’Église, il inaugure les voyages des Papes : il en a effectué 9 sur 5 continents. Il fut canonisé par François en 2018."
+},{
+  "_id": {
+    "$oid": "60a42964974c2627658cde62"
+  },
+  "date": "05/30",
+  "lng": "fr",
+  "name": "Saint Ferdinand, roi de Castille et de Léon"
+},{
+  "_id": {
+    "$oid": "60a42964974c2627658cde63"
+  },
+  "date": "05/30",
+  "lng": "fr",
+  "name": "Sainte Jeanne d'Arc Vierge",
+  "summary": "La fille qui restitua l’honneur à la couronne de France et mourut accusée faussement d’hérésie . c’est la parabole célèbre et dramatique de Jeanna d’Arc. La Sainte, brûlée sur le bûcher en 1431, qui, poussée par une impérieuse mission divine, guida l’armée à la libération d’Orléans  des Anglais."
+},{
+  "_id": {
+    "$oid": "60a42964974c2627658cde64"
+  },
+  "date": "05/30",
+  "lng": "fr",
+  "name": "Sainte Dypne",
+  "summary": "Sainte Dypne, que le « martyrologie romaine » évoque le 30 mai, est la sainte patronne des personnes souffrant de troubles mentaux et neurologiques, des centres de soins et de professions médicales s’occupant de ces malades, et aussi des femmes victimes d’inceste et de violence."
+},{
+  "_id": {
+    "$oid": "60a42964974c2627658cde65"
+  },
+  "date": "05/30",
+  "lng": "fr",
+  "name": "Sainte Pétronille"
+},{
+  "_id": {
+    "$oid": "60a42964974c2627658cde66"
+  },
+  "date": "05/31",
+  "lng": "fr",
+  "name": "St. Félix de Nicosie"
+},{
+  "_id": {
+    "$oid": "60a42965974c2627658cde67"
+  },
+  "date": "06/01",
+  "lng": "fr",
+  "name": "Saint Justin, philosophe et martyr",
+  "summary": "Le raisonnement humain pour comprendre le divin. Nombreux sont dans l’Eglise les Saints qui ont emprunté cette voie pour chercher de pénétrer le mystère de l’existence de Dieu. Parmi ceux-ci, le premier à risquer ce défi a été Sain Justin, qui a vécu au deuxième siècle après le Christ."
+},{
+  "_id": {
+    "$oid": "60a42965974c2627658cde68"
+  },
+  "date": "06/02",
+  "lng": "fr",
+  "name": "Saints Marcellin et Pierre, martyrs à Rome",
+  "summary": "Marcellin et Pierre sont deux témoins parmi les innombrables Saints qui ont héroïquement rendu témoignage à l’Evangile; ils ont défendu l’Eglise naissante, et  les  tortures et la mort ne les ont pas conduits à tourner le dos au Christ."
+},{
+  "_id": {
+    "$oid": "60a42965974c2627658cde69"
+  },
+  "date": "06/02",
+  "lng": "fr",
+  "name": "Saint Eugène 1er Pape"
+},{
+  "_id": {
+    "$oid": "60a42965974c2627658cde6a"
+  },
+  "date": "06/03",
+  "lng": "fr",
+  "name": "Saints Charles Lwanga et ses 21 compagnons martyrs en Ouganda",
+  "summary": "Saint Charles Lwanga et ses compagnons sont les plus célèbres martyrs de l’Ouganda, catholiques et anglicans, victimes en 1886, des persécutions perpétrées à cette époque dans le pays contre les chrétiens. L’Eglise les célèbre le jour où ils furent brûlés vifs sur la colline de Namugongo."
+},{
+  "_id": {
+    "$oid": "60a42965974c2627658cde6b"
+  },
+  "date": "06/03",
+  "lng": "fr",
+  "name": "Sainte Clotilde Reine des Francs"
+},{
+  "_id": {
+    "$oid": "60a42965974c2627658cde6c"
+  },
+  "date": "06/04",
+  "lng": "fr",
+  "name": "Saint François Caracciolo, fondateur de la congrégation des Clercs réguliers",
+  "summary": "Né dans une des familles les plus en vue de l’Italie méridionale, les Caracciolo, Ascagne prendra le nom de François, en honneur du Saint d’Assise, à l’approbation du nouvel Institut. Dévot de Marie et amoureux de l’Eucharistie, il œuvre, jusqu’à sa mort en 1608, pour en diffuser l’Adoration."
+},{
+  "_id": {
+    "$oid": "60a42965974c2627658cde6d"
+  },
+  "date": "06/04",
+  "lng": "fr",
+  "name": "Saint Quirin, martyr : son corps repose à Saint Sébastien"
+},{
+  "_id": {
+    "$oid": "60a42966974c2627658cde6e"
+  },
+  "date": "06/05",
+  "lng": "fr",
+  "name": "Saint Boniface, apôtre de l’Allemagne, archevêque de Mayence, martyr"
+},{
+  "_id": {
+    "$oid": "60a42966974c2627658cde6f"
+  },
+  "date": "06/06",
+  "lng": "fr",
+  "name": "Saint Norbert de Xanten, archevêque de Magdebourg, fondateur des chanoines réguliers de Prémontré"
+},{
+  "_id": {
+    "$oid": "60a42966974c2627658cde70"
+  },
+  "date": "06/06",
+  "lng": "fr",
+  "name": "Saints Artème et Pauline martyrs à Rome sur la via Aurelia"
+},{
+  "_id": {
+    "$oid": "60a42966974c2627658cde71"
+  },
+  "date": "06/06",
+  "lng": "fr",
+  "name": "Saint Claude évêque du Jura "
+},{
+  "_id": {
+    "$oid": "60a42966974c2627658cde72"
+  },
+  "date": "06/07",
+  "lng": "fr",
+  "name": "Saint Antoine-Marie Gianelli, évêque de Bobbio, fondateur des Sœurs de Sainte-Marie du Jardin"
+},{
+  "_id": {
+    "$oid": "60a42966974c2627658cde73"
+  },
+  "date": "06/08",
+  "lng": "fr",
+  "name": "Saint Médard, évêque de Noyon"
+},{
+  "_id": {
+    "$oid": "60a42966974c2627658cde74"
+  },
+  "date": "06/09",
+  "lng": "fr",
+  "name": "Saint Ephrem, diacre et Docteur de l'Eglise",
+  "summary": "Intellectuel, poète, chantre, homme d’action et de charité. Rarement on trouve des qualités aussi diverses chez la même personne, comme c’est le cas pour saint Ephrem(306-373), docteur de l’Eglise. Il choisit le christianisme contre la volonté de son père et devient un éminent héraut de la foi."
+},{
+  "_id": {
+    "$oid": "60a42966974c2627658cde75"
+  },
+  "date": "06/09",
+  "lng": "fr",
+  "name": "Bienheureuse Anne-Marie Taïgi mère de Famille"
+},{
+  "_id": {
+    "$oid": "60a42966974c2627658cde76"
+  },
+  "date": "06/09",
+  "lng": "fr",
+  "name": "Saints Prime et Félicien martyrs à Rome"
+},{
+  "_id": {
+    "$oid": "60a42967974c2627658cde77"
+  },
+  "date": "06/10",
+  "lng": "fr",
+  "name": "Saint Landry, évêque de Paris"
+},{
+  "_id": {
+    "$oid": "60a42967974c2627658cde78"
+  },
+  "date": "06/11",
+  "lng": "fr",
+  "name": "Saint Barnabé, apôtre ",
+  "summary": "Saint Barnabé n’était pas l’un des Douze, mais homme vertueux et de foi, il est appelé apôtre et vénéré comme tel. Il est l’un des premiers à accomplir des voyages pour porter la Bonne Nouvelle à tous les peuples, c’est lui qui exhorte Paul à la mission. Il est mort martyr à Salamine."
+},{
+  "_id": {
+    "$oid": "60a42967974c2627658cde79"
+  },
+  "date": "06/11",
+  "lng": "fr",
+  "name": "Saint Restitut martyr sur la via Nomentana"
+},{
+  "_id": {
+    "$oid": "60a42967974c2627658cde7a"
+  },
+  "date": "06/11",
+  "lng": "fr",
+  "name": "Saint Jean de Saint-Facond Religieux augustin à Salamanque",
+  "summary": "D’origine noble, Jean sera appelé « de Saint-Facond » de son lieu de naissance, dans les Asturies. Dépouillé de toutes ses richesses, il deviendra ermite parmi les Augustins et finira ses jours à Salamanque en 1479, entre soin des pauvres et contemplation de Jésus Eucharistie."
+},{
+  "_id": {
+    "$oid": "60a42967974c2627658cde7b"
+  },
+  "date": "06/11",
+  "lng": "fr",
+  "name": "Sainte Paule Frassinetti fondatrice de la Congrégation des Sœurs de Sainte-Dorothée "
+},{
+  "_id": {
+    "$oid": "60a42967974c2627658cde7c"
+  },
+  "date": "06/12",
+  "lng": "fr",
+  "name": "Saint Léon III, pape"
+},{
+  "_id": {
+    "$oid": "60a42967974c2627658cde7d"
+  },
+  "date": "06/12",
+  "lng": "fr",
+  "name": "Saint Onuphre anachorète en Egypte "
+},{
+  "_id": {
+    "$oid": "60a42967974c2627658cde7e"
+  },
+  "date": "06/13",
+  "lng": "fr",
+  "name": "Saint Antoine de Padoue, frère mineur, docteur de l'Église",
+  "summary": "Prédicateur et confesseur infatigable, Saint Antoine a conjugué vie apostolique et  périodes de vie retirée dans la solitude, comme amour envers le prochain et envers Dieu. Sa fête est le 13 juin. Il est souvent représenté avec une fleur de lys à la main et dans le bras l’Enfant Jésus."
+},{
+  "_id": {
+    "$oid": "60a42968974c2627658cde7f"
+  },
+  "date": "06/14",
+  "lng": "fr",
+  "name": "Saint Elisée, prophète"
+},{
+  "_id": {
+    "$oid": "60a42968974c2627658cde80"
+  },
+  "date": "06/15",
+  "lng": "fr",
+  "name": "Saint Bernard de Menthon, chanoine régulier agostinien"
+},{
+  "_id": {
+    "$oid": "60a42968974c2627658cde81"
+  },
+  "date": "06/15",
+  "lng": "fr",
+  "name": "Sainte Germaine Cousin, vierge"
+},{
+  "_id": {
+    "$oid": "60a42968974c2627658cde82"
+  },
+  "date": "06/15",
+  "lng": "fr",
+  "name": "Saint Vito, martyre en Lucanie"
+},{
+  "_id": {
+    "$oid": "60a42968974c2627658cde83"
+  },
+  "date": "06/16",
+  "lng": "fr",
+  "name": "Saints Cyr et Julitte, martyrs à Tarse"
+},{
+  "_id": {
+    "$oid": "60a42968974c2627658cde84"
+  },
+  "date": "06/17",
+  "lng": "fr",
+  "name": "Saints Blaste et Diogène, martyrs à Rome, sur la via Salaria antica"
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde85"
+  },
+  "date": "06/18",
+  "lng": "fr",
+  "name": "Saints Marc et Marcellianus, martyrs romains"
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde86"
+  },
+  "date": "06/18",
+  "lng": "fr",
+  "name": "Saint Grégoire Barbarigo évêque de Padoue et cardinal",
+  "summary": "Le secours aux pestiférés, la proximité aux fidèles, aux plus pauvres et la formation des prêtres: ce sont les points cardinaux de la vie de Grégoire Barbarigo, sur le modèle de celle de saint Charles Borromée son aîné d’un siècle. Barbarigo fut un homme très estimé par  les Papes de son temps."
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde87"
+  },
+  "date": "06/18",
+  "lng": "fr",
+  "name": "St. Marine de Bithynie",
+  "summary": "Marine de Bithynie est une des histoires les plus singulières de l’Eglise ancienne. Elle devint sainte autour du 8°s.  Déguisée en garçon,  elle passa une brève et intense vie au monastère auprès de son père. Faussement accusée, elle sut, grâce à sa foi tenace, reconquérir sa dignité perdue."
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde88"
+  },
+  "date": "06/19",
+  "lng": "fr",
+  "name": "Saint Romuald, fondateur des Camaldules",
+  "summary": "Originaire de Ravenne, Romuald se fait d’abord moine, puis anachorète et commence à voyager à travers l’Italie en fondant divers monastères. Le plus connu est celui de Camaldoli, en Toscane, où les moines vivent selon la règle bénédictine légèrement modifiée."
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde89"
+  },
+  "date": "06/19",
+  "lng": "fr",
+  "name": "Sainte Julienne Falconieri",
+  "summary": "Dans la Florence divisée entre Guelfes et Gibelins, Julienne Falconieri, fille de la riche bourgeoisie décide de servir les pauvres et prier pour la paix de sa ville. Elle fonde les Servites de Marie, les «Mantellates». Une maladie l’empêche de manger mais la dernière communion est miraculeuse."
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde8a"
+  },
+  "date": "06/19",
+  "lng": "fr",
+  "name": "Saints Gervais et Protais Martyrs à Milan"
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde8b"
+  },
+  "date": "06/20",
+  "lng": "fr",
+  "name": "Saint Silvère, Pape et Martyr"
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde8c"
+  },
+  "date": "06/21",
+  "lng": "fr",
+  "name": "Saint Louis de Gonzague, Jésuite, patron de la jeunesse catholique",
+  "summary": "Noble héritier d’un illustre marquisat, Louis se rend vite compte que le Seigneur le veut ailleurs et renonce à la richesse et à la mondanité, préférant la prière, la pénitence et le service dans la vie qu’il mène parmi les jésuites. Il mourut de la peste à Rome en 1591, “martyr de la charité”."
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde8d"
+  },
+  "date": "06/22",
+  "lng": "fr",
+  "name": "Saint Paulin, évêque de Nole"
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde8e"
+  },
+  "date": "06/22",
+  "lng": "fr",
+  "name": "Saint John Fisher Evêque de Rochester, martyr",
+  "summary": "Théologien puis évêque de Rochester, John Fisher est proche du roi dans la lutte contre la Réforme luthérienne. Mais il désobéit à Henri VIII ne reconnaissant ni son divorce ni sa supériorité au Pape, et fut condamné à mort. Il sera emprisonné aux côtés de Thomas More, en 1535."
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde8f"
+  },
+  "date": "06/22",
+  "lng": "fr",
+  "name": "Saint Flavius Clemens, consul à Rom et martyr"
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde90"
+  },
+  "date": "06/22",
+  "lng": "fr",
+  "name": "Bienheureux Innocent V Pape"
+},{
+  "_id": {
+    "$oid": "60a42969974c2627658cde91"
+  },
+  "date": "06/22",
+  "lng": "fr",
+  "name": "Saint Thomas More, chancelier du roi Henri VIII d'Angleterre, martyr",
+  "summary": "Thomas More fut un ardent défenseur de la conscience face au pouvoir politique, il mourut en 1535 pour avoir refusé de soutenir Henri VIII comme chef de l’Église d’Angleterre. Canonisé en 1935, il est proclamé Patron des Responsables de gouvernement et des hommes politiques par Jean-Paul II."
+},{
+  "_id": {
+    "$oid": "60a4296a974c2627658cde92"
+  },
+  "date": "06/23",
+  "lng": "fr",
+  "name": "Saint Joseph Cafasso, prêtre de Turin",
+  "summary": "Saint Joseph Cafasso fut dans la ville de Turin du XIXe siècle, un formateur “de prêtres saints” dont saint Jean Bosco, à l'école de saint Alphonse de Liguori et saint François de Sales; il porta la miséricorde de Dieu aux prisonniers, surtout aux condamnés à mort dont il est le saint Patron."
+},{
+  "_id": {
+    "$oid": "60a4296a974c2627658cde93"
+  },
+  "date": "06/23",
+  "lng": "fr",
+  "name": "Saints Zacharie et Elisabeth parents de saint Jean-Baptiste",
+  "summary": "Zacharie est descendant d’une caste sacerdotale; Elizabeth parente éloignée de la Madone: les deux époux sont désormais vieux quand ils sont touchés par la grâce d’attendre la naissance de Jean-Baptiste. Leur mémoire tombe la veille de celle de leur fils, Précurseur du Messie."
+},{
+  "_id": {
+    "$oid": "60a4296a974c2627658cde94"
+  },
+  "date": "06/24",
+  "lng": "fr",
+  "name": "Nativité de saint Jean Baptiste",
+  "summary": "Le Christ le définit «le plus grand des enfants nés d’une femme». Jean Baptiste, le précurseur, est l’unique saint dont l’Eglise célèbre la naissance terrestre, le 24 juin, et le martyre le 29 aout. Dernier prophète de l’Ancien Testament et premier du Nouveau, il a vu de ses yeux le Messie."
+},{
+  "_id": {
+    "$oid": "60a4296a974c2627658cde95"
+  },
+  "date": "06/24",
+  "lng": "fr",
+  "name": "Saints Jean et Festus martyrs à Rome sur la via Salaria antica"
+},{
+  "_id": {
+    "$oid": "60a4296a974c2627658cde96"
+  },
+  "date": "06/25",
+  "lng": "fr",
+  "name": "Saint Guillaume, fondateur des moines de Montevergine",
+  "summary": "Pèlerin, ermite, de nouveau pèlerin. L’histoire de Guillaume de Verceil est dynamique et variée. Le saint né en 1085, devient  populaire en Irpinie où il s’établit après de longs voyages, en fondant l’Abbaye de Montevergine et la Congrégation des moines du même nom. Il meurt en 1142."
+},{
+  "_id": {
+    "$oid": "60a4296a974c2627658cde97"
+  },
+  "date": "06/25",
+  "lng": "fr",
+  "name": "Saint Prosper d'Aquitaine, philosophe"
+},{
+  "_id": {
+    "$oid": "60a4296a974c2627658cde98"
+  },
+  "date": "06/26",
+  "lng": "fr",
+  "name": "Saints Jean et Paul, martyrs"
+},{
+  "_id": {
+    "$oid": "60a4296a974c2627658cde99"
+  },
+  "date": "06/26",
+  "lng": "fr",
+  "name": "Saint Josemaría Escrivá de Balaguer fondateur de l’Opus Dei",
+  "summary": "Une œuvre qui permettrait à qui que ce soit de devenir un saint. C’est l’idéal qui a enflammé, encore jeune, Saint Josémaria Escriva de Balaguer, le fondateur de l’Opus Dei. C’est l’histoire d’un prêtre \"amoureux de Dieu\" qui disait: \"Sur cent âmes, les cent nous intéressent\"."
+},{
+  "_id": {
+    "$oid": "60a4296b974c2627658cde9a"
+  },
+  "date": "06/27",
+  "lng": "fr",
+  "name": "Saint Cyrille d'Alexandrie, évêque et Docteur de l'Eglise"
+},{
+  "_id": {
+    "$oid": "60a4296b974c2627658cde9b"
+  },
+  "date": "06/27",
+  "lng": "fr",
+  "name": "Bienheureuse Marie  Mastena"
+},{
+  "_id": {
+    "$oid": "60a4296b974c2627658cde9c"
+  },
+  "date": "06/28",
+  "lng": "fr",
+  "name": "Saint Irénée de Lyon, évêque et martyr",
+  "summary": "Saint Irénée est le premier grand théologien de l’Eglise. Son nom qui, en grec, signifie «pacifique» coïncide avec un programme de vie. Evêque de Lyon, grand défenseur de l’Evangile contre les hérésies, Irénée a été un «bon pasteur» jusqu’à la mort, peut-être en 202. "
+},{
+  "_id": {
+    "$oid": "60a4296b974c2627658cde9d"
+  },
+  "date": "06/28",
+  "lng": "fr",
+  "name": "Saint Paul 1er Pape"
+},{
+  "_id": {
+    "$oid": "60a4296b974c2627658cde9e"
+  },
+  "date": "06/29",
+  "lng": "fr",
+  "name": "Saint Pierre, apôtre, patron de la ville de Rome",
+  "summary": "Premier des disciples à professer la foi en Christ, témoin de la prédication, mort et résurrection de Jésus, Saint-Pierre fut appelé à rassembler la communauté apostolique et à la guider. Premier évêque de Rome, son martyre est commémoré le 29 juin avec celui de Saint Paul."
+},{
+  "_id": {
+    "$oid": "60a4296b974c2627658cde9f"
+  },
+  "date": "06/29",
+  "lng": "fr",
+  "name": "Saint Paul, apôtre, patron de la ville de Rome",
+  "summary": "C’est l’apôtre des nations, le plus grand missionnaire de l’histoire. Saint Paul, pharisien converti au Christ, se consacre sans réserve à l’annonce de l’incarnation, de la  mort et résurrection de Jésus. Son martyre est célébré le  29 juin ensemble avec celui de Saint Pierre."
+},{
+  "_id": {
+    "$oid": "60a4296b974c2627658cdea0"
+  },
+  "date": "06/30",
+  "lng": "fr",
+  "name": "Saints Premiers martyrs de l’église de Rome"
+},{
+  "_id": {
+    "$oid": "60a4296b974c2627658cdea1"
+  },
+  "date": "07/01",
+  "lng": "fr",
+  "name": "Saints Jules et Aaron, martyrs en Grande-Bretagne"
+},{
+  "_id": {
+    "$oid": "60a4296b974c2627658cdea2"
+  },
+  "date": "07/01",
+  "lng": "fr",
+  "name": "Saint Aaron Ancien Testament : Prophète, frère de Moïse"
+},{
+  "_id": {
+    "$oid": "60a4296c974c2627658cdea3"
+  },
+  "date": "07/02",
+  "lng": "fr",
+  "name": "Saints Procès et Martinien, martyrs de Rome"
+},{
+  "_id": {
+    "$oid": "60a4296c974c2627658cdea4"
+  },
+  "date": "07/02",
+  "lng": "fr",
+  "name": "Saint Eustache, martyr"
+},{
+  "_id": {
+    "$oid": "60a4296c974c2627658cdea5"
+  },
+  "date": "07/03",
+  "lng": "fr",
+  "name": "Saint Thomas, apôtre",
+  "summary": "Apôtre de Jésus passé dans l’histoire pour n’avoir pas cru aussitôt à la Résurrection, la foi de Thomas est en fait solide et forte. C’est lui, en effet, qui s’engagera jusqu’en Chine et Inde pour y évangéliser; et c’est en Inde qu’il meurt après y avoir fondé la première communauté chrétienne."
+},{
+  "_id": {
+    "$oid": "60a4296c974c2627658cdea6"
+  },
+  "date": "07/03",
+  "lng": "fr",
+  "name": "Saint Léon II, pape"
+},{
+  "_id": {
+    "$oid": "60a4296c974c2627658cdea7"
+  },
+  "date": "07/04",
+  "lng": "fr",
+  "name": "Sainte Élisabeth du Portugal"
+},{
+  "_id": {
+    "$oid": "60a4296c974c2627658cdea8"
+  },
+  "date": "07/04",
+  "lng": "fr",
+  "name": "Saint Ulrich évêque d'Augsburg"
+},{
+  "_id": {
+    "$oid": "60a4296c974c2627658cdea9"
+  },
+  "date": "07/04",
+  "lng": "fr",
+  "name": "Bienheureux Pier Giorgio Frassati",
+  "summary": "Le jeune Pier Giorgio Frassati fait partie des “saints sociaux” du Piémont, rappelé à la maison du Père le 4 juillet 1925 à 24 ans. Le pape Jean-Paul II le béatifia le 20 mai 1990 pour avoir raffermi la charité du Christ au quotidien en le désignant “l’homme des huit béatitudes”."
+},{
+  "_id": {
+    "$oid": "60a4296c974c2627658cdeaa"
+  },
+  "date": "07/05",
+  "lng": "fr",
+  "name": "Saint Antoine-Marie Zaccaria, fondateur des Barnabites"
+},{
+  "_id": {
+    "$oid": "60a4296d974c2627658cdeab"
+  },
+  "date": "07/06",
+  "lng": "fr",
+  "name": "Sainte Maria Goretti, vierge et martyre",
+  "summary": "Une martyre de la pureté. La petite Marie Goretti, dont la fête se célèbre le 6 juillet, est morte au début du XXème siècle pour défendre sa virginité face à un agresseur qu’elle pardonna avant de rendre l’âme."
+},{
+  "_id": {
+    "$oid": "60a4296d974c2627658cdeac"
+  },
+  "date": "07/06",
+  "lng": "fr",
+  "name": "Bienheureuse Marie-Thérèse Ledóchowska, fondatrice des sœurs missionnaires de saint Pierre Claver.",
+  "summary": "Née en Autriche d’une noble famille polonaise, Marie Thérèse, dès son enfance, apprend, ensemble avec les bonnes manières, la vie de sainteté. Par sa rencontre avec les Franciscaines missionnaires de Marie et le card. Lavigerie elle comprend que sa route conduit en Afrique affligée par l’esclavage."
+},{
+  "_id": {
+    "$oid": "60a4296d974c2627658cdead"
+  },
+  "date": "07/06",
+  "lng": "fr",
+  "name": "Bienheureux Benoît XI, Pape"
+},{
+  "_id": {
+    "$oid": "60a4296d974c2627658cdeae"
+  },
+  "date": "07/08",
+  "lng": "fr",
+  "name": "Bienheureux Eugène III, Pape"
+},{
+  "_id": {
+    "$oid": "60a4296d974c2627658cdeaf"
+  },
+  "date": "07/08",
+  "lng": "fr",
+  "name": "Saints Aquila et Priscille convertis par Saint Paul à Corinthe ",
+  "summary": "Amis de Paul, les saints Aquila et Priscille, époux et martyrs, sont évoqués par l’Apôtre Paul qui en loue le témoignage chrétien et l’engagement dans la formation des néophytes. Leur maison, «église domestique», fut un point de référence pour les communautés de Corinthe, Ephèse et Rome."
+},{
+  "_id": {
+    "$oid": "60a4296d974c2627658cdeb0"
+  },
+  "date": "07/09",
+  "lng": "fr",
+  "name": "Saint Augustin Zhao Rong, prêtre, et ses compagnons, martyrs en Chine",
+  "summary": "Mort à Sichuan, un jour de printemps de 1815, Augustin est le premier prêtre chinois dont est attesté le martyre. Par la volonté de Jean-Paul II il est vénéré ensemble avec le groupe de 120 martyrs en Chine, entre 1648 et 1930, et canonisés tous ensemble durant le Jubilé 2000."
+},{
+  "_id": {
+    "$oid": "60a4296d974c2627658cdeb1"
+  },
+  "date": "07/09",
+  "lng": "fr",
+  "name": "Saint Adrien III, pape"
+},{
+  "_id": {
+    "$oid": "60a4296d974c2627658cdeb2"
+  },
+  "date": "07/09",
+  "lng": "fr",
+  "name": "Sainte Véronique Giuliani Clarisse italienne "
+},{
+  "_id": {
+    "$oid": "60a4296e974c2627658cdeb3"
+  },
+  "date": "07/10",
+  "lng": "fr",
+  "name": "Saintes Rufine et Seconde, martyres sur la via Cornelia, à Rome"
+},{
+  "_id": {
+    "$oid": "60a4296e974c2627658cdeb4"
+  },
+  "date": "07/10",
+  "lng": "fr",
+  "name": "Saintes Anatolie et Victoire martyres en Italie"
+},{
+  "_id": {
+    "$oid": "60a4296e974c2627658cdeb5"
+  },
+  "date": "07/11",
+  "lng": "fr",
+  "name": "Saint Benoît, abbé, Patron de l’Europe",
+  "summary": "Saint Benoît est le fondateur de l’ordre des bénédictins, patron de l’Europe, et patriarche du monachisme occidental. Sa vie est le reflet de la « Règle » dont l’esprit est résumé dans son « Ora et labora ». "
+},{
+  "_id": {
+    "$oid": "60a4296e974c2627658cdeb6"
+  },
+  "date": "07/11",
+  "lng": "fr",
+  "name": "Saint Pie I, pape"
+},{
+  "_id": {
+    "$oid": "60a4296e974c2627658cdeb7"
+  },
+  "date": "07/12",
+  "lng": "fr",
+  "name": "Saint Jean Gualbert, abbé, fondateur des Vallombrosains"
+},{
+  "_id": {
+    "$oid": "60a4296e974c2627658cdeb8"
+  },
+  "date": "07/12",
+  "lng": "fr",
+  "name": "Saints Nabor et Félix Martyrs à Lodi, en Lombardie"
+},{
+  "_id": {
+    "$oid": "60a4296e974c2627658cdeb9"
+  },
+  "date": "07/13",
+  "lng": "fr",
+  "name": "Saint Henri II, empereur",
+  "summary": "Empereur du Saint Empire Romain et dernier représentant de la dynastie des Othon, Henri II vit de 973 à1024; il consacre sa vie à renforcer les sorts de l’ Eglise ainsi que ceux de son royaume. Il est considéré comme un exemple de rectitude dans le gouvernement et est patron des monarques."
+},{
+  "_id": {
+    "$oid": "60a4296e974c2627658cdeba"
+  },
+  "date": "07/13",
+  "lng": "fr",
+  "name": "Saint Esdras, scribe"
+},{
+  "_id": {
+    "$oid": "60a4296e974c2627658cdebb"
+  },
+  "date": "07/13",
+  "lng": "fr",
+  "name": "Saint Sylvain, disciple de Saint Paul"
+},{
+  "_id": {
+    "$oid": "60a4296e974c2627658cdebc"
+  },
+  "date": "07/14",
+  "lng": "fr",
+  "name": "Saint Camille de Lellis, prêtre, fondateur des Camilliens (clers réguliers des infirmes)",
+  "summary": "Camille de Lellis offre un message très actuel, qui stimule à vivre le primat de la charité. Dans l’Encyclique «Deus Caritas est», Benoit XVI le classe parmi « les modèles éminents de charité sociale», «initiateur d’une nouvelle école de charité», exemple pour tous les hommes de bonne volonté. "
+},{
+  "_id": {
+    "$oid": "60a4296f974c2627658cdebd"
+  },
+  "date": "07/15",
+  "lng": "fr",
+  "name": "Saint Pompilio-Maria Pirotti, Religieux des Ecoles pies"
+},{
+  "_id": {
+    "$oid": "60a4296f974c2627658cdebe"
+  },
+  "date": "07/15",
+  "lng": "fr",
+  "name": "Saint Bonaventure, cardinal, évêque d’Albano et docteur de l’Église, franciscain",
+  "summary": "Appelé à juste titre «le second fondateur de l’Ordre» des Frères Mineurs, saint Bonaventure, remarquable théologien et docteur de l’Eglise, transforme la tradition franciscaine en école de pensée. Il meurt en 1274, durant le Concile de Lyon sur l’unité des chrétiens. Il est canonisé en 1482."
+},{
+  "_id": {
+    "$oid": "60a4296f974c2627658cdebf"
+  },
+  "date": "07/16",
+  "lng": "fr",
+  "name": "Bienheureuse Vierge Marie du Mont Carmel"
+},{
+  "_id": {
+    "$oid": "60a4296f974c2627658cdec0"
+  },
+  "date": "07/16",
+  "lng": "fr",
+  "name": "Sainte Marie-Madeleine Postel, Fondatrice des Sœurs des Ecoles chrétiennes "
+},{
+  "_id": {
+    "$oid": "60a4296f974c2627658cdec1"
+  },
+  "date": "07/17",
+  "lng": "fr",
+  "name": "Sainte Marcelline, vierge, soeur de saint Ambroise, évêque"
+},{
+  "_id": {
+    "$oid": "60a4296f974c2627658cdec2"
+  },
+  "date": "07/17",
+  "lng": "fr",
+  "name": "Saint Alexis"
+},{
+  "_id": {
+    "$oid": "60a4296f974c2627658cdec3"
+  },
+  "date": "07/17",
+  "lng": "fr",
+  "name": "Saint Léon IV, pape",
+  "summary": "Pasteur, diplomate, stratège, le pape Léon IV doit tout faire, en huit ans d’un pontificat caractérisé par la “défense”: des Sarrasins, en mer et sur terre, mais aussi des incendies, des tremblements de terre, de la mollesse du clergé et des désaccords avec l’empereur. Il mourut en juillet 855."
+},{
+  "_id": {
+    "$oid": "60a4296f974c2627658cdec4"
+  },
+  "date": "07/18",
+  "lng": "fr",
+  "name": "Saint Émilien, martyr de Roumanie"
+},{
+  "_id": {
+    "$oid": "60a4296f974c2627658cdec5"
+  },
+  "date": "07/18",
+  "lng": "fr",
+  "name": "Saint Bruno de Segni, Evêque-abbé au Mont-Cassin "
+},{
+  "_id": {
+    "$oid": "60a4296f974c2627658cdec6"
+  },
+  "date": "07/18",
+  "lng": "fr",
+  "name": "Saint Frédéric d’Utrecht"
+},{
+  "_id": {
+    "$oid": "60a42970974c2627658cdec7"
+  },
+  "date": "07/19",
+  "lng": "fr",
+  "name": "Saint Symmaque, Pape"
+},{
+  "_id": {
+    "$oid": "60a42970974c2627658cdec8"
+  },
+  "date": "07/20",
+  "lng": "fr",
+  "name": "Saint Apollinaire, évêque de Ravenne et martyr",
+  "summary": "Premier à exercer le ministère épiscopal dans la ville impériale de Ravenne par la volonté directe de l’apôtre Pierre dont il était le disciple, Apollinaire l’administre pendant 30 ans, en menant une intense évangélisation dans toute la région qui lui valut enfin le martyre."
+},{
+  "_id": {
+    "$oid": "60a42970974c2627658cdec9"
+  },
+  "date": "07/20",
+  "lng": "fr",
+  "name": "Saint Elie, prophète",
+  "summary": "« Le Seigneur est mon Dieu »: c’est la signification du nom Elie. Prophète du IX s. av.C. il vit en Israël en consacrant sa vie à susciter dans le peuple la reconnaissance du Seigneur comme l’unique Dieu, sans se laisser tromper par l’idolâtrie. Energique et intransigeant, il disparaît en 805 av.C. "
+},{
+  "_id": {
+    "$oid": "60a42970974c2627658cdeca"
+  },
+  "date": "07/20",
+  "lng": "fr",
+  "name": "Saint Aurèle Evêque de Carthage"
+},{
+  "_id": {
+    "$oid": "60a42970974c2627658cdecb"
+  },
+  "date": "07/21",
+  "lng": "fr",
+  "name": "Saint Laurent de Brindisi, prêtre capucin, docteur de l’Église"
+},{
+  "_id": {
+    "$oid": "60a42970974c2627658cdecc"
+  },
+  "date": "07/21",
+  "lng": "fr",
+  "name": "Sainte Praxède, Vierge martyre à Rome"
+},{
+  "_id": {
+    "$oid": "60a42970974c2627658cdecd"
+  },
+  "date": "07/21",
+  "lng": "fr",
+  "name": "Saint Ézéchiel, prophète",
+  "summary": "Le plus ferme des quatre grands prophètes de l’histoire d’Israël, Ezéchiel, déporté, en 597, ensemble avec le peuple à Babylone, encourage les exilés en annonçant la Parole de Dieu. Son livre dans l’Ancien Testament est plein de visions et de symbolismes."
+},{
+  "_id": {
+    "$oid": "60a42970974c2627658cdece"
+  },
+  "date": "07/22",
+  "lng": "fr",
+  "name": "Sainte Marie-Madeleine, disciple du Seigneur",
+  "summary": "Marie Madeleine, apôtre des apôtres, délivrée du mal est la première, parmi les femmes qui ont suivi Jésus, à le proclamer comme celui qui a vaincu la mort. La fête de cette sainte qui a suivi le Christ jusqu’au Calvaire se célèbre le 22 juillet."
+},{
+  "_id": {
+    "$oid": "60a42971974c2627658cdecf"
+  },
+  "date": "07/23",
+  "lng": "fr",
+  "name": "Sainte Brigitte, religieuse, Patronne de l’Europe",
+  "summary": "De haute noblesse, Brigitte, épouse, mère de famille, fondatrice de l’Ordre du Très Saint Sauveur, naît en 1303 à Finsta en Suède. Sa vie fut marquée par des voyages, lettres aux princes européens, expériences mystiques et messages au Pape pour qu’il retourne d’Avignon à Rome."
+},{
+  "_id": {
+    "$oid": "60a42971974c2627658cded0"
+  },
+  "date": "07/24",
+  "lng": "fr",
+  "name": "Saint Charbel Makhlouf, prêtre",
+  "summary": "Connu comme «le Padre Pio du Liban», Charbel Makhloof est un moine maronite qui en 1875 obtient la permission de vivre en ermite, donc proche de Dieu, dans le silence et la prière; après sa mort de nombreux prodiges surtout des guérisons miraculeuses lui sont attribués. Il est canonisé par Paul VI."
+},{
+  "_id": {
+    "$oid": "60a42971974c2627658cded1"
+  },
+  "date": "07/24",
+  "lng": "fr",
+  "name": "Sainte Christine, vierge et martyre"
+},{
+  "_id": {
+    "$oid": "60a42971974c2627658cded2"
+  },
+  "date": "07/25",
+  "lng": "fr",
+  "name": "Saint Jacques le Majeur, apôtre",
+  "summary": "Disciple de Jésus, protecteur des pèlerins et des soldats, évangélisateur de l'Espagne, Saint Jacques le Majeur, que l'Église célèbre le 25 juillet, est représenté dans l’iconographie avec le bâton du pèlerin et le rouleau de l'Évangile en main."
+},{
+  "_id": {
+    "$oid": "60a42971974c2627658cded3"
+  },
+  "date": "07/25",
+  "lng": "fr",
+  "name": "Saint Christophe, martyr",
+  "summary": "Saint Christophe, un des saints martyrs tombés sous la persécution de Dèce, a un nom d’une signification belle et symbolique : le Saint porte le Christ, et sa fête se célèbre le 25 juillet."
+},{
+  "_id": {
+    "$oid": "60a42971974c2627658cded4"
+  },
+  "date": "07/26",
+  "lng": "fr",
+  "name": "Saint Joachim et Anne, parents de la Bienheureuse Vierge Marie",
+  "summary": "Parents de Marie, et grands-parents de Jésus, saints Joachim et Anne sont célébrés ensemble le 26 juillet depuis 1969, après la réforme liturgique du Concile du Vatican II. Même si les Ecritures Saintes ne les mentionnent pas, cependant leurs noms sont conservés depuis l’antique tradition chrétienne"
+},{
+  "_id": {
+    "$oid": "60a42971974c2627658cded5"
+  },
+  "date": "07/27",
+  "lng": "fr",
+  "name": "Saint Pantaléon, médecin, martyr"
+},{
+  "_id": {
+    "$oid": "60a42971974c2627658cded6"
+  },
+  "date": "07/27",
+  "lng": "fr",
+  "name": "Saint Célestin I, pape"
+},{
+  "_id": {
+    "$oid": "60a42971974c2627658cded7"
+  },
+  "date": "07/27",
+  "lng": "fr",
+  "name": "Saint Siméon Stylite l'Ancien, Ascète en Syrie",
+  "summary": "Appelé “l’Ancien” pour le distinguer de son homonyme qui après lui vivra également sur une colonne, Siméon, originaire de Cilicie, a vécu en Syrie entre les IVe et Ve siècle. C’est un moine exemplaire dans l’exercice extrême des vertus, il mort auréolé d’une réputation de sainteté."
+},{
+  "_id": {
+    "$oid": "60a42972974c2627658cded8"
+  },
+  "date": "07/28",
+  "lng": "fr",
+  "name": "Bienheureux Urbain II, Pape"
+},{
+  "_id": {
+    "$oid": "60a42972974c2627658cded9"
+  },
+  "date": "07/28",
+  "lng": "fr",
+  "name": "Saints Nazaire et Celse, Martyrs à Milan"
+},{
+  "_id": {
+    "$oid": "60a42972974c2627658cdeda"
+  },
+  "date": "07/28",
+  "lng": "fr",
+  "name": "Saint Victor I, pape"
+},{
+  "_id": {
+    "$oid": "60a42972974c2627658cdedb"
+  },
+  "date": "07/29",
+  "lng": "fr",
+  "name": "Sainte Marthe, disciple du Seigneur",
+  "summary": "De son zèle on apprend à ne pas se perdre en de multiples occupations qui font négliger l’amour; de sa profession de foi on apprend que c’est seulement en abandonnant les certitudes humaines que la vie en Dieu fait faire l’expérience des prodiges qu’on ne croit pas possibles."
+},{
+  "_id": {
+    "$oid": "60a42972974c2627658cdedc"
+  },
+  "date": "07/29",
+  "lng": "fr",
+  "name": "Saint Felix martyr à Rome"
+},{
+  "_id": {
+    "$oid": "60a42972974c2627658cdedd"
+  },
+  "date": "07/29",
+  "lng": "fr",
+  "name": "Sainte Béatrice",
+  "summary": "Béatrice ou Viatrice, du latin viator, voyageur, est une martyre romaine. Elle mourut durant les persécutions de Dioclétien entre 303 et 304. Sa fête se célèbre le 29 juillet ensemble avec les saints Simplice, Faustin et Rufo, martyrs."
+},{
+  "_id": {
+    "$oid": "60a42972974c2627658cdede"
+  },
+  "date": "07/29",
+  "lng": "fr",
+  "name": "Saint Lazare de Béthanie",
+  "summary": "Saint Lazare est parmi tous les saints le seul à être mort deux fois. Quatre jours après sa mort, en fait, le Saint a été ressuscité par son ami Jésus. Sa mémoire liturgique tombe le 29 juillet."
+},{
+  "_id": {
+    "$oid": "60a42972974c2627658cdedf"
+  },
+  "date": "07/30",
+  "lng": "fr",
+  "name": "Saint Pierre Chrysologue, évêque de Ravenne et docteur de l’Église"
+},{
+  "_id": {
+    "$oid": "60a42972974c2627658cdee0"
+  },
+  "date": "07/30",
+  "lng": "fr",
+  "name": "Saints Abdon et Sennen, Martyrs à Rome"
+},{
+  "_id": {
+    "$oid": "60a42972974c2627658cdee1"
+  },
+  "date": "07/31",
+  "lng": "fr",
+  "name": "Saint Ignace de Loyola, prêtre, fondateur de la Compagnie de Jésus",
+  "summary": "Saint Ignace de Loyola est l’un des saints de la réforme catholique du XVI siècle. Fondateur de la Compagnie de Jésus, il est considéré comme maître de spiritualité grâce à ses Exercices spirituels. Sa fête se célèbre le 31 juillet."
+},{
+  "_id": {
+    "$oid": "60a42972974c2627658cdee2"
+  },
+  "date": "07/31",
+  "lng": "fr",
+  "name": "Saint Justin de Jacobis, Lazariste, évêque en Ethiopie",
+  "summary": "Connu comme le «père de l’Eglise d’Ethiopie», saint Justin de Jacobis se distingue  par « le mandat missionnaire» , « la préoccupation de former le clergé indigène» et «l’action œcuménique», comme le souligne Paul VI lors de la cérémonie de sa canonisation en 1975."
+},{
+  "_id": {
+    "$oid": "60a42973974c2627658cdee3"
+  },
+  "date": "08/01",
+  "lng": "fr",
+  "name": "Saint Alphonse de Liguori, évêque et docteur de l’Église, fondateur de la Congrégation des Rédemptoristes",
+  "summary": "Avocat très précoce, Alphonse, de noble famille napolitaine, à 30 ans ,il abandonne tout pour devenir prêtre. En 1732 il fonde la Congrégation du Très Saint Rédempteur, puis nommé évêque de sainte Agathe des Goths. Il est canonisé en1839, et proclamé Docteur de l’Eglise en 1871 par Pie XI."
+},{
+  "_id": {
+    "$oid": "60a42973974c2627658cdee4"
+  },
+  "date": "08/01",
+  "lng": "fr",
+  "name": "Saints sept frères Maccabées, martyrs"
+},{
+  "_id": {
+    "$oid": "60a42973974c2627658cdee5"
+  },
+  "date": "08/01",
+  "lng": "fr",
+  "name": "Saint Pierre Favre, jésuite",
+  "summary": "Pierre Favre fut l'un des premiers compagnons de saint Ignace de Loyola et le seul prêtre de leur groupe. Originaire de Savoie, il était venu à Paris pour ses études, et suivit saint Ignace jusqu'à Rome, puis fonda plusieurs collèges en Allemagne. On le fête le 1er août."
+},{
+  "_id": {
+    "$oid": "60a42973974c2627658cdee6"
+  },
+  "date": "08/02",
+  "lng": "fr",
+  "name": "Saint Eusèbe, évêque de Verceil"
+},{
+  "_id": {
+    "$oid": "60a42973974c2627658cdee7"
+  },
+  "date": "08/02",
+  "lng": "fr",
+  "name": "Saint Pierre-Julien Eymard, Fondateur des pères du Saint-Sacrement ",
+  "summary": "Apôtre de l’Eucharistie, saint Pierre Julien Eymard, est  célébré par l’Eglise le 2 août. Fondateur des prêtres du  Très Saint  Sacrement et inspirateur des Congrès Eucharistiques, le saint  a fait de l’amour du Christ, contemplé à l’autel, le centre de sa vie."
+},{
+  "_id": {
+    "$oid": "60a42973974c2627658cdee8"
+  },
+  "date": "08/02",
+  "lng": "fr",
+  "name": "Saint Etienne I, pape"
+},{
+  "_id": {
+    "$oid": "60a42973974c2627658cdee9"
+  },
+  "date": "08/03",
+  "lng": "fr",
+  "name": "Sainte Lydie, disciple de saint Paul"
+},{
+  "_id": {
+    "$oid": "60a42973974c2627658cdeea"
+  },
+  "date": "08/04",
+  "lng": "fr",
+  "name": "Saint Jean-Marie Vianney, curé d’Ars, patron des prêtres ayant charge d’âme",
+  "summary": "Patron des curés, communément appelé Curé d’Ars, saint Jean-Marie Vianney vécut dans la deuxième moitié du XIX siècle. Exemple de vie sacerdotale, il consacra sa mission au salut des âmes, en passant seize heures par jour au confessionnal. Benoît XVI lui a dédié une Année Sacerdotale en 2009."
+},{
+  "_id": {
+    "$oid": "60a42973974c2627658cdeeb"
+  },
+  "date": "08/04",
+  "lng": "fr",
+  "name": "Saints Justin et Crescentius, martyrs à Rome"
+},{
+  "_id": {
+    "$oid": "60a42974974c2627658cdeec"
+  },
+  "date": "08/05",
+  "lng": "fr",
+  "name": "St. Oswald"
+},{
+  "_id": {
+    "$oid": "60a42974974c2627658cdeed"
+  },
+  "date": "08/06",
+  "lng": "fr",
+  "name": "Saint Hormisdas, Pape"
+},{
+  "_id": {
+    "$oid": "60a42974974c2627658cdeee"
+  },
+  "date": "08/07",
+  "lng": "fr",
+  "name": "Saint Sixte II, Pape, et ses compagnons, martyrs"
+},{
+  "_id": {
+    "$oid": "60a42974974c2627658cdeef"
+  },
+  "date": "08/07",
+  "lng": "fr",
+  "name": "Saint Gaétan de Thiene, Fondateur de l'ordre des Théatins "
+},{
+  "_id": {
+    "$oid": "60a42974974c2627658cdef0"
+  },
+  "date": "08/07",
+  "lng": "fr",
+  "name": "Saint Donatien, évêque de Châlons"
+},{
+  "_id": {
+    "$oid": "60a42974974c2627658cdef1"
+  },
+  "date": "08/07",
+  "lng": "fr",
+  "name": "Saint Albert de Messine, Provincial des Carmes pour la Sicile"
+},{
+  "_id": {
+    "$oid": "60a42974974c2627658cdef2"
+  },
+  "date": "08/08",
+  "lng": "fr",
+  "name": "Saint Dominique, prêtre, fondateur de l’Ordre des Frères prêcheurs",
+  "summary": "«Humble ministre de la prédication», mais un géant. Dominique de Guzman est l’une de ces figures extraordinaires de l’Eglise de tous les temps. Il affronte avec ardeur les hérésies de son époque, fonde et diffuse l’Ordre des Frères Prêcheurs, vit avec la force et la grâce d’un alter Christus."
+},{
+  "_id": {
+    "$oid": "60a42974974c2627658cdef3"
+  },
+  "date": "08/08",
+  "lng": "fr",
+  "name": "Saints Cyriaque, Large et Smaragde, martyrs à Rome"
+},{
+  "_id": {
+    "$oid": "60a42974974c2627658cdef4"
+  },
+  "date": "08/09",
+  "lng": "fr",
+  "name": "Sainte Thérèse Bénédicte de la Croix (Edith Stein), vierge et martyre carmélite, Patronne de l’Europe",
+  "summary": "Martyre pour la foi, patronne de l’Europe depuis 1998, sainte Thérèse Bénédicte de la Croix, au civil Edith Stein. L’Eglise célèbre sa fête le 9 aout. Philosophe juive convertie au catholicisme, elle meurt dans les chambres à gaz d’Auschwitz en 1942."
+},{
+  "_id": {
+    "$oid": "60a42974974c2627658cdef5"
+  },
+  "date": "08/09",
+  "lng": "fr",
+  "name": "Saint Romain, martyr à Rome"
+},{
+  "_id": {
+    "$oid": "60a42975974c2627658cdef6"
+  },
+  "date": "08/10",
+  "lng": "fr",
+  "name": "Saint Laurent, diacre et martyr",
+  "summary": "Mort martyr pour Christ, Saint-Laurent est le patron des diacres, des cuisiniers et des pompiers. Dans la période de sa fête, qui est célébrée le 10 août, le ciel nocturne s'illumine de sentiers lumineux. Le phénomène est lié au passage d'un essaim de météorites laissé par une comète."
+},{
+  "_id": {
+    "$oid": "60a42975974c2627658cdef7"
+  },
+  "date": "08/11",
+  "lng": "fr",
+  "name": "Sainte Claire d’Assise, vierge et fondatrice des Clarisses",
+  "summary": "L’Eglise fait mémoire le 11 aout de Saint Claire d’Assise, vierge du XIIIe siècle, fondatrice des Clarisses. A tout juste 18 ans, elle décide de suivre François, un choix désapprouvé par sa famille paternelle. Elle abandonne toute richesse et se consacre entièrement à la prière. "
+},{
+  "_id": {
+    "$oid": "60a42975974c2627658cdef8"
+  },
+  "date": "08/11",
+  "lng": "fr",
+  "name": "Saint Tiburce, martyr à Rome"
+},{
+  "_id": {
+    "$oid": "60a42975974c2627658cdef9"
+  },
+  "date": "08/11",
+  "lng": "fr",
+  "name": "Sainte Suzanne, martyre romaine",
+  "summary": "Consacrée au Christ, elle refusa d’épouser le fils adoptif de l’empereur Dioclétien. C’est pour ce motif que Suzanne fut condamnée à mort et décapitée le 11 août 294 dans sa maison, devenue ensuite lieu de culte. Ses restes se trouveraient sous l’église qui lui est dédiée en plein cœur de Rome."
+},{
+  "_id": {
+    "$oid": "60a42975974c2627658cdefa"
+  },
+  "date": "08/12",
+  "lng": "fr",
+  "name": "Sainte Jeanne de Chantal, religieuse"
+},{
+  "_id": {
+    "$oid": "60a42975974c2627658cdefb"
+  },
+  "date": "08/12",
+  "lng": "fr",
+  "name": "Bienheureux Innocent XI, pape"
+},{
+  "_id": {
+    "$oid": "60a42975974c2627658cdefc"
+  },
+  "date": "08/13",
+  "lng": "fr",
+  "name": "Saints Pontien, Pape, et Hippolyte, prêtre, martyrs"
+},{
+  "_id": {
+    "$oid": "60a42975974c2627658cdefd"
+  },
+  "date": "08/13",
+  "lng": "fr",
+  "name": "Saint Cassien, martyr"
+},{
+  "_id": {
+    "$oid": "60a42975974c2627658cdefe"
+  },
+  "date": "08/13",
+  "lng": "fr",
+  "name": "Saint Jean Berchmans, Jésuite belge",
+  "summary": "Fils d’un cordonnier dans les Flandres de 1600, Jean doit travailler beaucoup pour assurer ses études et répondre à l’appel du Seigneur. En 1618 il entre dans la Compagnie de Jésus et un an après il est élu maître des novices. Envoyé à Rome pour étudier, il meurt à 22 ans seulement en 1621."
+},{
+  "_id": {
+    "$oid": "60a42975974c2627658cdeff"
+  },
+  "date": "08/13",
+  "lng": "fr",
+  "name": "Sainte Philomène",
+  "summary": "Sainte Philomène est une figure enveloppée de mystère. L'Église se souvient d’elle le 13 août et une grande dévotion l'entoure, surtout au sanctuaire de Mugnano del Cardinale (Province d'Avellino - Italie)  où sont conservées ses reliques, objet de la vénération des pèlerins du monde entier."
+},{
+  "_id": {
+    "$oid": "60a42976974c2627658cdf00"
+  },
+  "date": "08/14",
+  "lng": "fr",
+  "name": "Saint Maximilien Kolbe, prêtre de l’Ordre des Frères mineurs conventuels, et martyr",
+  "summary": "Né en Pologne en 1894, Maximilien Kolbe devient Franciscain. Il fonde la Milice de l’Immaculée. Après l’invasion nazie de son pays il est interné au camp d’extermination d’Auschwitz, où il meurt dans le bunker de la mort après s’être offert à la place d’un père de famille."
+},{
+  "_id": {
+    "$oid": "60a42976974c2627658cdf01"
+  },
+  "date": "08/14",
+  "lng": "fr",
+  "name": "Saint Eusèbe, romain, fondateur de l'église du même nom à Rome "
+},{
+  "_id": {
+    "$oid": "60a42976974c2627658cdf02"
+  },
+  "date": "08/14",
+  "lng": "fr",
+  "name": "S. Alfred, évêque"
+},{
+  "_id": {
+    "$oid": "60a42976974c2627658cdf03"
+  },
+  "date": "08/15",
+  "lng": "fr",
+  "name": "Saint Tarcicius, Martyr à Rome",
+  "summary": "Le jour de la fête de l’Assomption de la Vierge Marie, l’Eglise célèbre S.Tarcisius, patron des servants d’autel et des enfants de chœur; il s’agit d’un jeune chrétien de la première heure qui sacrifia sa vie pour protéger les hosties consacrées qu’il portait avec lui dans un acte de charité."
+},{
+  "_id": {
+    "$oid": "60a42976974c2627658cdf04"
+  },
+  "date": "08/15",
+  "lng": "fr",
+  "name": "Saint Stanislas Kostka, Novice jésuite "
+},{
+  "_id": {
+    "$oid": "60a42976974c2627658cdf05"
+  },
+  "date": "08/16",
+  "lng": "fr",
+  "name": "Saint Étienne, roi de Hongrie"
+},{
+  "_id": {
+    "$oid": "60a42976974c2627658cdf06"
+  },
+  "date": "08/16",
+  "lng": "fr",
+  "name": "Saint Roch, pèlerin"
+},{
+  "_id": {
+    "$oid": "60a42976974c2627658cdf07"
+  },
+  "date": "08/17",
+  "lng": "fr",
+  "name": "Saint Eusèbe, Pape et martyr"
+},{
+  "_id": {
+    "$oid": "60a42976974c2627658cdf08"
+  },
+  "date": "08/17",
+  "lng": "fr",
+  "name": "Saint Hyacinthe, Frère prêcheur en Pologne "
+},{
+  "_id": {
+    "$oid": "60a42976974c2627658cdf09"
+  },
+  "date": "08/17",
+  "lng": "fr",
+  "name": "Sainte Claire de Montefalco, abbesse ",
+  "summary": "«La vie de l’âme est l’amour de Dieu» disait sainte Claire de Montefalco, qui à 6 ans s’immerge dans cet amour dans l’hospice dirigé par sa sœur. Abbesse, elle se distingue par sa sagesse et la science infuse. Sa spiritualité est centrée sur la Passion du Christ. Elle meurt le 17 août 1308."
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf0a"
+  },
+  "date": "08/18",
+  "lng": "fr",
+  "name": "Saint Agapet, martyr de Palestrina"
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf0b"
+  },
+  "date": "08/18",
+  "lng": "fr",
+  "name": "Sainte Hélène, impératrice",
+  "summary": "Mère de Constantin, l’empereur qui donna la liberté de culte aux chrétiens, Sainte Hélène est commémorée le 18 aout. Attentive aux nécessités des pauvres et profondément chrétienne elle construisit d’importantes basiliques et est évoquée en lien avec l’invention de la vraie Croix du Christ."
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf0c"
+  },
+  "date": "08/19",
+  "lng": "fr",
+  "name": "Saint Jean Eudes, prêtre, fondateur des Eudistes"
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf0d"
+  },
+  "date": "08/19",
+  "lng": "fr",
+  "name": "Saint Sixte III, pape"
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf0e"
+  },
+  "date": "08/19",
+  "lng": "fr",
+  "name": "Saint Magne, martyr dans le Latium"
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf0f"
+  },
+  "date": "08/20",
+  "lng": "fr",
+  "name": "Saint Bernard, abbé et docteur de l’Église",
+  "summary": "Docteur de l’Eglise, fondateur de l’abbaye de Clairvaux, Bernard est l’un des pères des Cisterciens; patron des apiculteurs, Saint Bernard, dont la fête est célébrée le 20 août, a parcouru les routes de l’Europe pour combattre les hérésies et défendre le Pape et l’Eglise."
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf10"
+  },
+  "date": "08/20",
+  "lng": "fr",
+  "name": "Saint Samuel, prophète"
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf11"
+  },
+  "date": "08/20",
+  "lng": "fr",
+  "name": "Sainte Maria de Mattias, fondatrice de la Congrégation des Sœurs adoratrices du Sang du Christ"
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf12"
+  },
+  "date": "08/21",
+  "lng": "fr",
+  "name": "Saint Pie X, Pape",
+  "summary": "Connu beaucoup plus pour le catéchisme qui porte son nom, le pape Pie X, au siècle Giuseppe Melchiorre Sarto, gouverna l'Église de 1903 à 1914 : Il meurt, un mois avant le déclenchement de la première guerre mondiale. Canonisé par Pie XII en 1954, sa mémoire est célébrée le 21 août."
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf13"
+  },
+  "date": "08/22",
+  "lng": "fr",
+  "name": "Saint Timothée, martyr à Rome"
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf14"
+  },
+  "date": "08/22",
+  "lng": "fr",
+  "name": "Saint Symphorien d'Autun, Martyr "
+},{
+  "_id": {
+    "$oid": "60a42977974c2627658cdf15"
+  },
+  "date": "08/22",
+  "lng": "fr",
+  "name": "Saint Philippe Benizi, Général de l'Ordre des Servites de Marie"
+},{
+  "_id": {
+    "$oid": "60a42978974c2627658cdf16"
+  },
+  "date": "08/23",
+  "lng": "fr",
+  "name": "Sainte Rose de Lima, vierge, tertiaire dominicaine"
+},{
+  "_id": {
+    "$oid": "60a42978974c2627658cdf17"
+  },
+  "date": "08/23",
+  "lng": "fr",
+  "name": "Saints Abondius et Irénée, martyrs"
+},{
+  "_id": {
+    "$oid": "60a42978974c2627658cdf18"
+  },
+  "date": "08/23",
+  "lng": "fr",
+  "name": "Saints Cyriaque et Archélaüs, martyrs à Ostie"
+},{
+  "_id": {
+    "$oid": "60a42978974c2627658cdf19"
+  },
+  "date": "08/24",
+  "lng": "fr",
+  "name": "Saint Bartholomée, apôtre"
+},{
+  "_id": {
+    "$oid": "60a42978974c2627658cdf1a"
+  },
+  "date": "08/24",
+  "lng": "fr",
+  "name": "Sainte Jeanne-Antide Thouret, Fondatrice des Sœurs de la Charité de Besançon"
+},{
+  "_id": {
+    "$oid": "60a42978974c2627658cdf1b"
+  },
+  "date": "08/24",
+  "lng": "fr",
+  "name": "Sainte Emilie de Vialar",
+  "summary": "Sainte Émilie est née en 1797 à Gaillac, en France. En 1832 elle a fondé, en cette même ville, une Congrégation missionnaire: les Sœurs de St Joseph de l'Apparition, qui s'efforce de contribuer à la réalisation du Plan salvifique de Dieu pour l'humanité."
+},{
+  "_id": {
+    "$oid": "60a42978974c2627658cdf1c"
+  },
+  "date": "08/25",
+  "lng": "fr",
+  "name": "Saint Louis, roi de France",
+  "summary": "La mémoire populaire française garde de Louis IX l'image d'un souverain rendant la justice à l'ombre d'un vieux chêne proche de son château à Vincennes. Saint Louis a en effet frappé ses contemporains par son sens de la justice, sa profonde piété et sa grande charité envers les pauvres. "
+},{
+  "_id": {
+    "$oid": "60a42978974c2627658cdf1d"
+  },
+  "date": "08/25",
+  "lng": "fr",
+  "name": "Saint Joseph de Calasanz, Fondateur des Clercs des Ecoles pies"
+},{
+  "_id": {
+    "$oid": "60a42978974c2627658cdf1e"
+  },
+  "date": "08/26",
+  "lng": "fr",
+  "name": "Saint Zéphyrin, Pape"
+},{
+  "_id": {
+    "$oid": "60a42978974c2627658cdf1f"
+  },
+  "date": "08/26",
+  "lng": "fr",
+  "name": "Saint Maximilien, martyr à Rome "
+},{
+  "_id": {
+    "$oid": "60a42978974c2627658cdf20"
+  },
+  "date": "08/26",
+  "lng": "fr",
+  "name": "Saint Alexandre, martyr à Bergame"
+},{
+  "_id": {
+    "$oid": "60a42979974c2627658cdf21"
+  },
+  "date": "08/27",
+  "lng": "fr",
+  "name": "Sainte Monique, mère de saint Augustin",
+  "summary": "Sainte Monique, mère de Saint Augustin, femme remarquable par sa solide foi chrétienne, vécue au quotidien, dans la prière, force de sa vie, et la confiance inébranlable en Dieu, surtout dans les moments les plus difficiles. Sa fête se célèbre le 27 aout."
+},{
+  "_id": {
+    "$oid": "60a42979974c2627658cdf22"
+  },
+  "date": "08/28",
+  "lng": "fr",
+  "name": "Saint Augustin, évêque d’Hippone et docteur de l’Église",
+  "summary": "Chercheur inquiet de la Vérité, l’histoire de son cheminement de conversion le rend toujours actuel. Saint Augustin est l’un les Pères de l’Eglise qui ont le mieux expliqué principes et dogmes du Christianisme. Evêque d’Hippone, il meurt le 28 aout de l’an 430. Ses reliques sont conservées à Pavie."
+},{
+  "_id": {
+    "$oid": "60a42979974c2627658cdf23"
+  },
+  "date": "08/28",
+  "lng": "fr",
+  "name": "Saint Hermès, Martyr à Rome "
+},{
+  "_id": {
+    "$oid": "60a42979974c2627658cdf24"
+  },
+  "date": "08/29",
+  "lng": "fr",
+  "name": "Sainte Sabine de Rome,  martyre"
+},{
+  "_id": {
+    "$oid": "60a42979974c2627658cdf25"
+  },
+  "date": "08/30",
+  "lng": "fr",
+  "name": "Saints Félix, prêtre, et Audacte, martyrs sur la via Ostiense"
+},{
+  "_id": {
+    "$oid": "60a42979974c2627658cdf26"
+  },
+  "date": "08/30",
+  "lng": "fr",
+  "name": "Saint Pammaque, Sénateur romain"
+},{
+  "_id": {
+    "$oid": "60a42979974c2627658cdf27"
+  },
+  "date": "08/31",
+  "lng": "fr",
+  "name": "Saint Raymond Nonnat, cardinal, prêtre mercédaire"
+},{
+  "_id": {
+    "$oid": "60a42979974c2627658cdf28"
+  },
+  "date": "08/31",
+  "lng": "fr",
+  "name": "Saint Joseph d’Arimathie, recueillit le corps de Jésus déposé de la croix"
+},{
+  "_id": {
+    "$oid": "60a42979974c2627658cdf29"
+  },
+  "date": "08/31",
+  "lng": "fr",
+  "name": "Bienheureux Alfred-Ildefonso Schuster, évêque de Milan et cardinal ",
+  "summary": "Romain, de formation bénédictine, Ildéphonse devient prêtre, est créé cardinal par Pie XI et ordonné archevêque de Milan. Fin pasteur dans les années difficiles de la guerre, toujours proche des gens, il s’éteint en 1954 au séminaire de Venegono qu’il avait contribué à construire."
+},{
+  "_id": {
+    "$oid": "60a4297a974c2627658cdf2a"
+  },
+  "date": "09/01",
+  "lng": "fr",
+  "name": "Saint Gilles, abbé",
+  "summary": "Ses origines sont encore mystérieuses ; il vécut probablement entre le VI et le VIII siècle .Il fut ermite dans une forêt du Sud de la France jusqu’au moment où, par amitié  d’un roi, il devint abbé et guide spirituel de toute la région. L’Eglise  célèbre sa mémoire  le 1° septembre."
+},{
+  "_id": {
+    "$oid": "60a4297a974c2627658cdf2b"
+  },
+  "date": "09/02",
+  "lng": "fr",
+  "name": "Saint Zénon, martyr de Nicomédie"
+},{
+  "_id": {
+    "$oid": "60a4297a974c2627658cdf2c"
+  },
+  "date": "09/03",
+  "lng": "fr",
+  "name": "Saint Grégoire Le Grand, Pape et docteur de l’Église",
+  "summary": "Saint Grégoire le Grand est, avec les saints Ambroise, Jérôme et Augustin, l’un des quatre grands docteurs de l’Eglise d’Occident. Il aurait voulu mener une vie de moine, mais élu pape, il engage une profonde réforme dans l’Eglise. La grandeur de son œuvre lui vaut le titre de «Grand»."
+},{
+  "_id": {
+    "$oid": "60a4297a974c2627658cdf2d"
+  },
+  "date": "09/04",
+  "lng": "fr",
+  "name": "Saint Boniface I, Pape"
+},{
+  "_id": {
+    "$oid": "60a4297a974c2627658cdf2e"
+  },
+  "date": "09/04",
+  "lng": "fr",
+  "name": "Saint Marin, ermite",
+  "summary": "Unique Saint fondateur et patron d’un Etat, Marin arrive à Rimini de Dalmatie en 257 et travaille comme tailleur de pierres. Pour échapper aux persécutions contre les chrétiens il se réfugie sur le Mont Titan où il fonde sa communauté ensemble avec sain Léon. Devenu diacre, il meurt ermite en 366."
+},{
+  "_id": {
+    "$oid": "60a4297a974c2627658cdf2f"
+  },
+  "date": "09/04",
+  "lng": "fr",
+  "name": "Sainte Rosalie, Vierge à Palerme, en Sicile"
+},{
+  "_id": {
+    "$oid": "60a4297a974c2627658cdf30"
+  },
+  "date": "09/04",
+  "lng": "fr",
+  "name": "Saint Moïse, législateur et prophète",
+  "summary": "Au XIV siècle av. JC, sauvé des eaux et élevé auprès du pharaon Moïse est choisi par Dieu pour libérer le peuple d’Israël; ses exploits sont racontés dans les 5 premiers livres de la Bible, le Pentateuque. Par lui, Dieu donne aux Hébreux la Loi et les guide vers la Terre Promise. Il meurt à 120 ans."
+},{
+  "_id": {
+    "$oid": "60a4297b974c2627658cdf31"
+  },
+  "date": "09/05",
+  "lng": "fr",
+  "name": "Saints Acontius, Nonnus, Herculan et Taurin, martyrs à Porto Romano"
+},{
+  "_id": {
+    "$oid": "60a4297b974c2627658cdf32"
+  },
+  "date": "09/05",
+  "lng": "fr",
+  "name": "Sainte Mère Teresa de Calcutta",
+  "summary": "Témoin de la charité et de la miséricorde, Mère Teresa est un exemple des merveilles qu’une personne peut accomplir si elle se confie entièrement à Dieu. La fondatrice des Missionnaires de la Charité, fêtée le 5 septembre, reçut en 1979 le prix Nobel de la Paix."
+},{
+  "_id": {
+    "$oid": "60a4297b974c2627658cdf33"
+  },
+  "date": "09/06",
+  "lng": "fr",
+  "name": "Saint Zacharie, prophète"
+},{
+  "_id": {
+    "$oid": "60a4297b974c2627658cdf34"
+  },
+  "date": "09/06",
+  "lng": "fr",
+  "name": "Saint Onésiphore, disciple de Saint Paul"
+},{
+  "_id": {
+    "$oid": "60a4297b974c2627658cdf35"
+  },
+  "date": "09/07",
+  "lng": "fr",
+  "name": "Sainte Reine, vierge et martyre"
+},{
+  "_id": {
+    "$oid": "60a4297b974c2627658cdf36"
+  },
+  "date": "09/08",
+  "lng": "fr",
+  "name": "Saint Serge I, pape"
+},{
+  "_id": {
+    "$oid": "60a4297b974c2627658cdf37"
+  },
+  "date": "09/08",
+  "lng": "fr",
+  "name": "Saint Thomas de Villeneuve, Moine de Saint-Augustin, évêque"
+},{
+  "_id": {
+    "$oid": "60a4297b974c2627658cdf38"
+  },
+  "date": "09/09",
+  "lng": "fr",
+  "name": "Saint Pierre Claver, prêtre jésuite, apôtre parmi les noirs déportés",
+  "summary": "Jésuite, saint Pierre Claver est passé à l’histoire comme l’un des missionnaires les plus féconds et généreux de l’Amérique du Sud. Fêté par l’Eglise le 9 septembre, il œuvra  pendant plus de 40 ans, en Colombie, en faveur des esclaves noirs dont il baptisa en personne environ trois cents mille. "
+},{
+  "_id": {
+    "$oid": "60a4297b974c2627658cdf39"
+  },
+  "date": "09/09",
+  "lng": "fr",
+  "name": "Saint Gourgon, martyr"
+},{
+  "_id": {
+    "$oid": "60a4297b974c2627658cdf3a"
+  },
+  "date": "09/09",
+  "lng": "fr",
+  "name": "Saint Audomar de Thérouanne"
+},{
+  "_id": {
+    "$oid": "60a4297c974c2627658cdf3b"
+  },
+  "date": "09/10",
+  "lng": "fr",
+  "name": "Saint Nicolas de Tolentino, prêtre, moine de l’Ordre des ermites de Saint-Augustin"
+},{
+  "_id": {
+    "$oid": "60a4297c974c2627658cdf3c"
+  },
+  "date": "09/11",
+  "lng": "fr",
+  "name": "Saints Prote et Hyacinthe, martyrs sur la voie Salaria"
+},{
+  "_id": {
+    "$oid": "60a4297c974c2627658cdf3d"
+  },
+  "date": "09/11",
+  "lng": "fr",
+  "name": "Saint Bonaventure de Barcelone, franciscain"
+},{
+  "_id": {
+    "$oid": "60a4297c974c2627658cdf3e"
+  },
+  "date": "09/12",
+  "lng": "fr",
+  "name": "Saint Guy d'Anderlecht",
+  "summary": "Un des saints les plus vénérés en Belgique, Guide, naît dans la région du Brabant en 950. Il est sacristain puis commerçant pour aider les pauvres, mais le Seigneur le voulut pèlerin de Rome en Terre Sainte. Considéré comme précurseur de saint François d’Assise, il est canonisé en 1112."
+},{
+  "_id": {
+    "$oid": "60a4297c974c2627658cdf3f"
+  },
+  "date": "09/13",
+  "lng": "fr",
+  "name": "Saint Jean Chrysostome, évêque et docteur de l’Église",
+  "summary": "Il est passé à l’histoire avec le surnom de «bouche d’or» pour sa merveilleuse capacité de parler des choses de la foi. Jean Chrysostome naît vers 349 à Antioche. Patriarche de Constantinople, il meurt en exil pour avoir condamné avec courage la corruption du clergé et de la cour Byzantine."
+},{
+  "_id": {
+    "$oid": "60a4297d974c2627658cdf40"
+  },
+  "date": "09/14",
+  "lng": "fr",
+  "name": "Saint Albert, patriarche de Jérusalem"
+},{
+  "_id": {
+    "$oid": "60a4297d974c2627658cdf41"
+  },
+  "date": "09/15",
+  "lng": "fr",
+  "name": "Saint Nicomède, martyr à Rome "
+},{
+  "_id": {
+    "$oid": "60a4297d974c2627658cdf42"
+  },
+  "date": "09/15",
+  "lng": "fr",
+  "name": "Sainte Catherine de Gênes, veuve"
+},{
+  "_id": {
+    "$oid": "60a4297d974c2627658cdf43"
+  },
+  "date": "09/16",
+  "lng": "fr",
+  "name": "Saints Corneille, Pape, et Cyprien, évêque, martyrs",
+  "summary": "Corneille, pape romain, et Cyprien, évêque carthaginois, morts tous deux martyrs, respectivement en 253 et 258, sont des témoins contemporains, intrépides pour défendre la vérité et leur foi, même au prix de leurs vies. Le 16 septembre, on célèbre la déposition du premier et la passion du second."
+},{
+  "_id": {
+    "$oid": "60a4297d974c2627658cdf44"
+  },
+  "date": "09/16",
+  "lng": "fr",
+  "name": "Sainte Euphémie de Chalcédoine Martyre en Bithynie"
+},{
+  "_id": {
+    "$oid": "60a4297d974c2627658cdf45"
+  },
+  "date": "09/16",
+  "lng": "fr",
+  "name": "Bienheureux Victor III, pape"
+},{
+  "_id": {
+    "$oid": "60a4297d974c2627658cdf46"
+  },
+  "date": "09/17",
+  "lng": "fr",
+  "name": "Saint Robert Bellarmin, cardinal, évêque et docteur de l’Église"
+},{
+  "_id": {
+    "$oid": "60a4297d974c2627658cdf47"
+  },
+  "date": "09/17",
+  "lng": "fr",
+  "name": "Sainte Colombe de Cordoue, vierge et martyre"
+},{
+  "_id": {
+    "$oid": "60a4297d974c2627658cdf48"
+  },
+  "date": "09/18",
+  "lng": "fr",
+  "name": "Saint Joseph de Copertino, prêtre franciscain"
+},{
+  "_id": {
+    "$oid": "60a4297d974c2627658cdf49"
+  },
+  "date": "09/18",
+  "lng": "fr",
+  "name": "Sainte Sophie",
+  "summary": "Evoquée dans le Ménologe grec ensemble avec sainte Irène, sainte Sophie aurait été martyrisée à Chypre à une époque inconnue. Selon certaines traditions, elle vécut pendant la période byzantine, alors que d’autres textes la placent parmi les premiers chrétiens."
+},{
+  "_id": {
+    "$oid": "60a4297e974c2627658cdf4a"
+  },
+  "date": "09/19",
+  "lng": "fr",
+  "name": "Saint Janvier, évêque de Bénévent et martyr",
+  "summary": "Patron aimé de Naples, saint Janvier est évêque de Bénévent, martyr en 305 lors des persécutions de Dioclétien. La dévotion, déjà vive au V siècle, reconnaît comme miracle la liquéfaction du sang du Saint qui se passe trois fois l’an: aux mois de mai, septembre et décembre."
+},{
+  "_id": {
+    "$oid": "60a4297e974c2627658cdf4b"
+  },
+  "date": "09/20",
+  "lng": "fr",
+  "name": "Saints André Kim Taegon, prêtre, et Paul Chong Hasang et leurs compagnons, martyrs de Corée"
+},{
+  "_id": {
+    "$oid": "60a4297e974c2627658cdf4c"
+  },
+  "date": "09/20",
+  "lng": "fr",
+  "name": "Saint Eustache"
+},{
+  "_id": {
+    "$oid": "60a4297e974c2627658cdf4d"
+  },
+  "date": "09/21",
+  "lng": "fr",
+  "name": "Saint Matthieu, apôtre et évangéliste",
+  "summary": "Le lac de Tibériade brillait et, comme d'habitude, Matthieu était là, assis au comptoir fiscal de Capharnaüm, pour percevoir les impôts que les Juifs devaient payer aux Romains. Il était un publicain, méprisé par les gens parce collaborateur des oppresseurs."
+},{
+  "_id": {
+    "$oid": "60a4297e974c2627658cdf4e"
+  },
+  "date": "09/21",
+  "lng": "fr",
+  "name": "Saint Pamphile, martyr à Rome"
+},{
+  "_id": {
+    "$oid": "60a4297e974c2627658cdf4f"
+  },
+  "date": "09/21",
+  "lng": "fr",
+  "name": "Sainte Iphigénie",
+  "summary": "C’est à Sainte Iphigénie, vierge, qu’on attribue la diffusion du christianisme en Ethiopie. L’Église célèbre sa mémoire le 21 septembre, ensemble avec saint Matthieu, qui la convertit à la religion chrétienne. "
+},{
+  "_id": {
+    "$oid": "60a4297e974c2627658cdf50"
+  },
+  "date": "09/22",
+  "lng": "fr",
+  "name": "Saint Maurice et ses compagnons, soldats et martyrs"
+},{
+  "_id": {
+    "$oid": "60a4297e974c2627658cdf51"
+  },
+  "date": "09/22",
+  "lng": "fr",
+  "name": "Sainte Emerita, martyre à Rome"
+},{
+  "_id": {
+    "$oid": "60a4297e974c2627658cdf52"
+  },
+  "date": "09/22",
+  "lng": "fr",
+  "name": "Sainte Basille martyre à Rome "
+},{
+  "_id": {
+    "$oid": "60a4297e974c2627658cdf53"
+  },
+  "date": "09/23",
+  "lng": "fr",
+  "name": "Saint Padre Pio de Pietrelcina, prêtre",
+  "summary": "Premier prêtre stigmatisé, Padre Pio de Pietrelcina, est l’héritier spirituel de saint François d’Assise. Dieu l’a gratifié de charismes particuliers. Il se consacra toute sa vie au salut des âmes. Il jouit de l’immense gratitude des personnes qui ont fait appel à son intercession"
+},{
+  "_id": {
+    "$oid": "60a4297e974c2627658cdf54"
+  },
+  "date": "09/23",
+  "lng": "fr",
+  "name": "Saint Lin, pape",
+  "summary": "Saint Lin a été le second Pape après saint Pierre. Il a exercé son ministère comme évêque de Rome pendant 11 ou 12 ans, c’est-à-dire environ de 68 à 79 D.C. L’Eglise célèbre sa mémoire le 23 septembre. "
+},{
+  "_id": {
+    "$oid": "60a4297f974c2627658cdf55"
+  },
+  "date": "09/24",
+  "lng": "fr",
+  "name": "Saint Pacifique, Capucin à San Severino"
+},{
+  "_id": {
+    "$oid": "60a4297f974c2627658cdf56"
+  },
+  "date": "09/24",
+  "lng": "fr",
+  "name": "Bienheureuse Colombe Rawski, abbesse"
+},{
+  "_id": {
+    "$oid": "60a4297f974c2627658cdf57"
+  },
+  "date": "09/25",
+  "lng": "fr",
+  "name": "Saint Firmin, évêque d’Amiens et martyr"
+},{
+  "_id": {
+    "$oid": "60a4297f974c2627658cdf58"
+  },
+  "date": "09/26",
+  "lng": "fr",
+  "name": "Saints Côme et Damien, martyrs",
+  "summary": "Jumeaux et chrétiens, nés en Arabie, Côme et Damien se sont dévoués gratuitement au soin des malades après avoir étudié la médecine en Syrie. Ils ont été martyrisés durant le règne de l’empereur Dioclétien. Ils sont patrons des médecins, des chirurgiens et des pharmaciens."
+},{
+  "_id": {
+    "$oid": "60a4297f974c2627658cdf59"
+  },
+  "date": "09/26",
+  "lng": "fr",
+  "name": "Saint Sénateur, martyr d'Albano"
+},{
+  "_id": {
+    "$oid": "60a4297f974c2627658cdf5a"
+  },
+  "date": "09/26",
+  "lng": "fr",
+  "name": "Saint Nil de Rossano, Fondateur de l'abbaye de Grottaferrata"
+},{
+  "_id": {
+    "$oid": "60a4297f974c2627658cdf5b"
+  },
+  "date": "09/27",
+  "lng": "fr",
+  "name": "Saint Vincent de Paul, prêtre, fondateur de la Congrégation de la Mission et des Filles de la Charité, patron de toutes les associations de charité"
+},{
+  "_id": {
+    "$oid": "60a4297f974c2627658cdf5c"
+  },
+  "date": "09/27",
+  "lng": "fr",
+  "name": "Saints Adolphe et Jean Martyrs à Cordoue"
+},{
+  "_id": {
+    "$oid": "60a42980974c2627658cdf5d"
+  },
+  "date": "09/28",
+  "lng": "fr",
+  "name": "Saints Laurent Ruiz et 15 compagnons, martyrs à Nagasaki au Japon"
+},{
+  "_id": {
+    "$oid": "60a42980974c2627658cdf5e"
+  },
+  "date": "09/28",
+  "lng": "fr",
+  "name": "Sainte Eustochium, vierge, fille de sainte Paule"
+},{
+  "_id": {
+    "$oid": "60a42980974c2627658cdf5f"
+  },
+  "date": "09/28",
+  "lng": "fr",
+  "name": "Saint Venceslas, duc de Bohême, martyr"
+},{
+  "_id": {
+    "$oid": "60a42980974c2627658cdf60"
+  },
+  "date": "09/29",
+  "lng": "fr",
+  "name": "Saints Michel, Gabriel et Raphaël, archanges",
+  "summary": "Saint Michel, Saint Gabriel et Saint Raphaël. Les anges, serviteurs et envoyés de Dieu, sont très présents dans la Bible, depuis celui qui réconforte Agar au désert jusqu'à celui qui mesure la Jérusalem céleste. Parmi eux, trois sont particulièrement personnifiés."
+},{
+  "_id": {
+    "$oid": "60a42980974c2627658cdf61"
+  },
+  "date": "09/29",
+  "lng": "fr",
+  "name": "Bienheureux Nicolas de Forca, Prêtre dans l'Ordre des Ermites de Saint Jérôme à Rome"
+},{
+  "_id": {
+    "$oid": "60a42980974c2627658cdf62"
+  },
+  "date": "09/30",
+  "lng": "fr",
+  "name": "Saint Jérôme, prêtre et docteur de l’Église"
+},{
+  "_id": {
+    "$oid": "60a42980974c2627658cdf63"
+  },
+  "date": "09/30",
+  "lng": "fr",
+  "name": "Saint Simon de Crépy, moine"
+},{
+  "_id": {
+    "$oid": "60a42980974c2627658cdf64"
+  },
+  "date": "09/30",
+  "lng": "fr",
+  "name": "Saint François de Borgia Duc de Gandie, général de la Compagnie de Jésus"
+},{
+  "_id": {
+    "$oid": "60a42980974c2627658cdf65"
+  },
+  "date": "10/01",
+  "lng": "fr",
+  "name": "Sainte Thérèse de l’Enfant-Jésus, vierge carmélite, docteur de l’Église, patronne des Mission",
+  "summary": "Sainte Thérèse de Lisieux ou Santa Teresina, que l'Église célèbre le 1er octobre, est le Saint patron des missionnaires et de la France: cent ans après sa mort, en 1997, pour sa spiritualité elle est proclamée par Jean-Paul II docteur de l'Église."
+},{
+  "_id": {
+    "$oid": "60a42980974c2627658cdf66"
+  },
+  "date": "10/02",
+  "lng": "fr",
+  "name": "Saints anges gardiens",
+  "summary": "L’Eglise fête le 2 octobre les Anges Gardiens, figures célestes présentes dans l’univers religieux de la Bible. Admis à contempler le visage de Dieu, ils accomplissent souvent la fonction d’envoyés par le Seigneur aux hommes pour les accompagner par leur présence invisible et silencieuse."
+},{
+  "_id": {
+    "$oid": "60a42981974c2627658cdf67"
+  },
+  "date": "10/03",
+  "lng": "fr",
+  "name": "Sainte Candide, martyre sur la via Portuense"
+},{
+  "_id": {
+    "$oid": "60a42981974c2627658cdf68"
+  },
+  "date": "10/04",
+  "lng": "fr",
+  "name": "Saint François d’Assise, fondateur de l’Ordre franciscain, Patron de l’Italie",
+  "summary": "Saint François fait partie des Saints les mieux aimés. Fêté chaque 4 octobre, depuis 800 ans, Saint François d’Assise est un phare pour l’Eglise à travers sa pleine adhésion à l’Evangile qui lui valut le nom de « alter Christus ». "
+},{
+  "_id": {
+    "$oid": "60a42981974c2627658cdf69"
+  },
+  "date": "10/05",
+  "lng": "fr",
+  "name": "Saints Placide et Maur, disciples de saint Benoît"
+},{
+  "_id": {
+    "$oid": "60a42981974c2627658cdf6a"
+  },
+  "date": "10/06",
+  "lng": "fr",
+  "name": "Saint Bruno de Calabre, prêtre, fondateur des Chartreux",
+  "summary": "Bruno ou Brunone semble destiné aux sommets de la vie ecclésiastique, mais il abandonne tout pour la vie d’ermite, en fondant une communauté à Chartreuse, en France. Installé malgré lui à Rome par obéissance au Pape, il retourne à la vie de la solitude en Calabre, où il meurt en 1101."
+},{
+  "_id": {
+    "$oid": "60a42981974c2627658cdf6b"
+  },
+  "date": "10/06",
+  "lng": "fr",
+  "name": "Sainte Marie-Françoise des Cinq-Plaies, tertiaire franciscaine"
+},{
+  "_id": {
+    "$oid": "60a42981974c2627658cdf6c"
+  },
+  "date": "10/07",
+  "lng": "fr",
+  "name": "Saint Marc, pape"
+},{
+  "_id": {
+    "$oid": "60a42981974c2627658cdf6d"
+  },
+  "date": "10/07",
+  "lng": "fr",
+  "name": "Saints Serge et Bacchus, martyrs en Syrie"
+},{
+  "_id": {
+    "$oid": "60a42982974c2627658cdf6e"
+  },
+  "date": "10/08",
+  "lng": "fr",
+  "name": "Sainte Pélagie, vierge et martyre d’Antioche"
+},{
+  "_id": {
+    "$oid": "60a42982974c2627658cdf6f"
+  },
+  "date": "10/09",
+  "lng": "fr",
+  "name": "Saint Denis, évêque, et ses compagnons, martyrs de Paris"
+},{
+  "_id": {
+    "$oid": "60a42982974c2627658cdf70"
+  },
+  "date": "10/09",
+  "lng": "fr",
+  "name": "Saint Jean Léonardi Prêtre, fondateur des Clercs de la Mère de Dieu"
+},{
+  "_id": {
+    "$oid": "60a42982974c2627658cdf71"
+  },
+  "date": "10/09",
+  "lng": "fr",
+  "name": "Saint Abraham, patriarche",
+  "summary": "Premier des grands patriarches d’Israël, Abraham recevra les meilleures bénédictions pour avoir accepté même le sacrifice de son unique fils Isaac, sauvé par l’ange envoyé par Dieu. Nous sommes au XIX siècle a. JC; Abraham part d’Ur avec sa femme Sara et son neveu Lot pour suivre le Seigneur."
+},{
+  "_id": {
+    "$oid": "60a42982974c2627658cdf72"
+  },
+  "date": "10/10",
+  "lng": "fr",
+  "name": "Saint Paulin, évêque de York, disciple de saint Grégoire Le Grand"
+},{
+  "_id": {
+    "$oid": "60a42982974c2627658cdf73"
+  },
+  "date": "10/10",
+  "lng": "fr",
+  "name": "Saint Daniel et ses compagnons Frères mineurs, martyrs à Ceuta, au Maroc"
+},{
+  "_id": {
+    "$oid": "60a42982974c2627658cdf74"
+  },
+  "date": "10/11",
+  "lng": "fr",
+  "name": "Saint Philippe, diacre"
+},{
+  "_id": {
+    "$oid": "60a42982974c2627658cdf75"
+  },
+  "date": "10/11",
+  "lng": "fr",
+  "name": "Saint Alexandre Sauli Barnabite, évêque d’Aléria en Corse, puis de Pavie"
+},{
+  "_id": {
+    "$oid": "60a42982974c2627658cdf76"
+  },
+  "date": "10/11",
+  "lng": "fr",
+  "name": "Saint Jean XXIII, pape",
+  "summary": "Ce pontificat de Jean XXIII qui a duré à peine cinq ans est de ceux qu’on n’oublie pas. Après des années d’expérience à l’étranger et avoir traversé deux guerres, «le pape bon», canonisé en 2014, convoque en 1959 le Concile Vatican II pour donner des réponses aux défis du monde contemporain"
+},{
+  "_id": {
+    "$oid": "60a42983974c2627658cdf77"
+  },
+  "date": "10/12",
+  "lng": "fr",
+  "name": "Sainte Marie, mère de l’Église"
+},{
+  "_id": {
+    "$oid": "60a42983974c2627658cdf78"
+  },
+  "date": "10/12",
+  "lng": "fr",
+  "name": "Saint Hédiste,  martyr à Rome"
+},{
+  "_id": {
+    "$oid": "60a42983974c2627658cdf79"
+  },
+  "date": "10/12",
+  "lng": "fr",
+  "name": "Saint Séraphin d'Ascoli, religieux capucin italien"
+},{
+  "_id": {
+    "$oid": "60a42983974c2627658cdf7a"
+  },
+  "date": "10/12",
+  "lng": "fr",
+  "name": "Notre Dame d’Aparecida",
+  "summary": "Le mois d’octobre est traditionnellement dédié à Marie, Mère de Dieu, car on célèbre Notre Dame du Rosaire. Mais il existe une autre fête dédiée à la Vierge, chaque 12 octobre : Notre Dame d’Aparecida, patronne et protectrice du Brésil"
+},{
+  "_id": {
+    "$oid": "60a42983974c2627658cdf7b"
+  },
+  "date": "10/13",
+  "lng": "fr",
+  "name": "Saint Théophile, évêque d’Antioche"
+},{
+  "_id": {
+    "$oid": "60a42983974c2627658cdf7c"
+  },
+  "date": "10/14",
+  "lng": "fr",
+  "name": "Saint Calixte I, Pape et martyr"
+},{
+  "_id": {
+    "$oid": "60a42983974c2627658cdf7d"
+  },
+  "date": "10/15",
+  "lng": "fr",
+  "name": "Sainte Thérèse de Jésus, vierge, docteur de l’Église, carmélite déchaussée",
+  "summary": "Elle figure parmi les saintes et les mystiques les plus vénérées dans le monde: au temps de Luther, sainte Thérèse d'Avila s’est engagée dans un important travail de réforme au sein du Carmel. Sainte patronne des écrivains catholiques, elle est célébrée le 15 octobre."
+},{
+  "_id": {
+    "$oid": "60a42983974c2627658cdf7e"
+  },
+  "date": "10/16",
+  "lng": "fr",
+  "name": "Sainte Edwige, duchesse de Pologne, religieuse",
+  "summary": "La dévotion pour les pauvres distingue la vie de Sainte Edwige (ou Hedwige), première Duchesse de Silésie et de Pologne, religieuse dans un monastère cistercien. Elle a vécu entre le XIIè et le XIIIè siècle, et on la fête le 16 octobre de chaque année."
+},{
+  "_id": {
+    "$oid": "60a42983974c2627658cdf7f"
+  },
+  "date": "10/16",
+  "lng": "fr",
+  "name": "Sainte Marguerite-Marie Alacoque, Visitandine à Paray-le-Monial",
+  "summary": "Née en Bourgogne en 1647, Marguerite entre chez les Visitandines à 24 ans. Elle reçoit très tôt les apparitions de Marie et de Jésus, qui l’exhorte à adorer Son Cœur Sacré, d’où l’institution de la fête homonyme. A sa mort en 1690, elle laisse une intéressante biographie."
+},{
+  "_id": {
+    "$oid": "60a42983974c2627658cdf80"
+  },
+  "date": "10/16",
+  "lng": "fr",
+  "name": "Saint Gérard Majella, rédemptoriste "
+},{
+  "_id": {
+    "$oid": "60a42984974c2627658cdf81"
+  },
+  "date": "10/17",
+  "lng": "fr",
+  "name": "Saint Ignace d’Antioche, évêque, martyr à Rome",
+  "summary": "Troisième évêque d’Antioche, en Syrie, Ignace d’origine païenne et converti au christianisme à l’âge mûr, est condamné au martyr durant la persécution de Trajan. Après un long et douloureux voyage témoigné par sept admirables lettres, il arrive à Rome où il subit le martyr au Colisée."
+},{
+  "_id": {
+    "$oid": "60a42984974c2627658cdf82"
+  },
+  "date": "10/17",
+  "lng": "fr",
+  "name": "Bienheureux Pierre Casani, prêtre de l’Ordre des Clercs réguliers des Écoles religieuses"
+},{
+  "_id": {
+    "$oid": "60a42984974c2627658cdf83"
+  },
+  "date": "10/18",
+  "lng": "fr",
+  "name": "Saint Luc, évangéliste, médecin, patron des artistes",
+  "summary": "Saint Luc est, des Saints Evangélistes, celui qui offre la plus fine description des psychologies, et doit probablement sa réputation de Saint peintre à cette caractéristique précise. On le fête le 18 octobre."
+},{
+  "_id": {
+    "$oid": "60a42984974c2627658cdf84"
+  },
+  "date": "10/19",
+  "lng": "fr",
+  "name": "Saints Jean de Brébeuf et Isaac Jogues, prêtres, et leurs compagnons jésuites, martyrs du Canada",
+  "summary": "L’Eglise commémore le 19 octobre huit martyrs, tous de la Compagnie de Jésus, partis comme missionnaires dans les territoires des actuels Canada et Etats-Unis et martyrisés entre 1642 et 1649 par les populations autochtones, où avait éclaté une guerre féroce."
+},{
+  "_id": {
+    "$oid": "60a42984974c2627658cdf85"
+  },
+  "date": "10/19",
+  "lng": "fr",
+  "name": "Saint Paul de la Croix, fondateur des Passionistes",
+  "summary": "Né dans une noble famille déchue, Paul François ne se contente pas d’être commerçant comme son père. Il veut combattre les Turcs, ensuite se fait ermite en 1725 et fonde une nouvelle congrégation qui adore la Croix et médite la Passion du Christ comme acte suprême d’amour: les Passionnistes."
+},{
+  "_id": {
+    "$oid": "60a42984974c2627658cdf86"
+  },
+  "date": "10/20",
+  "lng": "fr",
+  "name": "Sainte Marie-Bertille Boscardin, vierge, de Vicence"
+},{
+  "_id": {
+    "$oid": "60a42985974c2627658cdf87"
+  },
+  "date": "10/21",
+  "lng": "fr",
+  "name": "Saint Gaspard, prêtre, fondateur des Missionnaires du Précieux Sang",
+  "summary": "Né à Rome en 1786, Gaspard entend l’appel du Seigneur dès l’enfance. Comme prêtre il évangélise les pauvres, refuse d’obéir à Napoléon, convertit les maçons et les brigands qui infestent l’Etat pontifical. En 1815 il fonde les branches masculine et féminine des Missionnaires du Très Précieux Sang."
+},{
+  "_id": {
+    "$oid": "60a42985974c2627658cdf88"
+  },
+  "date": "10/21",
+  "lng": "fr",
+  "name": "Saint Hilarion, Abbé à Gaza"
+},{
+  "_id": {
+    "$oid": "60a42985974c2627658cdf89"
+  },
+  "date": "10/21",
+  "lng": "fr",
+  "name": " Sainte Ursule"
+},{
+  "_id": {
+    "$oid": "60a42985974c2627658cdf8a"
+  },
+  "date": "10/22",
+  "lng": "fr",
+  "name": "Saint Jean-Paul II, Pape",
+  "summary": "Le pontificat de Jean-Paul II est le 3° pontificat le plus long de l’histoire qui a duré presque 27 ans. 1° pape polonais, il a réalisé beaucoup de records, par exemple, le nombre de voyages apostoliques accomplis, célébré le Grand Jubilé de 2000 et «inventé» les Journées mondiales de la Jeunesse."
+},{
+  "_id": {
+    "$oid": "60a42985974c2627658cdf8b"
+  },
+  "date": "10/22",
+  "lng": "fr",
+  "name": "Saint Marc, évêque de Jérusalem "
+},{
+  "_id": {
+    "$oid": "60a42985974c2627658cdf8c"
+  },
+  "date": "10/23",
+  "lng": "fr",
+  "name": "Saint Jean de Capistran, prêtre franciscain, patron des aumôniers militaires",
+  "summary": "C’est en prison que Jean entend l’appel et devient prêtre de l’Ordre des Frères Mineurs. Prédicateur en Italie et en Europe, il conduira la bataille de Belgrade contre la menace des Turcs, trois mois avant sa mort en 1456. Saint depuis 1690 il est le patron des aumôniers militaires."
+},{
+  "_id": {
+    "$oid": "60a42985974c2627658cdf8d"
+  },
+  "date": "10/23",
+  "lng": "fr",
+  "name": "Saint Séverin Boèce, Philosophe et théologien romain, martyr",
+  "summary": "Martyr en 524, Boèce, de noble famille romaine, est comme le point de rencontre entre la culture gréco-romaine et la Scolastique médiévale naissante. Durant son injuste détention il écrit son chef d’œuvre: De consolatione philosophiae, synthèse entre la pensée classique et le christianisme."
+},{
+  "_id": {
+    "$oid": "60a42985974c2627658cdf8e"
+  },
+  "date": "10/24",
+  "lng": "fr",
+  "name": "Saint Antoine-Marie Claret, évêque, fondateur de la Congrégation des Fils du Cœur Immaculé de Marie",
+  "summary": "Figure emblématique de la Catalogne du 1800, Antoine, plus que devenir un missionnaire, veut l’être. En 1849 il fonde la Congrégation des Fils du Cœur Immaculé de Marie, appelés Missionnaires Clarétains, aujourd’hui présents dans 65 pays, et réalise son rêve en partant comme évêque à Cuba."
+},{
+  "_id": {
+    "$oid": "60a42986974c2627658cdf8f"
+  },
+  "date": "10/25",
+  "lng": "fr",
+  "name": "Saints Chrysante et Darie, martyrs sur la via Salaria nuova"
+},{
+  "_id": {
+    "$oid": "60a42986974c2627658cdf90"
+  },
+  "date": "10/25",
+  "lng": "fr",
+  "name": "Saints Crépin et Crépinien, Martyrs à Soissons"
+},{
+  "_id": {
+    "$oid": "60a42986974c2627658cdf91"
+  },
+  "date": "10/26",
+  "lng": "fr",
+  "name": "Saint Demetrius, martyr"
+},{
+  "_id": {
+    "$oid": "60a42986974c2627658cdf92"
+  },
+  "date": "10/26",
+  "lng": "fr",
+  "name": "Saint Bean, évêque"
+},{
+  "_id": {
+    "$oid": "60a42986974c2627658cdf93"
+  },
+  "date": "10/26",
+  "lng": "fr",
+  "name": "Saint Cedda, évêque"
+},{
+  "_id": {
+    "$oid": "60a42986974c2627658cdf94"
+  },
+  "date": "10/27",
+  "lng": "fr",
+  "name": "Saint Évariste, Pape"
+},{
+  "_id": {
+    "$oid": "60a42986974c2627658cdf95"
+  },
+  "date": "10/27",
+  "lng": "fr",
+  "name": "Saint Frumence, un des apôtres de l'Ethiopie au IVe siècle",
+  "summary": "Frumence est un jeune du IV siècle, qui finit comme esclave et qui est le premier à porter le christianisme en Ethiopie. Car une fois libre, il est consacré évêque par Athanase et s’établit à Axoum où il crée et dirige une florissante communauté chrétienne jusqu’à sa mort en 383."
+},{
+  "_id": {
+    "$oid": "60a42986974c2627658cdf96"
+  },
+  "date": "10/28",
+  "lng": "fr",
+  "name": "Saints Simon et Jude (Thaddée), apôtres",
+  "summary": "Deux saints, deux Apôtres du Christ, tous deux martyrs de l’Evangile, selon la tradition, en Mésopotamie. L’Eglise célèbre leur mémoire le 28 octobre, une unique date pour évoquer les histoires de deux disciples, unis par l’amour pour le Christ et par le courage du témoignage. "
+},{
+  "_id": {
+    "$oid": "60a42986974c2627658cdf97"
+  },
+  "date": "10/29",
+  "lng": "fr",
+  "name": "Saint Félicien, martyr de Carthage"
+},{
+  "_id": {
+    "$oid": "60a42987974c2627658cdf98"
+  },
+  "date": "10/30",
+  "lng": "fr",
+  "name": "Saint Germain, évêque de Capoue"
+},{
+  "_id": {
+    "$oid": "60a42987974c2627658cdf99"
+  },
+  "date": "10/31",
+  "lng": "fr",
+  "name": "Saint Alphonse Rodriguez, religieux jésuite"
+},{
+  "_id": {
+    "$oid": "60a42987974c2627658cdf9a"
+  },
+  "date": "11/01",
+  "lng": "fr",
+  "name": "Toussaint"
+},{
+  "_id": {
+    "$oid": "60a42987974c2627658cdf9b"
+  },
+  "date": "11/02",
+  "lng": "fr",
+  "name": "Commémoration des fidèles défunts"
+},{
+  "_id": {
+    "$oid": "60a42988974c2627658cdf9c"
+  },
+  "date": "11/03",
+  "lng": "fr",
+  "name": "Saint Martin de Porres, religieux dominicain",
+  "summary": "Un enfant de personne parce mulâtre. Martin de Porrés, naît à Lima, au Pérou, en 1579. Son père, noble espagnol, le reconnaît après des années. Le jeune entre chez les Dominicains et au couvent il s’occupe des malades mais surtout allège la pauvreté par tous les moyens. Il meurt en 1639."
+},{
+  "_id": {
+    "$oid": "60a42988974c2627658cdf9d"
+  },
+  "date": "11/03",
+  "lng": "fr",
+  "name": "Sainte Sylvie, Mère de Saint Grégoire le Grand"
+},{
+  "_id": {
+    "$oid": "60a42988974c2627658cdf9e"
+  },
+  "date": "11/04",
+  "lng": "fr",
+  "name": "Saint Charles Borromée, archevêque de Milan et cardinal",
+  "summary": "Cardinal à l’âge de 22 ans seulement, Charles Borromée, descendant d’une famille lombarde du XVI siècle, mène une vie de jouisseur; la mort de son frère lui fait découvrir l’amour de Dieu. Il convainc le Pape de rouvrir le Concile de Trente et comme évêque il est «le moteur» de charité pour chacun."
+},{
+  "_id": {
+    "$oid": "60a42988974c2627658cdf9f"
+  },
+  "date": "11/04",
+  "lng": "fr",
+  "name": "Saints Vital et Agricola Martyrs à Bologne "
+},{
+  "_id": {
+    "$oid": "60a42988974c2627658cdfa0"
+  },
+  "date": "11/05",
+  "lng": "fr",
+  "name": "Saints Domnin, Théotime et leurs compagnons, martyrs"
+},{
+  "_id": {
+    "$oid": "60a42988974c2627658cdfa1"
+  },
+  "date": "11/06",
+  "lng": "fr",
+  "name": "Saint Léonard, eremite"
+},{
+  "_id": {
+    "$oid": "60a42988974c2627658cdfa2"
+  },
+  "date": "11/07",
+  "lng": "fr",
+  "name": "Saint Willibrord, Evêque d'Utrecht"
+},{
+  "_id": {
+    "$oid": "60a42988974c2627658cdfa3"
+  },
+  "date": "11/07",
+  "lng": "fr",
+  "name": "Saint Prosdocime, premier évêque de Padoue"
+},{
+  "_id": {
+    "$oid": "60a42989974c2627658cdfa4"
+  },
+  "date": "11/08",
+  "lng": "fr",
+  "name": "Les quatre Saints couronnés, martyrs"
+},{
+  "_id": {
+    "$oid": "60a42989974c2627658cdfa5"
+  },
+  "date": "11/08",
+  "lng": "fr",
+  "name": "Saint Adéodat I, pape"
+},{
+  "_id": {
+    "$oid": "60a42989974c2627658cdfa6"
+  },
+  "date": "11/08",
+  "lng": "fr",
+  "name": "Saints martyrs et autres saints"
+},{
+  "_id": {
+    "$oid": "60a42989974c2627658cdfa7"
+  },
+  "date": "11/09",
+  "lng": "fr",
+  "name": "Saints Marie et Néon, martyrs, au cimetière de saint Calixte sur la via Appia"
+},{
+  "_id": {
+    "$oid": "60a42989974c2627658cdfa8"
+  },
+  "date": "11/09",
+  "lng": "fr",
+  "name": "Saint Théodore, Soldat, martyr"
+},{
+  "_id": {
+    "$oid": "60a42989974c2627658cdfa9"
+  },
+  "date": "11/10",
+  "lng": "fr",
+  "name": "Saint Léon Le Grand, Pape et docteur de l’Église",
+  "summary": "«Un des plus grands Pontifes qui aient fait honneur au Siège romain»: c’est ainsi que Benoit XVI a défini saint Léon le Grand. Ayant vécu au V siècle, ce pape est passé dans l’histoire pour avoir inspiré le Concile œcuménique de Chalcédoine et arrêté Attila, chef des Huns, prêt à envahir l’Italie."
+},{
+  "_id": {
+    "$oid": "60a42989974c2627658cdfaa"
+  },
+  "date": "11/10",
+  "lng": "fr",
+  "name": "Saint André Avellin, Prêtre théatin"
+},{
+  "_id": {
+    "$oid": "60a42989974c2627658cdfab"
+  },
+  "date": "11/11",
+  "lng": "fr",
+  "name": "Saint Martin, évêque de Tours",
+  "summary": "«L’Apôtre des Gaulles», est l’un de ses titres. Martin de Tours est l’un des saints les plus connus de l’Eglise universelle. D’abord soldat, puis moine, ensuite évêque, il reste fidèle au choix des pauvres au nom du Christ auquel, habillé en pauvre, il avait donné en hiver la moitié de son manteau."
+},{
+  "_id": {
+    "$oid": "60a42989974c2627658cdfac"
+  },
+  "date": "11/11",
+  "lng": "fr",
+  "name": "Saint Barthélemy de Grottaferrata, Abbé",
+  "summary": "Co-fondateur de l’Abbaye de Grottaferrata avec saint Nil, dont il est le principal biographe, Bartolomé est moine d’origine byzantine voué au service des pauvres, le plus grand auteur des hymnes du XI siècle. Pie XII le définit «un luminaire de l’Eglise». Il meurt en 1055."
+},{
+  "_id": {
+    "$oid": "60a4298a974c2627658cdfad"
+  },
+  "date": "11/12",
+  "lng": "fr",
+  "name": "Saint Josaphat Kuntsevych, évêque et martyr"
+},{
+  "_id": {
+    "$oid": "60a4298a974c2627658cdfae"
+  },
+  "date": "11/12",
+  "lng": "fr",
+  "name": "Saint Diégo Didace, frère mineur à Ségovie"
+},{
+  "_id": {
+    "$oid": "60a4298a974c2627658cdfaf"
+  },
+  "date": "11/13",
+  "lng": "fr",
+  "name": "Sainte Agostina Livia Pietrantoni, religieuse de la Congrégation des Sœurs de la Charité"
+},{
+  "_id": {
+    "$oid": "60a4298a974c2627658cdfb0"
+  },
+  "date": "11/13",
+  "lng": "fr",
+  "name": "Saint Nicolas I, pape"
+},{
+  "_id": {
+    "$oid": "60a4298a974c2627658cdfb1"
+  },
+  "date": "11/14",
+  "lng": "fr",
+  "name": "Saint Sérapion d'Alger"
+},{
+  "_id": {
+    "$oid": "60a4298a974c2627658cdfb2"
+  },
+  "date": "11/15",
+  "lng": "fr",
+  "name": "Saint Albert Le Grand, évêque et docteur de l’Église, dominicain",
+  "summary": "Le «docteur universel», grand réformateur de l’Ordre dominicain, Albert, déjà de son vivant il est appelé le Grand. Maître de saint Thomas d’Aquin, toute sa vie se déroule entre l’enseignement, qu’il privilégie, et les charges qui lui sont confiées, jusqu’à sa mort en 1280."
+},{
+  "_id": {
+    "$oid": "60a4298a974c2627658cdfb3"
+  },
+  "date": "11/15",
+  "lng": "fr",
+  "name": "Saint Joseph Pignatelli, Jésuite à Rome",
+  "summary": "D’une noble famille espagnole, Joseph entre tôt dans la Compagnie de Jésus, où il se fait remarquer par sa charité et son humilité. Expulsé du Pays ensemble avec des confrères, il travailla pour la restauration de la Compagnie dans toute l’Europe et en fut le principal artisan."
+},{
+  "_id": {
+    "$oid": "60a4298a974c2627658cdfb4"
+  },
+  "date": "11/15",
+  "lng": "fr",
+  "name": "Saint Malo ou Saint Maclou",
+  "summary": "Saint Malo (ou Maclou) serait né au pays de Galles quand l'inspiration lui vint d'évangéliser les Bretons au non loin de la ville d'Aleth qui désormais porte son nom. Il a vécu entre le VIè et le VIIè siècle, serait mort en 649, et on le fête le 15 novembre de chaque année."
+},{
+  "_id": {
+    "$oid": "60a4298a974c2627658cdfb5"
+  },
+  "date": "11/16",
+  "lng": "fr",
+  "name": "Sainte Marguerite d’Écosse",
+  "summary": "«Exemple éclatant d’une excellente femme, mère et reine», ainsi évoque le Martyrologe Romain la figure de sainte Marguerite d’Ecosse, fêtée par l’Eglise le 16 novembre. Femme sobre, charitable, elle soutient son mari, le roi Malcom III, dans le gouvernement du royaume et réforme l’Eglise écossaise."
+},{
+  "_id": {
+    "$oid": "60a4298a974c2627658cdfb6"
+  },
+  "date": "11/16",
+  "lng": "fr",
+  "name": "Sainte Gertrude de Helfta, vierge moniale"
+},{
+  "_id": {
+    "$oid": "60a4298a974c2627658cdfb7"
+  },
+  "date": "11/16",
+  "lng": "fr",
+  "name": "Sainte Agnès d'Assise, vierge, sœur de Sainte Claire"
+},{
+  "_id": {
+    "$oid": "60a4298b974c2627658cdfb8"
+  },
+  "date": "11/17",
+  "lng": "fr",
+  "name": "Sainte Élisabeth de Hongrie, tertiaire franciscaine"
+},{
+  "_id": {
+    "$oid": "60a4298b974c2627658cdfb9"
+  },
+  "date": "11/17",
+  "lng": "fr",
+  "name": "Saint Grégoire le Thaumaturge, Evêque de Néocésarée"
+},{
+  "_id": {
+    "$oid": "60a4298b974c2627658cdfba"
+  },
+  "date": "11/18",
+  "lng": "fr",
+  "name": "Saint Romain d’Antioche"
+},{
+  "_id": {
+    "$oid": "60a4298b974c2627658cdfbb"
+  },
+  "date": "11/18",
+  "lng": "fr",
+  "name": "Sainte Rose-Philippine Duchesne"
+},{
+  "_id": {
+    "$oid": "60a4298b974c2627658cdfbc"
+  },
+  "date": "11/18",
+  "lng": "fr",
+  "name": "Saint Odo abbé de Cluny"
+},{
+  "_id": {
+    "$oid": "60a4298b974c2627658cdfbd"
+  },
+  "date": "11/19",
+  "lng": "fr",
+  "name": "Sainte Mathilde, vierge"
+},{
+  "_id": {
+    "$oid": "60a4298b974c2627658cdfbe"
+  },
+  "date": "11/19",
+  "lng": "fr",
+  "name": "Saint Abdias, prophète"
+},{
+  "_id": {
+    "$oid": "60a4298b974c2627658cdfbf"
+  },
+  "date": "11/20",
+  "lng": "fr",
+  "name": "Saint Gélase I, Pape"
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfc0"
+  },
+  "date": "11/21",
+  "lng": "fr",
+  "name": "Bienheureuse Marie de Jésus Bon Pasteur, fondatrice des Soeurs de la Sainte Famille de Nazareth"
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfc1"
+  },
+  "date": "11/21",
+  "lng": "fr",
+  "name": "Présentation de la Vierge Marie"
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfc2"
+  },
+  "date": "11/22",
+  "lng": "fr",
+  "name": "Sainte Cécile, vierge et martyre, au cimetière de saint Calixte"
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfc3"
+  },
+  "date": "11/23",
+  "lng": "fr",
+  "name": "Saint Clément I, Pape et martyr"
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfc4"
+  },
+  "date": "11/23",
+  "lng": "fr",
+  "name": "Saint Colomban, Abbé de Luxeuil et de Bobbio"
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfc5"
+  },
+  "date": "11/23",
+  "lng": "fr",
+  "name": "Sainte Félicité, Veuve et martyre romaine "
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfc6"
+  },
+  "date": "11/24",
+  "lng": "fr",
+  "name": "Saint Chrysogone, martyr à Aquilée"
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfc7"
+  },
+  "date": "11/24",
+  "lng": "fr",
+  "name": "Saint André Dũng Lạc, prêtre, et ses compagnons, martyrs"
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfc8"
+  },
+  "date": "11/25",
+  "lng": "fr",
+  "name": "Saint Moïse, martyr à Rome"
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfc9"
+  },
+  "date": "11/25",
+  "lng": "fr",
+  "name": "Saint Pierre d'Alexandrie, évêque et martyr"
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfca"
+  },
+  "date": "11/25",
+  "lng": "fr",
+  "name": "Bienheureux Luigi et Maria Beltrame Quattrocchi, père et mère de famille",
+  "summary": "Ils ont vécu le mariage comme un cheminement vers Dieu, dans la sanctification: Louis et Marie Beltrame Quattrocchi sont le premier couple d’époux à être béatifié par la volonté du pape Wojtyla. La liturgie évoque leur mémoire le 25 novembre, jour anniversaire de leur mariage en 1905."
+},{
+  "_id": {
+    "$oid": "60a4298c974c2627658cdfcb"
+  },
+  "date": "11/25",
+  "lng": "fr",
+  "name": "St. Catherine d'Alexandrie"
+},{
+  "_id": {
+    "$oid": "60a4298d974c2627658cdfcc"
+  },
+  "date": "11/26",
+  "lng": "fr",
+  "name": "Saint Sirice, Pape"
+},{
+  "_id": {
+    "$oid": "60a4298d974c2627658cdfcd"
+  },
+  "date": "11/26",
+  "lng": "fr",
+  "name": "Saint Léonard de Port-Maurice, Frère mineur à Rome",
+  "summary": "Prêtre franciscain à la «parole brûlante», Léonard parcourut l’Italie «pour mettre en garde et convertir d’immenses foules», les appelant à la pénitence et à piété». C’était selon saint Jean Paul II, Léonard, le Saint de Ligurie qui érigea au Colisée 14 stations pour le Chemin de Croix."
+},{
+  "_id": {
+    "$oid": "60a4298d974c2627658cdfce"
+  },
+  "date": "11/26",
+  "lng": "fr",
+  "name": "Saint Silvestre Gozzolini, abbé fondateur de l'Ordre des Sylvestrins"
+},{
+  "_id": {
+    "$oid": "60a4298d974c2627658cdfcf"
+  },
+  "date": "11/27",
+  "lng": "fr",
+  "name": "Saint Virgile, évêque de Salzbourg"
+},{
+  "_id": {
+    "$oid": "60a4298d974c2627658cdfd0"
+  },
+  "date": "11/28",
+  "lng": "fr",
+  "name": "Saint Jacques de La Marche, prêtre franciscain"
+},{
+  "_id": {
+    "$oid": "60a4298e974c2627658cdfd1"
+  },
+  "date": "11/29",
+  "lng": "fr",
+  "name": "Saint Saturnin, martyr, sur la via Salaria nuova"
+},{
+  "_id": {
+    "$oid": "60a4298e974c2627658cdfd2"
+  },
+  "date": "11/30",
+  "lng": "fr",
+  "name": "Saint André, apôtre",
+  "summary": "Saint André Apôtre est le Saint Patron de l’Eglise Orthodoxe de Constantinople. Frère de Simon Pierre, il se distingue parmi les saints pour avoir été le premier à être appelé par Jésus et avoir trouvé le martyr sur la croix. Saint André est le protecteur des pêcheurs."
+},{
+  "_id": {
+    "$oid": "60a4298e974c2627658cdfd3"
+  },
+  "date": "12/01",
+  "lng": "fr",
+  "name": "Saint Éloi, évêque de Noyon",
+  "summary": "Saint Éloi, que l’on fête chaque 1er décembre, est le patron des orfèvres, et par extension, des forgerons, métallurgistes, quincailliers, serruriers, protecteur des chevaux et, à ce titre, des cultivateurs, charretiers, mécaniciens et garagistes."
+},{
+  "_id": {
+    "$oid": "60a4298e974c2627658cdfd4"
+  },
+  "date": "12/01",
+  "lng": "fr",
+  "name": "Saint Nahum, prophète"
+},{
+  "_id": {
+    "$oid": "60a4298e974c2627658cdfd5"
+  },
+  "date": "12/02",
+  "lng": "fr",
+  "name": "Sainte Viviane, dame romaine, dans son église sur l’Esquilin"
+},{
+  "_id": {
+    "$oid": "60a4298e974c2627658cdfd6"
+  },
+  "date": "12/02",
+  "lng": "fr",
+  "name": "Saint Pimène prêtre et martyr "
+},{
+  "_id": {
+    "$oid": "60a4298e974c2627658cdfd7"
+  },
+  "date": "12/02",
+  "lng": "fr",
+  "name": "Saint Silvère Pape",
+  "summary": "Originaire de l’actuelle région de Frosinone, Silvère est le 58ème Pape de l’Eglise de Rome, destitué puis contraint à abdiquer en 537 par les partisans de l’hérésie monophysite qui régnaient à Constantinople. Il meurt en exil à Palmarole, petite île de l’archipel pontin dont il est le patron."
+},{
+  "_id": {
+    "$oid": "60a4298e974c2627658cdfd8"
+  },
+  "date": "12/03",
+  "lng": "fr",
+  "name": "Saint François-Xavier, prêtre jésuite, apôtre des Indes, patron des Missions",
+  "summary": "Patron de l’Orient, de l’Œuvre de propagation de la foi et des Missions, François Xavier est un «vrai géant de l’évangélisation». Ayant vécu au XVI siècle, il porte l’Evangile en Inde, Japon, et Chine. Ensemble avec saints Ignace de Loyola et Pierre Favre il fonde la Compagnie de Jésus."
+},{
+  "_id": {
+    "$oid": "60a4298f974c2627658cdfd9"
+  },
+  "date": "12/04",
+  "lng": "fr",
+  "name": "Saint Jean Damascène, prêtre et docteur de l’Église",
+  "summary": "Originaire, comme le dit son nom, de Damas, né dans une famille chrétienne, Jean choisit la vie ascétique grâce aux enseignements du moine Côme. Grand opposant de l’iconoclastie, il écrivit de nombreuses importantes œuvres au point d’être proclamé Docteur de l’Eglise en 1890 par Léon XIII."
+},{
+  "_id": {
+    "$oid": "60a4298f974c2627658cdfda"
+  },
+  "date": "12/04",
+  "lng": "fr",
+  "name": "Sainte Barbara, vierge et martyre"
+},{
+  "_id": {
+    "$oid": "60a4298f974c2627658cdfdb"
+  },
+  "date": "12/05",
+  "lng": "fr",
+  "name": "Saint Sabas, abbé"
+},{
+  "_id": {
+    "$oid": "60a4298f974c2627658cdfdc"
+  },
+  "date": "12/06",
+  "lng": "fr",
+  "name": "Saint Nicolas de Bari, évêque de Myre",
+  "summary": " Saint Nicolas  est l’un des  Saints les plus populaires et estimés, en raison de la tradition qui  en fait un Saint protecteur des enfants et des jeunes. Sa fête se célèbre le 6 décembre."
+},{
+  "_id": {
+    "$oid": "60a4298f974c2627658cdfdd"
+  },
+  "date": "12/06",
+  "lng": "fr",
+  "name": "Sainte Aselle, vierge romaine"
+},{
+  "_id": {
+    "$oid": "60a4298f974c2627658cdfde"
+  },
+  "date": "12/07",
+  "lng": "fr",
+  "name": "Saint Ambroise, évêque de Milan et docteur de l’Église",
+  "summary": "Il fait partie des grands saints docteurs de l'Église d'Occident. Évêque de Milan, compositeur d’hymnes, initiateur de la mariologie, Saint Ambroise incarne l'idéal du pasteur. L'Église fait mémoire de lui le 7 décembre. Auteur de textes liturgiques célèbres, il demeura inflexible contre l'hérésie."
+},{
+  "_id": {
+    "$oid": "60a42990974c2627658cdfdf"
+  },
+  "date": "12/08",
+  "lng": "fr",
+  "name": "Saint Eutychien, Pape "
+},{
+  "_id": {
+    "$oid": "60a42990974c2627658cdfe0"
+  },
+  "date": "12/09",
+  "lng": "fr",
+  "name": "Saint Juan Diego"
+},{
+  "_id": {
+    "$oid": "60a42990974c2627658cdfe1"
+  },
+  "date": "12/09",
+  "lng": "fr",
+  "name": "Sainte Léocadie, Vierge et martyre à Tolède"
+},{
+  "_id": {
+    "$oid": "60a42990974c2627658cdfe2"
+  },
+  "date": "12/09",
+  "lng": "fr",
+  "name": "Saint Cyr, évêque de Pavie"
+},{
+  "_id": {
+    "$oid": "60a42990974c2627658cdfe3"
+  },
+  "date": "12/09",
+  "lng": "fr",
+  "name": "Saint Pierre Fourier, prêtre à Gray, en Franche-Comté"
+},{
+  "_id": {
+    "$oid": "60a42990974c2627658cdfe4"
+  },
+  "date": "12/10",
+  "lng": "fr",
+  "name": "Notre Dame de Lorette",
+  "summary": "«Cœur marial de la chrétienté». C’est ainsi que Jean Paul II définit le sanctuaire de Notre Dame de Lorette, patronne des aviateurs. Depuis des siècles, c’est par millions que des pèlerins se rendent auprès de la «Vierge Noire», là où les anges transportèrent la Sainte Maison de la Vierge."
+},{
+  "_id": {
+    "$oid": "60a42990974c2627658cdfe5"
+  },
+  "date": "12/10",
+  "lng": "fr",
+  "name": "Saint Maur, martyr à Rome"
+},{
+  "_id": {
+    "$oid": "60a42990974c2627658cdfe6"
+  },
+  "date": "12/10",
+  "lng": "fr",
+  "name": "Saint Grégoire III, Pape "
+},{
+  "_id": {
+    "$oid": "60a42990974c2627658cdfe7"
+  },
+  "date": "12/11",
+  "lng": "fr",
+  "name": "Saint Damase I, Pape"
+},{
+  "_id": {
+    "$oid": "60a42991974c2627658cdfe8"
+  },
+  "date": "12/12",
+  "lng": "fr",
+  "name": "Notre Dame de Guadalupe"
+},{
+  "_id": {
+    "$oid": "60a42991974c2627658cdfe9"
+  },
+  "date": "12/12",
+  "lng": "fr",
+  "name": "Saint Vixelin, évêque d’Oldenburg"
+},{
+  "_id": {
+    "$oid": "60a42991974c2627658cdfea"
+  },
+  "date": "12/12",
+  "lng": "fr",
+  "name": "Bienheureux Bartolo Buonpedoni"
+},{
+  "_id": {
+    "$oid": "60a42991974c2627658cdfeb"
+  },
+  "date": "12/12",
+  "lng": "fr",
+  "name": "Saint Simon Phan Dac Hoa, martyr"
+},{
+  "_id": {
+    "$oid": "60a42991974c2627658cdfec"
+  },
+  "date": "12/12",
+  "lng": "fr",
+  "name": "Bienheureux  Pie Bartosik, prêtre de l’Ordre des Frères Mineurs Conventuels et martyr"
+},{
+  "_id": {
+    "$oid": "60a42991974c2627658cdfed"
+  },
+  "date": "12/13",
+  "lng": "fr",
+  "name": "Sainte Lucie, vierge et martyre de Syracuse",
+  "summary": "On raconte que durant son procès le juge serait tombé amoureux de ses beaux yeux, et elle-même, afin de lui en enlever la passion, les aurait arrachés et les lui aurait envoyés sur un plateau d’argent. D’où l’origine de l’invocation à Lucie (de «lux», lumière) comme protectrice des yeux."
+},{
+  "_id": {
+    "$oid": "60a42991974c2627658cdfee"
+  },
+  "date": "12/13",
+  "lng": "fr",
+  "name": "Saint Ariston, martyr"
+},{
+  "_id": {
+    "$oid": "60a42991974c2627658cdfef"
+  },
+  "date": "12/14",
+  "lng": "fr",
+  "name": "Saint Jean de La Croix, prêtre et docteur de l’Église, carme déchaux"
+},{
+  "_id": {
+    "$oid": "60a42991974c2627658cdff0"
+  },
+  "date": "12/15",
+  "lng": "fr",
+  "name": "Saint Valérien, évêque en Afrique, martyr"
+},{
+  "_id": {
+    "$oid": "60a42991974c2627658cdff1"
+  },
+  "date": "12/16",
+  "lng": "fr",
+  "name": "Saint David, roi et prophète"
+},{
+  "_id": {
+    "$oid": "60a42991974c2627658cdff2"
+  },
+  "date": "12/16",
+  "lng": "fr",
+  "name": "Sainte Adélaïde Impératrice du Saint Empire"
+},{
+  "_id": {
+    "$oid": "60a42992974c2627658cdff3"
+  },
+  "date": "12/17",
+  "lng": "fr",
+  "name": "Saint Daniel, prophète"
+},{
+  "_id": {
+    "$oid": "60a42992974c2627658cdff4"
+  },
+  "date": "12/17",
+  "lng": "fr",
+  "name": "Saints Ananias, Azarias et Misaël"
+},{
+  "_id": {
+    "$oid": "60a42992974c2627658cdff5"
+  },
+  "date": "12/17",
+  "lng": "fr",
+  "name": "Saint Jean de Matha Fondateur des trinitaires "
+},{
+  "_id": {
+    "$oid": "60a42992974c2627658cdff6"
+  },
+  "date": "12/17",
+  "lng": "fr",
+  "name": "Bienheureux Hyacinthe-Marie Cormier, dominicain"
+},{
+  "_id": {
+    "$oid": "60a42992974c2627658cdff7"
+  },
+  "date": "12/18",
+  "lng": "fr",
+  "name": "Saint Malachie, prophète"
+},{
+  "_id": {
+    "$oid": "60a42992974c2627658cdff8"
+  },
+  "date": "12/18",
+  "lng": "fr",
+  "name": "Saint Gatien de Tours Evêque"
+},{
+  "_id": {
+    "$oid": "60a42992974c2627658cdff9"
+  },
+  "date": "12/19",
+  "lng": "fr",
+  "name": "Bienheureux Urbain V, Pape"
+},{
+  "_id": {
+    "$oid": "60a42992974c2627658cdffa"
+  },
+  "date": "12/19",
+  "lng": "fr",
+  "name": "Saint Anastase, Pape"
+},{
+  "_id": {
+    "$oid": "60a42992974c2627658cdffb"
+  },
+  "date": "12/20",
+  "lng": "fr",
+  "name": "Saint Philogone, évêque d’Antioche"
+},{
+  "_id": {
+    "$oid": "60a42993974c2627658cdffc"
+  },
+  "date": "12/21",
+  "lng": "fr",
+  "name": "Saint Pierre Canisius, prêtre jésuite et docteur de l’Église",
+  "summary": "Premier jésuite hollandais, saint Pierre Canisius, a vécu au XVI è siècle , il est vénéré comme deuxième Apôtre de l’Allemagne après saint Boniface. Ecrivain  fécond, il a été un des artisans du renouvellement spirituel de l’Eglise catholique après le Concile de Trente."
+},{
+  "_id": {
+    "$oid": "60a42993974c2627658cdffd"
+  },
+  "date": "12/21",
+  "lng": "fr",
+  "name": "Saint Michée Prophète"
+},{
+  "_id": {
+    "$oid": "60a42993974c2627658cdffe"
+  },
+  "date": "12/22",
+  "lng": "fr",
+  "name": "Sainte Françoise Xavière Cabrini, vierge, fondatrice des Missionnaires du Sacré-Coeur de Jésus",
+  "summary": "Elle avait compris que la modernité serait marquée par des énormes «migrations» et par des êtres humains «désespérés» dont elle se prit soin. C’est ainsi que fut Sainte Françoise Xavière Cabrini,  selon les paroles du pape François. La mémoire de cette sainte se célèbre le 22 décembre."
+},{
+  "_id": {
+    "$oid": "60a42993974c2627658cdfff"
+  },
+  "date": "12/23",
+  "lng": "fr",
+  "name": "Saint Jean de Kenty, prêtre"
+},{
+  "_id": {
+    "$oid": "60a42993974c2627658ce000"
+  },
+  "date": "12/24",
+  "lng": "fr",
+  "name": "Sainte Tarsile, vierge romaine, tante de saint Grégoire Le Grand"
+},{
+  "_id": {
+    "$oid": "60a42993974c2627658ce001"
+  },
+  "date": "12/24",
+  "lng": "fr",
+  "name": "Sainte Irmine abbesse"
+},{
+  "_id": {
+    "$oid": "60a42993974c2627658ce002"
+  },
+  "date": "12/25",
+  "lng": "fr",
+  "name": "Sainte Anastasie"
+},{
+  "_id": {
+    "$oid": "60a42993974c2627658ce003"
+  },
+  "date": "12/25",
+  "lng": "fr",
+  "name": "Bienheureuse Marie des Apôtres fondatrice des Sœurs du Divin Sauveur "
+},{
+  "_id": {
+    "$oid": "60a42994974c2627658ce004"
+  },
+  "date": "12/26",
+  "lng": "fr",
+  "name": "Saint Étienne, premier martyr",
+  "summary": "Saint Étienne, Protomartyr comme il a été le premier à verser son sang pour le Christ. Il fut élu avec 6 autres diacres en tant que collaborateur des apôtres et mourut lapidé. L'Église le célèbre le 26 décembre. "
+},{
+  "_id": {
+    "$oid": "60a42994974c2627658ce005"
+  },
+  "date": "12/26",
+  "lng": "fr",
+  "name": "Saint Denys de Rome Pape"
+},{
+  "_id": {
+    "$oid": "60a42994974c2627658ce006"
+  },
+  "date": "12/27",
+  "lng": "fr",
+  "name": "Saint Jean, apôtre et évangéliste",
+  "summary": "RESUME\r\nAuteur du 4e Evangile, de trois lettres et de l’Apocalypse, Jean est «l’apôtre bien-aimé». Il est aussi celui, qui, parmi les 12 disciples, a vécu le plus longtemps et l’unique à ne pas mourir martyr; il vécut à Ephèse, en l’actuelle Turquie, ensemble avec Marie que Jésus lui avait confiée."
+},{
+  "_id": {
+    "$oid": "60a42994974c2627658ce007"
+  },
+  "date": "12/27",
+  "lng": "fr",
+  "name": "Sainte Fabiola, veuve romaine, fondatrice du premier hôpital d'Occident"
+},{
+  "_id": {
+    "$oid": "60a42994974c2627658ce008"
+  },
+  "date": "12/28",
+  "lng": "fr",
+  "name": "Saints Innocents, martyrs",
+  "summary": "Ce sont les enfants de Bethléem de moins de deux ans que le roi Hérode fit massacrer pour éliminer l’Enfant Jésus que les prophéties annonçaient comme le Messie et nouveau Roi d’Israël. Ils ont été honorés dès les premiers siècles, et sont célébrés comme Saints Innocents Martyrs le 28 décembre."
+},{
+  "_id": {
+    "$oid": "60a42994974c2627658ce009"
+  },
+  "date": "12/29",
+  "lng": "fr",
+  "name": "Saint Thomas Becket, évêque de Canterbury, martyr",
+  "summary": "D’homme d’Etat au martyre par  amour du Christ et de l’Eglise. Chancelier du roi Angleterre,  Henri II, et devenu évêque de Canterbury, Thomas Becket  contrarie son ami le roi en  défendant la vérité  et la liberté. Il est assassiné  dans sa cathédrale  le 29 décembre 1170."
+},{
+  "_id": {
+    "$oid": "60a42995974c2627658ce00a"
+  },
+  "date": "12/30",
+  "lng": "fr",
+  "name": "Saint Félix 1er, Pape"
+},{
+  "_id": {
+    "$oid": "60a42995974c2627658ce00b"
+  },
+  "date": "12/31",
+  "lng": "fr",
+  "name": "Saint Sylvestre I, pape",
+  "summary": "Saint Sylvestre 1er gouverna l’Eglise avec sagesse pendant une vingtaine d’années au moment où l’empereur Constantin construisit les premières basiliques romaines et que le Concile de Nicée proclama le Christ Fils de Dieu. Il mourut le 31 décembre de l’année 335 et enterré au cimetière de Priscille"
+},{
+  "_id": {
+    "$oid": "60a42995974c2627658ce00c"
+  },
+  "date": "12/31",
+  "lng": "fr",
+  "name": "Saintes Donate, Pauline, Rogate, Dominanda, Sérotine et... martyres à Rome"
+},{
+  "_id": {
+    "$oid": "60a42995974c2627658ce00d"
+  },
+  "date": "12/31",
+  "lng": "fr",
+  "name": "Sainte Mélanie la Jeune, matrone romaine"
+},{
+  "_id": {
+    "$oid": "60a42995974c2627658ce00e"
+  },
+  "date": "12/31",
+  "lng": "fr",
+  "name": "Sainte Famille de Nazareth"
+}]
